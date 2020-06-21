@@ -1,5 +1,6 @@
 ---
 title: "So, here's the plan (for 50K training)"
+permalink: "so-heres-the-plan-for-50k-training/"
 date: 2014-03-19T00:00:00.000Z
 author: Scott Dawson
 summary: tbd
