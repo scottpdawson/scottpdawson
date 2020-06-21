@@ -1,9 +1,9 @@
 ---
 title: "So, here's the plan (for 50K training)"
-date: "2014-03-19"
 permalink: "so-heres-the-plan-for-50k-training"
-coverImageId: "305"
-author: "Scott Dawson"
+date: 2014-03-19T00:00:00.000Z
+author: Scott Dawson
+summary: tbd
 ---
 
 {% cloudimage "50k-training-plan_njptni.jpg", "f_auto", "50k Training Plan" %}
