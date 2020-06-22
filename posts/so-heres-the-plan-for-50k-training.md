@@ -7,7 +7,6 @@ summary: tbd
 tags:
   - test
 ---
-{% cloudimage "50k-training-plan_njptni.jpg", "f_auto", "50k Training Plan" %}
 <img src="/images/50k-training-plan.jpg?nf_resize=fit&w=300&h=400" />
 
 When I signed up on New Year's Day for the July 5 Finger Lakes 50K, I knew I needed a plan to get ready. I quickly found a 50K plan over at [running.competitor.com](http://running.competitor.com/2014/01/training/going-longer-how-to-train-for-your-first-50k_61887) that seemed like it would work well. I calculated backwards that this plan would start the week of March 17 (this week!), but I would be starting at a base of 32-33 miles per week, which I also needed to work up to.
