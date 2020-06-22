@@ -6,7 +6,7 @@ summary: test
 tags:
   - post
 ---
-![](/images/screen-shot-2020-05-18-at-7.21.59-am.png)
+![what is this](/images/screen-shot-2020-05-18-at-7.21.59-am.png?nf_resize=fit&w=400&h=400)
 
 body copy
 
