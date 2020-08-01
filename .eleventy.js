@@ -111,7 +111,7 @@ module.exports = function(eleventyConfig) {
 
     let imageString = '';
     for (i = 0; i < arr.length; i++) {
-      imageString = imageString + `<div class="carousel-cell"><img src="${arr[i].image}?nf_resize=fit&w=1024" title="${arr[i].caption}" /></div>`;
+      imageString = imageString + `<div class="carousel-cell"><img src="${arr[i].image}?nf_resize=fit&h=800" title="${arr[i].caption}" /></div>`;
     }
     return(
       `<div class="main-carousel" data-flickity='{ "fullscreen": true, "wrapAround": "true", "autoPlay": "3000", "pauseAutoPlayOnHover": true }'>${imageString}</div>`
