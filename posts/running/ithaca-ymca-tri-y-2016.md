@@ -1,0 +1,34 @@
+---
+title: "Ithaca YMCA Tri for the Y (2016)"
+date: "2016-05-08"
+permalink: "ithaca-ymca-tri-y-2016/"
+hero: "/images/2016/05/IMG_6167.jpg"
+time: "1:31:08"
+distance: "400/15/4.2"
+overall: ""
+agegroup: "1"
+description: "We signed up for this early-season triathlon to support the Ithaca YMCA, and it's a great race to kick off the season!"
+tags:
+    - race
+    - triathlon
+---
+
+Since Amy and I are stepping up to the intermediate distance for the Cayuga Lake Triathlon this year, I'm taking training a bit more seriously, and have been biking and swimming a lot over the last few weeks, in addition to a pared-back running schedule. We signed up for this early-season triathlon to support the [Ithaca YMCA](http://www.ithacaymca.com/), and it's a great race to kick off the season! The morning dawned with a subpar weather forecast, with race temperatures in the mid-40s. That's really cold (for me) for a bike ride, so I carefully considered what to wear. I chose to swim in tri shorts, add thermal running tights, a long-sleeved tech shirt, windbreaker and gloves for the ride, and then to ditch the gloves and windbreaker for the run. As we pulled into the parking lot, it started to sprinkle lightly, yet it gratefully didn't stick around.
+
+This triathlon starts in the pool with a modest 400 yard swim, followed by a 15-mile bike ride and a 4.2 mile run. There's a max of 12 people in each 15-minute staggered heat, due to the pool capacity. Amy's heat went off at 8:30, after which I had a 45-minute period of hanging out and getting ready for my heat. I found one of the few guys I knew in my heat, [Adrian Western,](http://www.cayugamed.org/SMcontent.cfm?profileID=23&serviceID=95) and told him something I'd thought of when I learned we'd be swimming together: I asked if we could share a lane, since I wanted to have the lane to myself for part of the swim. He's a really competitive triathlete, and I knew he'd be getting out before me! I plunged into my lane, got my swim cap on and went to put on my goggles. The strap _snapped off_ and I was holding a broken pair of goggles! Luckily, I was able to snap it back together, as the plastic had not broken. _Whew._ After we did a few warmup laps, Adrian and I talked before getting started.
+
+{% pictureRt "/images/2016/05/tequila-shot-cinco-de-mayo-her-sweat.jpg", "" %}
+
+Hey, this water is kind of briny. It's like a chlorine/brine combo. You know what would be really cool? They could have tequila shots at one end of the pool, limes at the other, and we'd have our salt during the swim. Then by the time we're done we'd really be **ready** for the cold bike.
+
+We were having fun, like an opener trying to warm up a comedy club crowd before they hit the 2 drink minimum. Or rather, like trying to warm up our bodies in a cold room. He said he heard it was really, really hot outside. I said they were pulling people off the course for heatstroke. We spread the word up and down the line that it'd be important for people to keep hydrating, and to especially watch their electrolyte levels. That's really important, you know, when it's 40.
+
+Enough playful witty pre-race banter. It was time! For the first 2 of 8 laps of the swim, I kept up with Adrian. I realized quickly that this would not be a good long-term strategy, and held back a few seconds at the far end of the 3rd lap. I focused my efforts on recalling what [Shane](https://kaizen-durance.com/) had taught me during Total Immersion, and found myself calming, focusing on my strokes and gliding. I was at the far end of the pool as Adrian exited, so I was about 25 yards behind him. Not bad. I finished the swim in 6:56, good for 18th of 86 racers and a solid improvement over my only other go at this triathlon in 2008, where I notched a 9:14.
+
+Ours was quite a competitive heat, and it seemed that we all exited the pool at roughly the same time. We were all fighting the cold of the parking lot to transition to biking, but I had quite the wardrobe change to accomplish with cold, wet skin. I got it done fast enough, and was eager to get out on the bike course. It felt so good to get my legs moving, and soon I was cruising through the back roads near the airport and further east. At about mile 3, I got passed by [Craig McManus](https://www.strava.com/athletes/274797), who shouted some words of encouragement as he passed. He'd be the only one who passed me on the ride, which I was really happy about. The 7th mile was an unrelenting uphill section, and I found myself standing most of that time, trying to keep a good pace but also get through it quickly. Turning westward again, gravity was my friend but the wind was not, and I was grateful to have a windbreaker. I made my body as small as possible, and managed to enjoy some good stretches in the mid-20 mph range during the second half. I cruised into transition after enjoying some fast sections of Warren, Cherry and Triphammer with a time of 52:53, 11th of 86. In 2008, the same ride (different bike, a _mountain bike_) with Amy took 1:23:41. I didn't mention the bike yet - Amy and I upgraded our bikes this year, and I got a Giant Defy Advanced 2. Anthony and the crew at [Cayuga Ski and Cyclery](http://cayugaskiandcyclery.com/) were great, both with our new purchases and with making sure the kids were fit well onto their hand-me-down and second-hand bikes.
+
+I felt really good heading out for the run, opting to leave my tights on. My watch wasn't picking up satellites for some odd reason, so I only have data from after the first quarter mile. I made good time on the uphill stretch, and once I turned left onto Warren, I settled into a good pace, right around 7-minute miles. Ironically I managed to pass Craig again, which got me thinking about one of the cool parts of this race, that everyone has their strengths. I've been running a lot through the winter and this spring with half marathons, and it showed. I ended up passing a lot of people on the run, including some from the prior heat. My bike and swim can get better with time, but when you combine the three events, it equalizes things just a bit. Everyone was so friendly, by the way, racers and volunteers alike. Another reason I LOVE racing - it's socially a very good time. I finished the run quite out of breath but with a lot left in my legs had I slowed a bit, ending up with a run time of 31:19, 8th of 86. In 2008, Amy and I ran together in a 52:21.
+
+Amy and I quickly got cleaned up to head back home to a Mother's Day celebration, but not before enjoyed some post-race food and talking with friends. Definitely a fun race to start off the season! Overall, I had a time of 1:31:08 _(about 55 minutes faster than 2008)_ and won a medal for 1st in the M 40-44 age group. I'm pretty excited for Cayuga Lake Triathlon, and the upcoming training on my calendar!
+
+**Related:** [Read Amy's race report over at skirtrunner.com](http://skirtrunner.com/race-report/tri-y-2016/)

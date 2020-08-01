@@ -1,0 +1,13 @@
+---
+title: "Week in Review: May 5-11 (50 miles)"
+date: "2014-05-12"
+permalink: "week-in-review-may-5-11/"
+hero: "/images/2014/05/Screen-Shot-2014-05-10-at-7.37.06-PM.png"
+description: "This week’s mileage put me at 49.8, so let’s just call it 50 for a dramatic headline, shall we? My running week started Tuesday with a timed run from Ithaca on the Black Diamond trail, and it was really fun: my first time on this trail."
+---
+
+This week’s mileage put me at 49.8, so let’s just call it 50 for a dramatic headline, shall we? My running week started **Tuesday** with a timed run from Ithaca on the Black Diamond trail, and it was really fun: my first time on this trail. I planned to come back to it, which I did on the weekend (with a vengeance). Hill repeats on **Wednesday** (8x500), for which I was grateful to have a watch that would do counting for me, since basic math goes out the window when my heart rate passes 160. **Thursday’s** timed run of 1:15 rounded out the weekday runs, and I admit … I was NERVOUS about the weekend. My longest training run yet - 22 miles!
+
+For **Saturday**, I planned a route from my house, down Rabbit to the Black Diamond trailhead at Taughannock, and then Black Diamond all the way to Ithaca. Easy, right? Reverse it for 22, and it was a plan. Things did not bode well when my shoelace broke as I was getting ready, but a quick square knot did the trick. New shoes are next on my list! The run to Taughannock was great, but then the first mile of the Black Diamond trail was mostly mud. I promptly soaked my shoes, and regretted that later on in the run when I had some issues with pain in the sole of my foot. Turns out my feel got all waterlogged (like when you've been in the pool too long) and got creased, which hurt (oh, the pain!) I actually took my shoe off at one point 'cause I thought I was bleeding. The stones from the old rail bed are HUGE in spots, making footing tricky, too. Oh, one more thing. I screwed up my nutrition somehow, and the last few miles were unbearable and then I really had a problem with my stomach at home. I couldn't bring myself to eat dinner, so opted for a banana and ice water instead. My own little post-race aid station! So ... I learned some things to not repeat for my next long run, but I'm SO glad I was able to do this distance. Mechanically, all is well.
+
+**Sunday** I went out for my plan’s medium-effort hour-long run, which went surprisingly well in spite of Saturday’s pain. I wore my singlet due to the heat, and it put a big smile on my face. For the next 6 weeks, I alternate between step back weeks of 16 miles on the weekend with increasing the distance four more miles, first to 24 and then to 26. And THEN, the taper for July 5th’s 50K!

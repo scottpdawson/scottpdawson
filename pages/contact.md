@@ -1,15 +1,9 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Get in Touch
 section: contact
-date: 2018-01-01
 permalink: /contact/index.html
-eleventyNavigation:
-  key: Contact
-  order: 3
+hero: "/images/pumped.jpg"
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in the connected Netlify account where
-notifications can optionally be configured. Each submission is passed through a
-spam filter and if flagged, will display a CAPTCHA challenge to the user.
+
+<p class="page-hed" style="margin-top: 30px;">Can you tell <em>I'm pumped</em> that you want to get in touch? I am.</p>

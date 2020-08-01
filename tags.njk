@@ -9,16 +9,13 @@ pagination:
     - post
     - posts
 permalink: /tags/{{ tag }}/
-layout: layouts/base.njk
-renderData:
-  title: "Tagged “{{ tag }}”"
+layout: layouts/page.njk
+eleventyComputed:
+  title: "Posts Tagged as '{{ tag }}'"
+  description: "Scott Dawson's posts tagged as '{{ tag }}.' Scott waxes poetic about web design, development, running, singing, playing, and generally making a ruckus."
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<p class="page-hed"><em>Ah, tags.</em> What a great way to narrow down what you're looking for!</p>
 
 {% set postslist = collections[ tag ] %}
 {% include "components/postslist.njk" %}
-
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>

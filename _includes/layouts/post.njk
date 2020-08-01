@@ -4,28 +4,43 @@ section: post
 ---
 
 <article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by <a href="/authors/{{ author | slug }}/">{{ author }}</a>
-    </small>
-  </p>
+  {% if (hero) %}
+  <img class="page-hero" src="{{ hero | heroImage }}" />
+  {% endif %}
 
-  {{ layoutContent | safe }}
+  {{ content | safe }}
 
   {% if tags %}
-    <p>
+    <div class="relatedTags">
+    <i class="fas fa-tag" data-fa-transform="rotate-115"></i> 
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        <a href="{{ tagUrl | url }}" rel="tag">#{{ tag }}</a> 
       {%- endif -%}
     {% endfor %}
-    </p>
+    </div>
+  {% endif %}
+
+  {% if navigation %}
+    
+    {% set collectionName %}{{ navigation.toLowerCase() }}Posts{% endset %}
+    {% set collectionSize %}{{ collections[collectionName].length }}{% endset %}
+
+    <div class="relatedPosts">
+      <h3>Related Posts</h3>
+      <p>There are <a href="/{{ navigation.toLowerCase() | url }}/">{{ collectionSize - 1 }} 
+      other posts like this one</a>. Here are some other recent ones:</p>
+      <ul class="l-grid post-grid">
+        {% set relatedPostsOutput = 0 %}
+        {%- for item in collections[collectionName] | reverse -%}
+        {% if relatedPostsOutput < 3 and item.url.slice(1) != permalink %}
+        {% include '_includes/components/post-teaser.njk' %}
+        {% set relatedPostsOutput = relatedPostsOutput + 1 %}
+        {% endif %}
+        {%- endfor -%}
+      </ul>
+    </div>
   {% endif %}
 
 </article>
-
-<nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
-</nav>

@@ -1,23 +1,51 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
-
 	{% include "components/head.njk" %}
-
 	<body>
-
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
-		</header>
-
-		<main>
-			{{ layoutContent | safe }}
-		</main>
-
-		{% include "components/footer.njk" %}
-
+		<div class="sidebar">
+			<header>
+				<div class="solid-header">
+					{% include "components/nav.njk" %}
+					{% include "components/search.njk" %}
+					{% if date %}
+						<p class="by-line">{{ date | momentDate }}</p>
+					{% endif %}
+					<div class="page-details">
+						<div class="h1caret"></div>
+						<h1>{{ title }}</h1>
+						{% if tags %}
+							<p class="tags">
+							{% for tag in tags %}
+								{% if tag !== "post" %}
+									{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+									<a href="{{ tagUrl | url }}" rel="tag">#{{ tag }}</a>
+								{% endif %}
+							{% endfor %}
+							</p>
+						{% endif %}
+					</div>
+				</div>
+			</header>
+		</div>
+		<div class="main">
+			<div class="container">
+				<main>
+					{{ content | safe }}
+				</main>
+			</div>
+			{% include "components/footer.njk" %}
+		</div>
+		<div class="lightbox">
+			<div class="title"></div>
+			<div class="filter"></div>
+			<div class="arrowr"></div>
+			<div class="arrowl"></div>
+			<div class="close"></div>
+		</div>
+		<div class="search-ui invisible">
+			<button id="search-close"><i class="fas fa-times" title="Done"></i></button>
+			<input type="search" id="search-str" class="search-str" placeholder="search this site" />
+			<ol class="search-results"></ol>
+		</div>
 	</body>
-
 </html>

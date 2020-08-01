@@ -1,0 +1,5 @@
+<li onClick="location.href='{{ item.url }}'" {% if (item.data.hero) %}style="background-image: url({{ item.data.hero | galleryImage }})"{% endif %}>  
+  <p class="date">{{ item.date | momentDate }}</p>
+  <h2><a href="{{ item.url }}">{{ item.data.title | safe }}</a></h2>
+  <div class="post-desc">{{ item.data.description | safe }}</div>
+</li>

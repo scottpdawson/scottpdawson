@@ -2,14 +2,50 @@
   <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or renderData.title or metadata.title }}</title>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link href="/_includes/assets/fa/css/all.css" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&family=Special+Elite&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+  <title>{%- if title !== 'Welcome' -%}{{ title }} | Scott Dawson{%- else -%}Scott Dawson{%- endif -%}</title>
+  {% set meta_description %}
+    {%- if description -%}{{ description }}{%- else -%}Scott Dawson's web site, where he waxes poetic about web design, development, running, singing, playing, and generally making a ruckus.{%- endif -%}
+  {% endset %}
+  <meta name="description" content="{{ meta_description }}"/>
+  <link rel="alternate" href="/feed.xml" title="Scott Dawson blog feed, by Scott Dawson" type="application/atom+xml">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@scottpdawson" />
+  <meta name="twitter:creator" content="@scottpdawson" />
+  <meta property="og:url" content="https://www.scottpdawson.com/" />
+  <meta property="og:title" content="Scott Dawson" />
+  <meta property="og:description" content="{{ meta_description }}"/>
+  {%- if hero -%}
+  <meta property="og:image" content='https://scottpdawson.com{{ hero }}?nf_resize=smartcrop&w=1200&h=630' />
+  <meta property="og:image:width" content='1200' />
+  <meta property="og:image:height" content='630' />
+  {%- endif -%}
+  <link rel="icon" type="image/png" sizes="512x512"  href="/static/img/android-chrome-512x512.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/static/img/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-icon-180x180.png">
+  <script defer src="/_includes/assets/fa/js/all.js"></script>
+  <script defer src="/_includes/assets/js/search.js"></script>
+  <script defer src="/_includes/assets/js/flickity.pkgd.min.js"></script>
+  <script defer src="/_includes/assets/js/fullscreen.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
+    {% include "assets/css/flickity.min.css" %}
+    {% include "assets/css/fullscreen.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
+  {# <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3965818-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-3965818-2');
+  </script> #}
 </head>

@@ -1,0 +1,41 @@
+<h3>Compared to Other Years: Sprint Distance</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Overall</th>
+      <th>Swim</th>
+      <th>T1</th>
+      <th>Bike</th>
+      <th>T2</th>
+      <th>Run</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for tri in sprintTriathlonResults -%}
+    <tr {%- if date | momentYear == tri.year %} class="current" {%- endif -%}>
+      <td><a href="/{{ tri.url | url }}/">{{ tri.year }}</a></td>
+      <td>{{ tri.time }}</td>
+      <td>
+        {%- if tri.strava_swim -%}
+          <a href="https://www.strava.com/activities/{{ tri.strava_swim }}/overview">{{ tri.swim }}</a>
+        {%- else -%}
+          {{ tri.swim }}
+        {%- endif -%}
+        <br />({{ tri.pace_swim }} per 100)
+      </td>
+      <td>{{ tri.t1 }}</td>
+      <td>
+        <a href="https://www.strava.com/activities/{{ tri.strava_bike }}/overview">{{ tri.bike }}</a>
+        <br />({{ tri.pace_bike }} avg mph)
+      </td>
+      <td>{{ tri.t2 }}</td>
+      <td>
+        <a href="https://www.strava.com/activities/{{ tri.strava_run }}/overview">{{ tri.run }}</a>
+        <br />({{ tri.pace_run }} per mile)
+      </td>
+    </tr>
+    {%- endfor -%}
+  </tbody>
+</table>

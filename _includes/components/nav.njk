@@ -1,10 +1,32 @@
-<nav>
-  {% set navPages = collections.all | eleventyNavigation %}
-  <ul>
-  {%- for entry in navPages %}
-    <li>
-      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} data-current="current item"{% endif %}>{{ entry.title }}</a>
-    </li>
-  {%- endfor %}
-  </ul>
-</nav>
+<div class="about">
+  <a href="/"><img src="/static/img/scott_dawson.jpg" class="avatar" title="Scott Dawson" /></a>
+  <p>
+    <b>Hi.</b> I'm Scott Dawson. I'm a UX designer and front-end developer based in upstate New York.
+  </p>
+  <a href="/search" id="search-link"><i class="nav-icon fas fa-search" title="Search this site"></i></a>
+  <a href="/contact" id="contact-link"><i class="nav-icon fas fa-envelope" title="Contact Scott Dawson"></i></a>
+  <nav>
+    {% set navPages = collections.all | eleventyNavigation %}
+    <ul class="nav">
+    {%- for entry in navPages %}
+      <li>
+        <a href="{{ entry.url | url }}"{% if entry.url == page.url or navigation == entry.title %} class="active"{% endif %}>
+          <i class="nav-icon 
+          {% if entry.title == "Welcome" %}fas fa-home{% endif %}
+          {% if entry.title == "Design" %}fas fa-swatchbook{% endif %}
+          {% if entry.title == "Develop" %}fas fa-code-branch{% endif %}
+          {% if entry.title == "Run" %}fas fa-running{% endif %}
+          {% if entry.title == "Swim" %}fas fa-swimmer{% endif %}
+          {% if entry.title == "Act" %}fas fa-theater-masks{% endif %}
+          {% if entry.title == "Hike" %}fas fa-hiking{% endif %}
+          {% if entry.title == "Sing & Play" %}fas fa-guitar{% endif %}
+          {% if entry.title == "Write" %}fas fa-pencil-alt{% endif %}
+          {% if entry.title == "Muse" %}fas fa-microphone-alt{% endif %}
+          "></i>
+          <span class="nav-title">{% if entry.title != "Welcome" %}{{ entry.title }}{% endif %}</span>
+        </a>
+      </li>
+    {%- endfor %}
+    </ul>
+  </nav>
+</div>
