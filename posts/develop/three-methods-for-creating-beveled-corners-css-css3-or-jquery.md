@@ -17,15 +17,15 @@ Below, I have three sample implementations to show the same effect using jQuery 
 
 ## jQuery Corner
 
-<iframe style="width: 100%; height: 300px;" src="http://jsfiddle.net/spdawson/nxnCD/embedded/result,js,html,css/" width="320" height="240" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/spdawson/nxnCD/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ## CSS Borders
 
-<iframe style="width: 100%; height: 300px;" src="http://jsfiddle.net/spdawson/HhZQe/embedded/result,html,css/" width="320" height="240" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/spdawson/HhZQe/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ## CSS3 Gradients
 
-<iframe style="width: 100%; height: 300px;" src="http://jsfiddle.net/spdawson/3Tc8S/embedded/result,html,css/" width="320" height="240" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="//jsfiddle.net/spdawson/3Tc8S/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ## In Summary
 
