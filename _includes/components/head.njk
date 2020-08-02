@@ -41,11 +41,11 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
-  {# <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3965818-2"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3965818-2"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-3965818-2');
-  </script> #}
+  </script>
 </head>
