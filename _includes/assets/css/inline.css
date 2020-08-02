@@ -64,10 +64,12 @@ header .tags {
 	top: 0;
 }
 .main {
-	background-color: #fff
+	background-color: #fff;
+	width: 85%;
+	margin: 0 auto;
 }
 .container {
-	width: 80%;
+	width: 100%;
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto
@@ -436,6 +438,9 @@ form label, form input, form textarea {
 form input, form textarea {
 	margin-bottom: 20px;
 }
+.rt {
+	position: relative;
+}
 
 @media (min-width:1230px) {
 	body {
@@ -502,7 +507,6 @@ form input, form textarea {
 		width: 300px;
 		float: right;
 		margin: 0px -100px 30px 30px;
-		position: relative;
 	}
 	.rt img {
 		transform: rotate(2.5deg);
@@ -658,6 +662,10 @@ transform: translate(-50%, -50%) rotate(45deg);
 
 .l-grid.post-grid li:hover {
 	cursor: pointer;
+}
+
+.l-grid.post-grid li.lazy {
+	background-image: none !important;
 }
 
 .post-grid > li {

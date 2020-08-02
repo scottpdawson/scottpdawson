@@ -16,7 +16,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("heroImage", img => {
-    return img + '?nf_resize=fit&w=723';
+    return img + '?nf_resize=smartcrop&w=723&h=560';
   });
   
   eleventyConfig.addFilter("contentImage", img => {
@@ -111,7 +111,14 @@ module.exports = function(eleventyConfig) {
 
     let imageString = '';
     for (i = 0; i < arr.length; i++) {
-      imageString = imageString + `<div class="carousel-cell"><img src="${arr[i].image}?nf_resize=fit&h=800" title="${arr[i].caption}" /></div>`;
+      imageString = imageString + `<div class="carousel-cell">
+        <img 
+          class="lazy" 
+          src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 800'%3E%3C/svg%3E" 
+          data-src="${arr[i].image}?nf_resize=fit&h=800" 
+          title="${arr[i].caption}" 
+          title="${arr[i].caption}" />
+      </div>`;
     }
     return(
       `<div class="main-carousel" data-flickity='{ "fullscreen": true, "wrapAround": "true", "autoPlay": "3000", "pauseAutoPlayOnHover": true }'>${imageString}</div>`

@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link href="/_includes/assets/fa/css/all.css" rel="stylesheet">
+  <link rel="preconnect" href="//fonts.gstatic.com/" crossorigin>
   <link href="//fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&family=Special+Elite&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
   <title>{%- if title !== 'Welcome' -%}{{ title }} | Scott Dawson{%- else -%}Scott Dawson{%- endif -%}</title>
   {% set meta_description %}
@@ -43,9 +44,11 @@
   <script>{{ js | jsmin | safe }}</script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3965818-2"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  if (document.location.hostname.search("scottpdawson.com") !== -1) {
+  window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'UA-3965818-2');
+  }
   </script>
 </head>
