@@ -339,7 +339,7 @@ article li p {
     width: 100%;
     height: 100%;
     top: 0;
-    background: #ffffffa3;
+    background: #ffffffdd;
     backdrop-filter: blur(10px);
 	z-index: 1;
 	padding: 3em;
