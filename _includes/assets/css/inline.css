@@ -439,7 +439,23 @@ form input, form textarea {
 	margin-bottom: 20px;
 }
 .rt {
+	clear: both;
 	position: relative;
+}
+.readingTime {
+	font-size: .85em;
+    color: #666;
+    background: #efefef;
+    padding: 0px 14px;
+    border-radius: 4px;
+    top: -17px;
+    padding-top: 10px;
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    margin-bottom: -17px;
 }
 
 @media (min-width:1230px) {
@@ -496,6 +512,11 @@ form input, form textarea {
 	}
 	.carousel-cell {
 		height: 370px;
+	}
+	.readingTime {
+		float: right;
+		margin-top: -8px;
+		width: auto;
 	}
 }
 @media (min-width:800px) {

@@ -139,6 +139,9 @@ module.exports = function(eleventyConfig) {
   const pluginRss = require("@11ty/eleventy-plugin-rss");
   eleventyConfig.addPlugin(pluginRss);
 
+  const readingTime = require('eleventy-plugin-reading-time');
+  eleventyConfig.addPlugin(readingTime);
+
   eleventyConfig.addShortcode("picture", require("./utils/picture.js"));
   eleventyConfig.addShortcode("pictureRt", require("./utils/pictureRt.js"));
   eleventyConfig.addShortcode("pictureRtSm", require("./utils/pictureRtSm.js"));
