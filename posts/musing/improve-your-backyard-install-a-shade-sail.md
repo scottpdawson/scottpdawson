@@ -52,4 +52,4 @@ We like to entertain outside, and thought some globe string lights would be a ni
 
 Well, after a few seasons of shade sail use, I have a lesson to share. Don't use the nylon rope! It just doesn't hold up. Despite not having it outside in the winter, it frayed and snapped this spring. I also had a turnbuckle fail on me, mostly because I think it was too small and the screw threads just plain failed. So ... I've updated the connections to the house to a) remove the spring (there's enough slack in the sail given the distance to the far posts and b) replacing all connections with metal (substantial turnbuckles and S-hooks). With these improvements, the sail is looking better than ever!
 
-{% picture "/images/2015/10/IMG_E0794.jpg", "" %}
+{% picture "/images/2015/10/IMG_E0794.jpg", "Don't use the nylon rope!" %}
