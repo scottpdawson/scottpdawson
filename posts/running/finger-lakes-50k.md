@@ -1,5 +1,5 @@
 ---
-title: "Finger Lakes 50K"
+title: "Finger Lakes 50K 2014"
 date: "2014-07-05"
 permalink: "finger-lakes-50k/"
 hero: "/images/2014/07/IMG_1435.jpg"

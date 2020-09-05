@@ -99,10 +99,10 @@ eleventyNavigation:
 {%- endfor -%}
 </ul>
 
-## Running Commentary
+## Non-Race Running Commentary
 
 <ul>
-{%- for post in collections.all | has_tag("data.tags", "running commentary") -%}
+{%- for post in collections.nonRaceRunPosts | has_tag("data.tags", "running commentary") -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
@@ -112,7 +112,15 @@ eleventyNavigation:
 All of my workouts are over on [Strava](https://www.strava.com/athletes/6904418), but some were quite special, so I wrote about 'em:
 
 <ul>
-{%- for post in collections.all | has_tag("data.tags", "notable runs") -%}
+{%- for post in collections.nonRaceRunPosts | has_tag("data.tags", "notable runs") -%}
   <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
+</ul>
+
+## Other Running-Related Posts
+
+<ul class="post-list">
+  {%- for item in collections.nonRaceRunPosts | lacks_tag("data.tags", "notable runs") | lacks_tag("data.tags", "running commentary") | reverse  -%}
+  {% include '_includes/components/post-teaser-condensed.njk' %}
+  {%- endfor -%}
 </ul>

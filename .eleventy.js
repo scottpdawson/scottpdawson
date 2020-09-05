@@ -66,9 +66,19 @@ module.exports = function(eleventyConfig) {
     return minified.code;
   });
 
+  eleventyConfig.addCollection("allPosts", (collection) =>
+    collection.getFilteredByGlob("posts/*/*.md")
+  );
 
   eleventyConfig.addCollection("runPosts", (collection) =>
     collection.getFilteredByGlob("posts/running/*.md")
+  );
+
+  eleventyConfig.addCollection("nonRaceRunPosts", (collection) =>
+    collection.getFilteredByGlob("posts/running/*.md").filter( item => {
+      // return only if distance is not there
+      return ( !item.data.distance ? item : false );
+    })
   );
 
   eleventyConfig.addCollection("hikePosts", (collection) =>

@@ -5,7 +5,7 @@ permalink: "finger-lakes-50k-2015/"
 hero: "/images/2015/07/muddy_me.jpg"
 description: "Well, that's my first drop! I made it through 7.25 miles of this beast of a course before prudence won out in my mind."
 time: "DNF"
-distance: ""
+distance: "50 km"
 overall: ""
 agegroup: ""
 tags:

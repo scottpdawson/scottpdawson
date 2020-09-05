@@ -17,22 +17,21 @@ Me, in introductory bullet form:
 - I write most often about fitness. If you've raced with me, either running or triathlon, you know that I enjoy writing the post-race report just as much as racing! See my [race schedule](/race-schedule/) for details, and enjoy my [running](/run/), [swimming](/swim/) and [hiking](/hike) posts. I track my workouts on [Strava](https://www.strava.com/athletes/6904418). Amy writes about her fitness exploits at [skirtrunner.com](http://skirtrunner.com/). She's a middle school teacher and built a [pretty comprehensive site for her middle school math classes](https://mathista.org). 
 - If you're familiar with upstate New York, you may have heard about Taughannock Falls State Park. Taughannock is the tallest single-drop waterfall east of the Rocky Mountains. I love the park so much, I built a web site about it at [taughannock.us](http://taughannock.us).
 
-If were were stuck in an elevator for more than a few minutes, I'd share these special projects with you to pass the time. 
+<h2>Most Recent Posts</h2>
 
 <ul class="l-grid post-grid">
-  {%- for item in collections.all | has_tag("data.tags", "featured") | reverse  -%}
+  {%- for item in collections.allPosts | reverse  -%}
   {% if loop.index <= 3 %}
   {% include '_includes/components/post-teaser.njk' %}
   {% endif %}
   {%- endfor -%}
 </ul>
 
-<h2>More Cool Stuff</h2>
+If were were stuck in an elevator for more than a few minutes, I'd also share these _featured posts_ with you to pass the time. 
+
 <ul class="post-list">
   {%- for item in collections.all | has_tag("data.tags", "featured") | reverse  -%}
-  {% if loop.index > 3 %}
   {% include '_includes/components/post-teaser-condensed.njk' %}
-  {% endif %}
   {%- endfor -%}
 </ul>
 
