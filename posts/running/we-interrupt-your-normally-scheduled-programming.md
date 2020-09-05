@@ -12,7 +12,7 @@ Since that day after I lay under a tree at the end of the Black Diamond Trail, a
 
  - Daily pushups and situps based on my age _(going strong after 1,846 and 796 days, respectively)_
  - Rowing 4x per week, 10 minutes per session, watching vintage Twilight Zone episodes _(appropriate, right?)_
- - Starting and ending my work weeks with a walk
+ - [Starting and ending my work weeks with a walk](/walking-to-bookend-the-work-week/)
  - Weekend lattes in my front yard with Amy
  - Running a ton of mileage with no race in sight
 
