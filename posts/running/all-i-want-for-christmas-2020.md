@@ -10,7 +10,7 @@ tags:
     - training
 ---
 
-After [taking a week off after my 13-week Memorial Day to Labor Day sprint](/we-interrupt-your-normally-scheduled-programming/), my body was calling for me to do something new. Without a race on the horizon due to the pandemic, I figured I'd jump into a plan and see what materialized. I've used the [Run Less, Run Faster](https://www.amazon.com/Runners-World-Less-Faster-Revolutionary/dp/159486649X) half marathon plans before, so when I calculated out where a 16-week plan would land, it put me squarely at the end of Christmas week. So, I plan to give myself an awesome gift at the end of the plan: a (hopefully) fast half marathon on a homemade course of my chooosing!
+After [taking a week off after my 13-week Memorial Day to Labor Day sprint](/we-interrupt-your-normally-scheduled-programming/), my body was calling for me to do something new. Without a race on the horizon due to the pandemic, I figured I'd jump into a plan and see what materialized. I've used the [Run Less, Run Faster](https://www.amazon.com/Runners-World-Less-Faster-Revolutionary/dp/159486649X) half marathon plans before, so when I calculated out where a 16-week plan would land, it put me squarely at the end of Christmas week. So, I plan to give myself an awesome gift at the end of the plan: a (hopefully) fast half marathon on a homemade course of my choosing!
 
 I'm going to keep track of my workouts week-by-week below. There are three hard runs per week (that's the "run less" part of this plan). It'll be a fun way to look back and see how I was feeling during this tough, yet effective, plan. I'm not going to log my 4x weekly rowing sessions, or walks and hikes. I _will_ log things that get my heart rate going or really put a stress on my muscles.
 
