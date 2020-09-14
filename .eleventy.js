@@ -38,6 +38,59 @@ module.exports = function(eleventyConfig) {
     return moment.utc(dateObj).format('YYYY');
   });
 
+  eleventyConfig.addFilter("momentDay", dateObj => {
+    return moment.utc(dateObj).format('D');
+  });
+
+  eleventyConfig.addFilter("momentMonth", dateObj => {
+    return moment.utc(dateObj).format('MMM');
+  });
+
+  eleventyConfig.addFilter("mmToHHMM", num => {
+    var hours = Math.floor(num / 60);  
+    var minutes = num % 60;
+    return hours + ":" + minutes;    
+  });
+
+  eleventyConfig.addFilter("weekNumberFor2020HMP", dateObj => {
+    let startDate = moment.utc("2020-09-07");
+    let thisDate = moment.utc(dateObj);
+    return thisDate.diff(startDate, 'weeks') + 1;
+  });
+
+  eleventyConfig.addFilter("totalRunMiles", collection => {
+    let totalRunMiles = 0;
+    collection.forEach((item) => {
+      if (item.type == "Run") {
+        totalRunMiles += item.miles;
+      }
+    });
+    return totalRunMiles;
+  });
+
+  eleventyConfig.addFilter("totalRunMinutes", collection => {
+    let totalRunMinutes = 0;
+    collection.forEach((item) => {
+      if (item.type == "Run") {
+        totalRunMinutes += item.minutes;
+      }
+    });
+    return totalRunMinutes;
+  });
+
+  eleventyConfig.addFilter("getWeekArrayFor2020HMP", collection => {
+    let weekArray = [];
+    collection.forEach((item) => {
+      let startDate = moment.utc("2020-09-07");
+      let thisDate = moment.utc(item.date);
+      let weekNumber = thisDate.diff(startDate, 'weeks') + 1;
+      if (!weekArray.indexOf(weekNumber) !== -1) {
+        weekArray.push(thisDate.diff(startDate, 'weeks') + 1);
+      }
+    });
+    return [...new Set(weekArray)];
+  });
+
   eleventyConfig.addFilter("getYearArray", collection => {
     let yearArray = [];
     collection.forEach((item) => {

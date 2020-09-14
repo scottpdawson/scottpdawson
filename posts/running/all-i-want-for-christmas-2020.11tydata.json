@@ -1,0 +1,73 @@
+{
+    "hmTraining": [
+        {
+            "date": "2020-09-07",
+            "type": "Ride",
+            "title": "Group Ride to Sheldrake",
+            "miles": 32.31,
+            "minutes": 142,
+            "strava": 4026995299,
+            "description": "Labor Day. Amy and I joined a group ride from the Farmer’s Market, heading to Sheldrake and back on country roads. We were rushed getting there after a failed attempt to lunch at Viva (they were closed), so I wolfed a slice of pizza as we rode to meet the group."
+        },{
+            "date": "2020-09-08",
+            "type": "Run",
+            "title": "Track Repeats",
+            "miles": 6.62,
+            "minutes": 53,
+            "strava": 4029927425,
+            "description": "12 x 400 w/ 90s RI. First day of the 16-week plan. Happily headed to the HS track, but stymied by the group of girls walking around it. Obviously, some kind of team practice was messing with my plan. Still, heading to the streets for these repeats got the job done. This felt really tough, but doable."
+        },{
+            "date": "2020-09-09",
+            "type": "Weight",
+            "title": "BodyPump 113 Express",
+            "miles": 6.62,
+            "minutes": 41,
+            "strava": 4037192275,
+            "description": "Tough release with impossible choreography for the lunge track."
+        },{
+            "date": "2020-09-10",
+            "type": "Run",
+            "title": "Tempo Run",
+            "miles": 6.04,
+            "minutes": 43,
+            "strava": 4039214540,
+            "description": "2 mi easy, 3 mi @ ST (6:21 goal), 1 mi easy. Hit 6:18, 6:28 and 6:11 for the fast miles. Yeah!"
+        },{
+            "date": "2020-09-11",
+            "type": "Combat",
+            "title": "BodyCombat",
+            "miles": 0,
+            "minutes": 52,
+            "strava": 4043927867,
+            "description": "Release #76 has some really great combinations in it! I listed the releases I’ve done before so I won’t be repeating anytime soon. There’s a ton of ‘em on demand."
+        },{
+            "date": "2020-09-12",
+            "type": "Run",
+            "title": "Long Run",
+            "miles": 8.04,
+            "minutes": 54,
+            "strava": 4048787464,
+            "description": "Long run day called for 7-minute miles. It was nice and cool out in the morning, so I hit the pace a little hard in the beginning and just held on! Ended up with a 6:45 overall with pretty even splits."
+        },{
+            "date": "2020-09-13",
+            "type": "Ride",
+            "title": "Choose Your Own Adventure",
+            "miles": 15.35,
+            "minutes": 57,
+            "strava": 4053999428,
+            "description": "Calves felt really tight after this week's runs, so I really looked forward to getting this bike ride done for therapeutic reasons. It was a nice stretch of the legs and nice cool temperatures for a ride."
+        },{
+            "date": "2020-09-13",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4055911554,
+            "description": "I love the mixes that Chantelle puts together. Virtual with a live instructor is bested only by the energy of a live class!"
+        },{
+            "date": "2020-09-13",
+            "type": "Wrap",
+            "description": "It was a delightful week of fitness, but carried with it the stresses and preparation for back-to-school. Soon we'll be into our new-new-normal as our routines adjust, yet again. I'm feeling good physically, though, so bring on Week 2."
+        }
+    ]
+}

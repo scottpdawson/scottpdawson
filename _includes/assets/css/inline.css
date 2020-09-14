@@ -868,3 +868,114 @@ p code {
 	}
 	.about, iframe, .eleventy-plugin-vimeo-embed, article img, .stickyNote, .lightbox-group, .relatedTags, .relatedPosts { display: none }
 }
+.trainingTable td, .trainingTable th {
+	border: 0;
+	position: relative;
+	padding: .5rem;
+}
+.trainingTable .metrics {
+	text-align: right;
+	white-space: nowrap;
+	line-height: 1.2em;
+    font-size: .95em;
+}
+.trainingTable .metrics svg {
+	font-size: .9em;
+}
+.trainingTable tr:not(.workoutRun):not(.workoutWrap) {
+	color: #484848;
+}
+.trainingTable tr.workoutWrap {
+    border: 1px dashed #5579a4;
+    border-left: 0;
+    border-right: 0;
+	background: #e0eeff;
+}
+.trainingTable tr.workoutWrap td {
+	line-height: 1.2em;
+    font-size: .95em;
+}
+.trainingTable tr.workoutRun {
+	border: 1px dashed #bfbfbf;
+    border-left: 0;
+    border-right: 0;
+    background: #efefef;
+}
+.trainingTable tr:not(.workoutRun) .trainingDate {
+	background: transparent;
+	width: auto;
+	height: auto;
+	box-shadow: none;
+	margin-right: 4px;
+	margin-top: -4px;
+}
+.trainingTable tr:not(.workoutRun) .trainingDate .day {
+	font-size: 1em;
+}
+.trainingTable tr:not(.workoutRun) .trainingDate .mon {
+	padding-top: 5px;
+	text-transform: none;
+}
+.trainingTable tr:not(.workoutRun) .trainingTypeIcon {
+	top: 10px;
+}
+.trainingTable .metrics a {
+	color: #fc5200;
+	background: 0;
+	opacity: .6;
+}
+.trainingTable .metrics a:hover {
+	opacity: 1;
+}
+.trainingTable p {
+	margin: 0;
+    font-size: .9em;
+    line-height: 1.4em;
+}
+.trainingDate {
+	background: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    color: #333;
+	box-shadow: inset 0 0 5px #000000;
+	margin-left: -30px;
+	margin-right: 5px;
+}
+.trainingDate .mon {
+	font-family: Arial;
+    text-transform: uppercase;
+    font-size: 11px;
+    text-align: center;
+    line-height: 1em;
+    padding: 10px 0 5px;
+}
+.trainingDate .day {
+    text-align: center;
+    line-height: 0.5em;
+    font-weight: bold;
+    font-size: 1.6em;
+}
+.trainingTypeIcon {
+	background: #1d7748;
+	border: 1px solid #09753d;
+	height: 25px;
+    width: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    color: #fff;
+    position: absolute;
+	left: 26px;
+    top: 25px;
+	font-size: .9em;
+}
+.trainingTypeIconRun {
+	background: #5478a4;
+	border: 1px solid #1c4f8e;
+}
+.trainingTypeIconRide {
+	background: #ff9900;
+	border: 1px solid #ff8100;
+}
