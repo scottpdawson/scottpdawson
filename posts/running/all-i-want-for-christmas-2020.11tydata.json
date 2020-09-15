@@ -70,6 +70,7 @@
             "description": "It was a delightful week of fitness, but carried with it the stresses and preparation for back-to-school. Soon we'll be into our new-new-normal as our routines adjust, yet again. I'm feeling good physically, though, so bring on Week 2."
         },{
             "date": "2020-09-15",
+            "type": "Run",
             "title": "Track Repeats",
             "miles": 7.55,
             "minutes": 55,
