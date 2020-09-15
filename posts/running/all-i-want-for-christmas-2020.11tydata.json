@@ -68,6 +68,13 @@
             "date": "2020-09-13",
             "type": "Wrap",
             "description": "It was a delightful week of fitness, but carried with it the stresses and preparation for back-to-school. Soon we'll be into our new-new-normal as our routines adjust, yet again. I'm feeling good physically, though, so bring on Week 2."
+        },{
+            "date": "2020-09-15",
+            "title": "Track Repeats",
+            "miles": 7.55,
+            "minutes": 55,
+            "strava": 4062846888,
+            "description": "400, 600, 800, 1200, 800, 600, 400. I guess it's not hard to have the track to yourself when you get there early and the morning temperatures are hovering around 40°. This was really challenging (oof, that 1200), yet fun! Managed to keep within the goal of each segment by under 10 seconds, so #winning in my book."
         }
     ]
 }
