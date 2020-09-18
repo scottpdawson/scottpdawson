@@ -20,7 +20,7 @@
             "date": "2020-09-09",
             "type": "Weight",
             "title": "BodyPump 113 Express",
-            "miles": 6.62,
+            "miles": 0,
             "minutes": 41,
             "strava": 4037192275,
             "description": "Tough release with impossible choreography for the lunge track."
@@ -76,6 +76,22 @@
             "minutes": 55,
             "strava": 4062846888,
             "description": "400, 600, 800, 1200, 800, 600, 400. I guess it's not hard to have the track to yourself when you get there early and the morning temperatures are hovering around 40°. This was really challenging (oof, that 1200), yet fun! Managed to keep within the goal of each segment by under 10 seconds, so #winning in my book."
+        },{
+            "date": "2020-09-16",
+            "type": "Weight",
+            "title": "BodyPump 104 Express",
+            "miles": 0,
+            "minutes": 25,
+            "strava": 4070941206,
+            "description": "This was hands-down the shittiest day of work I've had in a while. Not a lot to show for my efforts, and evening motivation was waning. But ... Amy and I spurred each other on to at least to a half-hour edition of our fav BodyPump release."
+        },{
+            "date": "2020-09-17",
+            "type": "Run",
+            "title": "Tempo Run",
+            "miles": 7.04,
+            "minutes": 48,
+            "strava": 4072851437,
+            "description": "5 miles of tempo with target pace of 6:36. Hit 6:30, 6:30, 6:30, 6:26, 6:27. Yesterday's stresses evaporated after this, and I enjoyed listening to the soundtrack to The Greatest Showman."
         }
     ]
 }
