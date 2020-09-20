@@ -92,6 +92,22 @@
             "minutes": 48,
             "strava": 4072851437,
             "description": "5 miles of tempo with target pace of 6:36. Hit 6:30, 6:30, 6:30, 6:26, 6:27. Yesterday's stresses evaporated after this, and I enjoyed listening to the soundtrack to The Greatest Showman."
+        },{
+            "date": "2020-09-18",
+            "type": "Combat",
+            "title": "BodyCombat 77",
+            "miles": 0,
+            "minutes": 46,
+            "strava": 4079832977,
+            "description": "This was a really great session that dovetailed nicely into my early afternoon. I made a list of the Combat classes I've taken so far on Les Mills on Demand so I won't repeat myself.5 more uniques to go!"
+        },{
+            "date": "2020-09-19",
+            "type": "Run",
+            "title": "Long Run",
+            "miles": 9.05,
+            "minutes": 61,
+            "strava": 4083765119,
+            "description": "Crisp. Sunny. Beautiful. And no GPS data because (of course) my Apple Watch got messed up after Apple's latest update. I fixed it later in the day by re-pairing it with my phone, but missed out on capturing my route nonetheless. All 9 miles sub-7, per plan, out-and-back on Congress and then out-and-back on Rabbit."
         }
     ]
 }
