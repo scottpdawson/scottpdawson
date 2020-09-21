@@ -108,6 +108,26 @@
             "minutes": 61,
             "strava": 4083765119,
             "description": "Crisp. Sunny. Beautiful. And no GPS data because (of course) my Apple Watch got messed up after Apple's latest update. I fixed it later in the day by re-pairing it with my phone, but missed out on capturing my route nonetheless. All 9 miles sub-7, per plan, out-and-back on Congress and then out-and-back on Rabbit."
+        },{
+            "date": "2020-09-20",
+            "type": "Ride",
+            "title": "Sunday Ride with Art",
+            "miles": 24.51,
+            "minutes": 86,
+            "strava": 4088736510,
+            "description": "Enjoyed this ride with Art! Man, Perry City is a sweet westbound stretch. Had a great workout with great conversation!"
+        },{
+            "date": "2020-09-20",
+            "type": "Weight",
+            "title": "BodyPump 109 Express",
+            "miles": 0,
+            "minutes": 46,
+            "strava": 4089977898,
+            "description": "After this morning's ride and this afternoon's yard work, I was not feeling up to this. It's just 45 minutes, though ... how bad can it be? Well, the Express releases pack a punch, so I got punched. Happy tomorrow's a rest day!"
+        },{
+            "date": "2020-09-20",
+            "type": "Wrap",
+            "description": "I thought the repeats were the least enjoyable workout of the week. I phrase it that way because I actually enjoyed all of the running workouts. Perhaps that's a side benefit of a plan that has fewer weekly miles? I also appreciate all the cross training I am getting in. Now that the week is closing down, I do feel that my body is calling for a rest day. Oh, look, that's on the plan for tomorrow!"
         }
     ]
 }
