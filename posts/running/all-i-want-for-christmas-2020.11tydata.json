@@ -128,6 +128,30 @@
             "date": "2020-09-20",
             "type": "Wrap",
             "description": "I thought the repeats were the least enjoyable workout of the week. I phrase it that way because I actually enjoyed all of the running workouts. Perhaps that's a side benefit of a plan that has fewer weekly miles? I also appreciate all the cross training I am getting in. Now that the week is closing down, I do feel that my body is calling for a rest day. Oh, look, that's on the plan for tomorrow!"
+        },{
+            "date": "2020-09-22",
+            "type": "Run",
+            "title": "Track Repeats",
+            "miles": 6,
+            "minutes": 45,
+            "strava": 4096311818,
+            "description": "6x800 with 90s RI. The fairgrounds track is a half-mile, so this was perfect on this chilly morning!"
+        },{
+            "date": "2020-09-23",
+            "type": "Combat",
+            "title": "BodyCombat 74",
+            "miles": 0,
+            "minutes": 50,
+            "strava": 4104004995,
+            "description": "Planning on Friday night BodyPump at the FLX Annex, so traded BodyCombat into this Wednesday slot. There's nothing nicer than Combat on the deck!"
+        },{
+            "date": "2020-09-24",
+            "type": "Run",
+            "title": "Taughannock Tempo",
+            "miles": 6.08,
+            "minutes": 45,
+            "strava": 4105808124,
+            "description": "There are always some GPS anomalies in the park, but the weather was too good to pass up some speed on the base trail. Tempo miles called for 6:21, and I hit 6:41, 6:20, and 6:26. Considering the variable terrain and the marina stairs, I'm pretty happy with this!"
         }
     ]
 }
