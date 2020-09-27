@@ -152,6 +152,30 @@
             "minutes": 45,
             "strava": 4105808124,
             "description": "There are always some GPS anomalies in the park, but the weather was too good to pass up some speed on the base trail. Tempo miles called for 6:21, and I hit 6:41, 6:20, and 6:26. Considering the variable terrain and the marina stairs, I'm pretty happy with this!"
+        },{
+            "date": "2020-09-25",
+            "type": "Weight",
+            "title": "FLX Fitclub BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 59,
+            "strava": 4112014373,
+            "description": "Friday night BodyPump was one of our pre-pandemic staples. When Chantelle offered an outdoor edition in that time slot, we jumped right on it. Front row, all smiles, sun at our backs ... it was a great workout!"
+        },{
+            "date": "2020-09-26",
+            "type": "Run",
+            "title": "Long Run (Leaf Peeping)",
+            "miles": 10.02,
+            "minutes": 80,
+            "strava": 4114591336,
+            "description": "A run with no pace goal means leaf peeping! Beautiful trees and a pause to say hello to The Bialke family’s horses."
+        },{
+            "date": "2020-09-27",
+            "type": "Ride",
+            "title": "Sheldrake Ride with Art and Herman",
+            "miles": 34.11,
+            "minutes": 138,
+            "strava": 4121290987,
+            "description": "Art invited me out for a long ride on one of the last warm days we may have. Temperatures turn cooler early this week, so it was nice to get out for this ride and meet Herman, too!"
         }
     ]
 }
