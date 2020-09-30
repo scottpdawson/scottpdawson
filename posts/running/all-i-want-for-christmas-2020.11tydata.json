@@ -180,6 +180,30 @@
             "date": "2020-09-27",
             "type": "Wrap",
             "description": "I really felt tired after today's ride. So much so that I took a nap! I know I didn't hydrate enough on the ride, and didn't take any nutrition during, either. So, not smart. The running this week has me ready for more, though, so am looking forward to an early start tomorrow. Will do my repeats on Monday due to Tuesday's forecasted rain!"
+        },{
+            "date": "2020-09-28",
+            "type": "Run",
+            "title": "Track Repeats",
+            "miles": 7.38,
+            "minutes": 54,
+            "strava": 4123524361,
+            "description": "Man, this felt really hard on tired legs from yesterday’s ride! 5x1000 on the high school track. Delightful to get this done as the sun rose!"
+        },{
+            "date": "2020-09-29",
+            "type": "Weight",
+            "title": "BodyPump 113",
+            "miles": 0,
+            "minutes": 50,
+            "strava": 4130662724,
+            "description": "Les Mills On Demand always churns out a good workout. We opted for a full-length edition to nail our biceps and triceps."
+        },{
+            "date": "2020-09-30",
+            "type": "Run",
+            "title": "Tempo",
+            "miles": 5.27,
+            "minutes": 37,
+            "strava": 4132482412,
+            "description": "3 miles of work at short tempo pace (6:21) so ... mission accomplished. Cool, but humid. Kind of hard to shake off the disgust from last night's presidential debate. I think I'd need all day to do that."
         }
     ]
 }
