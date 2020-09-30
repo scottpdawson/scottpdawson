@@ -65,7 +65,7 @@ module.exports = function(eleventyConfig) {
         totalRunMiles += item.miles;
       }
     });
-    return totalRunMiles;
+    return Math.round(totalRunMiles);
   });
 
   eleventyConfig.addFilter("totalRunMinutes", collection => {
