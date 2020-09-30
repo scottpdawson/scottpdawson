@@ -228,6 +228,7 @@ article img:before, article img:after {
 }
 .avatar {
 	width: 130px;
+	height: 130px;
     border-radius: 100px;
     margin: -150px auto 10px auto;
     display: block;
