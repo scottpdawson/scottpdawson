@@ -52,6 +52,11 @@ module.exports = function(eleventyConfig) {
     return hours + ":" + String(minutes).padStart(2, '0');    
   });
 
+  eleventyConfig.addShortcode("yearsRemoteWorking", function() {
+    const year = new Date().getFullYear();
+    return `${year-1998}`;
+  });
+
   eleventyConfig.addFilter("weekNumberFor2020HMP", dateObj => {
     let startDate = moment.utc("2020-09-07");
     let thisDate = moment.utc(dateObj);

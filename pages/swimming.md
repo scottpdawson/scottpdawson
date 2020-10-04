@@ -1,6 +1,5 @@
 ---
 title: "Swim"
-date: "2015-09-28"
 permalink: "swim/"
 hero: "/images/2015/09/cayuga-lake-triathlon-e1443467147822.jpg"
 author: "Scott Dawson"

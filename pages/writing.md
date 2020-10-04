@@ -10,7 +10,7 @@ eleventyNavigation:
 
 {% pictureRt "/images/2019/06/cover-ipad-mock-e1561109317865.png", "The Art of Working Remotely" %}
 
-[The Art of Working Remotely](https://artofworkingremotely.com/book/) is about my experience working from home for 21+ years. Here's a brief description of the book:
+[The Art of Working Remotely](https://artofworkingremotely.com/book/) is about my experience working from home since 1998. That's {% yearsRemoteWorking %} years. Here's a brief description of the book:
 
 > _People aren’t typically taught how to thrive in a distributed workplace. Sure, they formally study to learn a specific occupation: design, marketing, sales, development, finance, law, or education. But can they perform that occupation at a high level when they’re not physically with other people? Remote workers have to learn on their own. If you work from home, a coworking space, or coffee shop, this book is for you. The author’s anecdotes about his 21-year remote work journey will inform and entertain you. Discover how to set up a quality workspace. Learn the behaviors and practices that contribute to remote worker success. You, too, can thrive in a distributed workplace._
 

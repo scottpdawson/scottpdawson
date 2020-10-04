@@ -204,6 +204,42 @@
             "minutes": 37,
             "strava": 4132482412,
             "description": "3 miles of work at short tempo pace (6:21) so ... mission accomplished. Cool, but humid. Kind of hard to shake off the disgust from last night's presidential debate. I think I'd need all day to do that."
+        },{
+            "date": "2020-10-01",
+            "type": "Combat",
+            "title": "BodyCombat 73",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4139308731,
+            "description": "This was a pretty good release. Planned to do it on the deck, but with slippery boards I opted for inside."
+        },{
+            "date": "2020-10-02",
+            "type": "Weight",
+            "title": "BodyPump 97",
+            "miles": 0,
+            "minutes": 61,
+            "strava": 4145769761,
+            "description": "97 is hands-down my favorite on-demand track. It's like putting on a nice, comfortable pair of shoes. And then sweating a lot."
+        },{
+            "date": "2020-10-03",
+            "type": "Run",
+            "title": "Delightful and Short",
+            "miles": 9.03,
+            "minutes": 61,
+            "strava": 4145770296,
+            "description": "My post-run latte has never tasted so good. Crisp air and sunny skies made this run really fun, and it ended before I got tired of it. I like this distance!"
+        },{
+            "date": "2020-10-04",
+            "type": "Ride",
+            "title": "Indoor Cat",
+            "miles": 0,
+            "minutes": 60,
+            "strava": 4152129052,
+            "description": "Felt like a little indoor steady state riding today. I'm grateful we have a Keiser bike! Sweated quite a bit AND got to watch a movie!"
+        },{
+            "date": "2020-10-04",
+            "type": "Wrap",
+            "description": "Wow, what a dreary day! It's okay, because we need dreary days to remind us how wonderful sunny days are. This week has been taxing physically and emotionally, but with good nutrition and rest, I'm ready for plenty of fun next week. Bring it."
         }
     ]
 }
