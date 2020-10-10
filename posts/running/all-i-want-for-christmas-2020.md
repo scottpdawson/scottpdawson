@@ -16,44 +16,48 @@ I'm going to keep track of my workouts week-by-week below. There are three hard 
 
 So far, I've run <b>{{hmTraining | totalRunMiles}}</b> miles over <b>{{hmTraining | totalRunMinutes | mmToHHMM}}</b> (hh:mm) in pursuit of this goal.
 
-{% set weekArray = hmTraining | getWeekArrayFor2020HMP %}
+{% set weekArray = hmTraining | getWeekArrayFor2020HMP | reverse %}
 {%- for week in weekArray -%}
 
-<h3>Week {{week}}</h3>
-<table class="trainingTable">
-{%- for training in hmTraining -%}
-    {%- if training.date | weekNumberFor2020HMP == week and training.type != "Wrap" -%}
-    <tr class="workout{{training.type}}">
-      <td>
-        <div class="trainingTypeIcon trainingTypeIcon{{training.type}}" title="{{training.type}}">
-            {%- if training.type == "Run" -%}<i class="fas fa-running"></i>{%- endif -%}
-            {%- if training.type == "Ride" -%}<i class="fas fa-biking"></i>{%- endif -%}
-            {%- if training.type == "Weight" -%}<i class="fas fa-dumbbell"></i>{%- endif -%}
-            {%- if training.type == "Combat" -%}<i class="fas fa-fist-raised"></i>{%- endif -%}
-        </div>
-        <div class="trainingDate">
-            <div class="mon">{{training.date | momentMonth}}</div>
-            <div class="day">{{training.date | momentDay}}</div>
-        </div>
-      </td>
-      <td>
-        <b>{{training.title}}</b>
-        <p>{{training.description}}</p>
-      </td>
-      <td class="metrics">
-        {%- if training.miles > 0 -%}<b>{{training.miles}}</b> mi<br />{%- endif -%}
-        <i class="far fa-clock"></i> {{training.minutes | mmToHHMM}}
-        <a href="https://www.strava.com/activities/{{ training.strava }}/overview" target=_blank title="View on Strava"><i class="fas fa-external-link-alt"></i></a>
-      </td>
-    </tr>
-    {%- endif -%}
-    {%- if training.date | weekNumberFor2020HMP == week and training.type == "Wrap" -%}
-    <tr class="workoutWrap">
-      <td colspan="3">
-        <b>Week {{week}} Recap:</b> {{training.description}}
-      </td>
-    </tr>
-    {%- endif -%}
-{%- endfor -%}
-</table>
+<h3 class="trainingTitle">Week {{week}}</h3>
+<div class="trainingToggle">
+    <input type="checkbox" class="trainingSwitch switch" id="switch{{week}}" {%- if week == weekArray.length -%} checked{%- endif -%} />
+    <label for="switch{{week}}">Toggle</label>
+    <table class="trainingTable">
+    {%- for training in hmTraining -%}
+        {%- if training.date | weekNumberFor2020HMP == week and training.type != "Wrap" -%}
+        <tr class="workout workout{{training.type}}">
+          <td>
+            <div class="trainingTypeIcon trainingTypeIcon{{training.type}}" title="{{training.type}}">
+                {%- if training.type == "Run" -%}<i class="fas fa-running"></i>{%- endif -%}
+                {%- if training.type == "Ride" -%}<i class="fas fa-biking"></i>{%- endif -%}
+                {%- if training.type == "Weight" -%}<i class="fas fa-dumbbell"></i>{%- endif -%}
+                {%- if training.type == "Combat" -%}<i class="fas fa-fist-raised"></i>{%- endif -%}
+            </div>
+            <div class="trainingDate">
+                <div class="mon">{{training.date | momentMonth}}</div>
+                <div class="day">{{training.date | momentDay}}</div>
+            </div>
+          </td>
+          <td>
+            <b>{{training.title}}</b>
+            <p>{{training.description}}</p>
+          </td>
+          <td class="metrics">
+            {%- if training.miles > 0 -%}<b>{{training.miles}}</b> mi<br />{%- endif -%}
+            <i class="far fa-clock"></i> {{training.minutes | mmToHHMM}}
+            <a href="https://www.strava.com/activities/{{ training.strava }}/overview" target=_blank title="View on Strava"><i class="fas fa-external-link-alt"></i></a>
+          </td>
+        </tr>
+        {%- endif -%}
+        {%- if training.date | weekNumberFor2020HMP == week and training.type == "Wrap" -%}
+        <tr class="workoutWrap">
+          <td colspan="3">
+            <b>Week {{week}} Recap:</b> {{training.description}}
+          </td>
+        </tr>
+        {%- endif -%}
+    {%- endfor -%}
+    </table>
+</div>
 {%- endfor -%}

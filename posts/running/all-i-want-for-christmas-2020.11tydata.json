@@ -272,6 +272,14 @@
             "minutes": 55,
             "strava": 4167437626,
             "description": "6 miles at long tempo pace, target 6:51. What a delightful temperature for this hard effort!"
+        },{
+            "date": "2020-10-10",
+            "type": "Run",
+            "title": "#LGR Long Run",
+            "miles": 11.1,
+            "minutes": 77,
+            "strava": 4176284349,
+            "description": "Red tree, shirt, Altra shoes, and Cornell scarf (Lynah, how I miss you). Took today’s long run and made it 100% Big Red for Cornell Homecoming."
         }
     ]
 }

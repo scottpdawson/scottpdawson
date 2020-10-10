@@ -980,3 +980,72 @@ p code {
 	background: #ff9900;
 	border: 1px solid #ff8100;
 }
+
+.trainingTitle {
+	margin-left: 55px;
+	margin-bottom: 10px;
+}
+.trainingToggle {
+	position: relative;
+}
+.trainingToggle input[type=checkbox] {
+	height: 0;
+	width: 0;
+	visibility: hidden;
+	position: absolute;
+}
+
+.trainingToggle label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 45px;
+	height: 26px;
+	background: #bdbdbd;
+	border-radius: 100px;
+    top: -39px;
+	left: 0;
+	position: absolute;
+	display: inline-block;
+}
+
+.trainingToggle label:after {
+	content: '';
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	width: 22px;
+	height: 22px;
+	background: #fff;
+	border-radius: 90px;
+	transition: 0.3s;
+}
+
+.trainingToggle input:checked + label {
+	background: #5277a4;
+}
+
+.trainingToggle input:checked + label:after {
+	left: calc(100% - 2px);
+	transform: translateX(-100%);
+}
+
+.trainingToggle label:active:after {
+	width: 22px;
+}
+
+.trainingSwitch ~ .trainingTable tr.workout {
+	display: none;
+}
+
+.trainingSwitch:not(:checked) ~ .trainingTable tr.workoutWrap {
+	border: 0;
+	background: none;
+}
+
+.trainingSwitch:not(:checked) ~ .trainingTable tr.workoutWrap td {
+	padding: 0;
+}
+
+.trainingSwitch:checked ~ .trainingTable tr.workout {
+	display: inherit;
+}
