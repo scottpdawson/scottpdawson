@@ -240,6 +240,38 @@
             "date": "2020-10-04",
             "type": "Wrap",
             "description": "Wow, what a dreary day! It's okay, because we need dreary days to remind us how wonderful sunny days are. This week has been taxing physically and emotionally, but with good nutrition and rest, I'm ready for plenty of fun next week. Bring it."
+        },{
+            "date": "2020-10-05",
+            "type": "Weight",
+            "title": "BodyPump 105",
+            "miles": 0,
+            "minutes": 43,
+            "strava": 4156694879,
+            "description": "Post-work BodyPump, express edition. The short class is tough, but getting started so close to dinner had us not feeling up to the full hour. Good enough!"
+        },{
+            "date": "2020-10-06",
+            "type": "Run",
+            "title": "Mile Repeats",
+            "miles": 5.04,
+            "minutes": 34,
+            "strava": 4123524361,
+            "description": "3x1600 w/ 60s RI. Goal pace of 5:48, so I wasn’t far off with a 5:51, 5:53, and 5:59. My intervals always seem to be marginally slower than the plan calls for, but the tempo and long runs are right on the money."
+        },{
+            "date": "2020-10-07",
+            "type": "Combat",
+            "title": "BodyCombat 72",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4164932692,
+            "description": "Strava says this workout was 90 minutes, but only because I had to pause my watch to take a call. Funny to mess up the time so much just for the sake of my abs."
+        },{
+            "date": "2020-10-08",
+            "type": "Run",
+            "title": "Tempo",
+            "miles": 8.06,
+            "minutes": 55,
+            "strava": 4167437626,
+            "description": "6 miles at long tempo pace, target 6:51. What a delightful temperature for this hard effort!"
         }
     ]
 }
