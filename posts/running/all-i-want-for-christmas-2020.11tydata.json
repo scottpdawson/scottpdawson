@@ -280,6 +280,34 @@
             "minutes": 77,
             "strava": 4176284349,
             "description": "Red tree, shirt, Altra shoes, and Cornell scarf (Lynah, how I miss you). Took today’s long run and made it 100% Big Red for Cornell Homecoming."
+        },{
+            "date": "2020-10-11",
+            "type": "Ride",
+            "title": "Brisk Yet Beautiful",
+            "miles": 17.54,
+            "minutes": 66,
+            "strava": 4182763871,
+            "description": "It was a beautifully sunny day. As I got going on my ride, I regretted not having at least some lightweight gloves. That only motivated me to keep focusing on turnover on this ride's ups and downs."
+        },{
+            "date": "2020-10-11",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4183224211,
+            "description": "Watched the replay of Chantelle's Saturday morning FLX Fitclub BodyPump class. I love doing this class in my living room ... but I do miss our Friday Happy Hour Pump in the studio, too."
+        },{
+            "date": "2020-10-11",
+            "type": "Wrap",
+            "description": "The vibrant leaf coloring from last week is replaced by a pretty consistent browning and shriveling. We've been without much water these last few months, so that's affecting my leaf peeping! It was a good, solid week of fitness, and I particularly enjoyed my Thursday tempo and my solo hike on Friday."
+        },{
+            "date": "2020-10-12",
+            "type": "Run",
+            "title": "J.P. Morgan Corporate Challenge",
+            "miles": 5.17,
+            "minutes": 37,
+            "strava": 4185136358,
+            "description": "Tomorrow's forecasted rain had me wanting to do my track repeat workout today. I also coincidentally signed up for the J.P. Morgan Corporate Challenge, a 3.5 mile effort. So, I combined the concepts today! The challenge has its own app to use, and I covered 3.5 miles in 22:17, with splits of 6:17, 6:23, 6:32, and 6:10. Pretty happy with that!"
         }
     ]
 }

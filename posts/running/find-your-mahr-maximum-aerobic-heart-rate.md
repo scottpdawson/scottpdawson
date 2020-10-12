@@ -28,7 +28,7 @@ I found that my average heart rate for this span was **159 bpm**. Multiply that 
 
 ## How does this correlate to my running assessment?
 
-I got a running assessment last year from Cayuga Medical Center, and got a personalized report of my heart rate zones as part of the VO2 max test. The MAHR calculation jives well with this report, with my **Zone 2** (aerobic) between **120** and **139**. So, if I stay below **143** I’ll stay in this zone and reap the benefits of aerobic training. We'll see how it goes!
+I got a running assessment last year from Cayuga Medical Center, and got a personalized report of my heart rate zones as part of the VO2 max test. The MAHR calculation jibes well with this report, with my **Zone 2** (aerobic) between **120** and **139**. So, if I stay below **143** I’ll stay in this zone and reap the benefits of aerobic training. We'll see how it goes!
 
 **Zone 1, Recovery: HR <125** HR<50% VO2max, RPE <12: Easy training zone with purpose of absorbing heavier training days and minimize risk of overtraining
 

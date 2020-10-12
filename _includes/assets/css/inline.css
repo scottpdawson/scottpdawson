@@ -233,7 +233,8 @@ article img:before, article img:after {
     margin: -150px auto 10px auto;
     display: block;
     border: 1px solid #ffffff66;
-    position: relative;
+	position: relative;
+	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 article a, footer a, .search-results a {
 	color: #0068a9;
