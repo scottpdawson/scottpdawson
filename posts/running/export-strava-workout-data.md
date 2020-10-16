@@ -1,6 +1,6 @@
 ---
 title: "How to Export Strava Workout Data"
-date: "2017-09-14"
+date: "2020-10-16"
 permalink: "export-strava-workout-data/"
 hero: "/images/2017/09/xhr-requests-filled.png"
 description: "If you're a numbers geek AND a fitness geek like me, you've wanted to export Strava data. You've realized with dismay that Strava doesn't have any kind of export function for the hard-earned workouts you've uploaded."
@@ -14,9 +14,23 @@ If you're a numbers geek AND a fitness geek like me, you've wanted to export Str
 
 Going through workout-by-workout just wouldn't cut it. I needed a spreadsheet I could sort, filter and enrich. The [resulting poster](/infographic-training-50-mile-race/) was just as I'd hoped for! It turns out I'm also a technology geek, so I figured out how to export Strava data into a spreadsheet so I could get the numbers I needed for my poster. There are a few steps involved, but it's not _THAT_ hard. Grab a cold one and get your browser console ready, 'cause we're going to go on a Strava data expedition!
 
+## TL;DR: A 2020 Update
+
+Tibor commented on my original post a while ago, and I had reason to use their code when [my wife and daughter summarized their 200-day hike streak](https://skirtrunner.com/hiking/200-day-coronavirus-hike-streak/). This is by far the easiest and quickest approach. 
+
+1. Go to https://www.strava.com/athlete/training after signing in.
+2. Open your browser's developer tools and navigate to Console window. In Chrome, you can press Command+Option+J (Mac) or Control+Shift+J (Windows, Linux, Chrome OS). In Firefox, you can press Ctrl+Shift+I or F12 (Windows, Linux) or Cmd+Opt+I (Mac)
+3. Copy the code on [this page](https://gist.github.com/scottpdawson/74f85f60a7cf7fcc8ee527592dadf498) and set maxPage and activityType at the top.
+4. Paste the code into the browser console and hit Enter.
+5. Copy new window's content into https://konklone.io/json to convert to CSV.
+
+Read on if you'd like some alternatives, or want to understand what's going on in more detail.
+
+## Other Approaches, Background
+
 _**Note:** An astute reader pointed out that Strava already had an export feature. True! Go to [profile settings](https://www.strava.com/settings/profile) and you'll see "Download your data" in the right column. However, that downloads only a zip file of your owrkouts in GPX format. It doesn't supply a single spreadsheet view with oodles of data, which is what I was after. True, Strava provides a developer API, but that's a bit heavy-handed for a single query. All API-based plugins or add-ons that I tried while researching this post did not work for my use case; they either didn't work at all, didn't have all the columns I needed, or only exported a certain number of workouts._
 
-Step 1: The Browser Console
+### Step 1: The Browser Console
 
 {% pictureRt "/images/2017/09/chrome-inspector.png", "" %}
 
@@ -32,7 +46,7 @@ In the inspector, there are navigation options along the top. Click Network. Bel
 
 {% picture "/images/2017/09/xhr-empty.png", "" %}
 
-## Step 2: Go to Strava's My Activities Page
+### Step 2: Go to Strava's My Activities Page
 
 {% pictureRt "/images/2017/09/strava-menu.png", "" %}
 
@@ -42,7 +56,7 @@ Your inspector should now look like this:
 
 {% picture "/images/2017/09/xhr-full.png", "" %}
 
-## Step 3: Export Strava Data
+### Step 3: Export Strava Data
 
 Web pages can make a lot of requests in the background for data. In this case, we're looking for one called training\_activities. In the upper left corner, under that red dot, you can search for "training" and see just those requests, which is what we're looking for.
 
@@ -70,7 +84,7 @@ Repeat the steps to copy the result and convert it from JSON to CSV or Excel. Ke
 
 Once you're finished, if you've gone the Excel route, it's a matter of copy/pasting from each spreadsheet into a master spreadsheet. If you've done CSV, you can do the same in your text editor, grouping all the CSV files into one, or import each into your spreadsheet of choice and manipulating the data from there. If you're a Windows user and feeling particularly brave, you can also follow Tom Nash's instructions on [combining CSV files automatically](http://www.tomnash.eu/how-to-combine-multiple-csv-files-into-one-using-cmd/).
 
-## Conclusion
+### Conclusion
 
 I can only hope that Murphy's Law applies here, and after thoughtfully writing this post, Strava releases an update that'll let you export Strava data natively. Until then, happy data mining, and happy running/cycling!
 
@@ -97,51 +111,10 @@ I wrote a small web tool using the official Strava API to generate an Excel repo
 
 <blockquote>Thank you so much! I’m starting a data analytics program (mid-career pivot from a STEM field but no coding experience and minimal html experience) and we have to introduce ourselves through data visualization for the first class. I wanted to visualize my Strava data and was frustrated when it didn’t seem clear cut how to get it. This was PERFECT and I’m so psyched to play with this data now! Thank you! - Abigail</blockquote>
 
-From Tibor: 
-1. Open strava
-2. Go to “Training/My Activities”
-3. Open Chrome’s console window
-4. Set max. page number to (Activities/20 +1)
-5. Copy script below into console
-6. Run (press enter)
-7. When finished copy the new window’s content into this page's edit window https://konklone.io/json
-
-<pre><code>var maxpage = 56; // (Activities/20 +1)
-var p = 1;
-var done = 0;
-var url;
-var nw=window.open(“MyPage.html”);
-nw.document.write(“[“);
-while (p &lt;= maxpage){
-url = "https://www.strava.com/athlete/training_activities"+
-"?keywords=&activity_type=&workout_type=&commute=&private_activities=" +
-"&trainer=&gear=&new_activity_only=false"+
-"&page="+p+"&per_page=20";
-console.log("go "+p);
-jQuery.ajax({
-url: url,
-dataType: "json",
-method: "GET",
-success : function(data, textStatus, jqXHR) {
-for ( i in data.models) {
-nw.document.write(JSON.stringify(data.models[i]) + "," + "” );
-}
-done++;
-if(done>=maxpage){
-nw.document.write(“]”);
-nw.document.close();
-}
-window.open(“MyPage.html”);
-}
-});
-p++;
-};
-window.open(“MyPage.html”);</code></pre>
+A friend of mine created http://www.stravabestefforts.com and I am working with him now to be able to extract average heart rate data for each split. His program already does a lot but heart rate data will make it even more valuable. - Patrick
 
 <blockquote>Cheers Scott – You’ve written this so in a great and easy way to understand. I now have the spreadsheet I want so I can manipulate my training information in one easy to see document. Thanks again! – Chris
 </blockquote>
-
-A friend of mine created http://www.stravabestefforts.com and I am working with him now to be able to extract average heart rate data for each split. His program already does a lot but heart rate data will make it even more valuable. - Patrick
 
 This seems to work pretty well. Load a page showing 20 activities and run this snippet to automate downloading each tcx file. It spreads out downloads one/second. When it complete, click the “next page” button to move to the next 20 activities and run the snippet again. (Note that I tried to customize the file name with the download button but that doesn’t seem to work in Chrome v80.) - Stephen
 

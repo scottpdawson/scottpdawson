@@ -308,6 +308,22 @@
             "minutes": 37,
             "strava": 4185136358,
             "description": "Tomorrow's forecasted rain had me wanting to do my track repeat workout today. I also coincidentally signed up for the J.P. Morgan Corporate Challenge, a 3.5 mile effort. So, I combined the concepts today! The challenge has its own app to use, and I covered 3.5 miles in 22:17, with splits of 6:17, 6:23, 6:32, and 6:10. Pretty happy with that!"
+        },{
+            "date": "2020-10-14",
+            "type": "Weight",
+            "title": "BodyPump 105",
+            "miles": 0,
+            "minutes": 43,
+            "strava": 4199042276,
+            "description": "We liked the the LesMills On Demand BodyPump 105 Express release so much last week that we repeated it this week. Smooth, efficient, powerful."
+        },{
+            "date": "2020-10-15",
+            "type": "Run",
+            "title": "Double Tempo",
+            "miles": 7.01,
+            "minutes": 50,
+            "strava": 4199042934,
+            "description": "This was a fun one. A tempo with a mile break in the action. I headed out at 7 a.m. and enjoyed seeing the brilliant sunrise as I ran the warmup mile. The work was tough, but I hit the goals and made it back to my house in time to get cleaned up for work!"
         }
     ]
 }
