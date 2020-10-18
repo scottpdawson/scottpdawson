@@ -324,6 +324,34 @@
             "minutes": 50,
             "strava": 4199042934,
             "description": "This was a fun one. A tempo with a mile break in the action. I headed out at 7 a.m. and enjoyed seeing the brilliant sunrise as I ran the warmup mile. The work was tough, but I hit the goals and made it back to my house in time to get cleaned up for work!"
+        },{
+            "date": "2020-10-16",
+            "type": "Combat",
+            "title": "BodyCombat 71",
+            "miles": 0,
+            "minutes": 43,
+            "strava": 4208203474,
+            "description": "Well, they don’t offer an express version of this release, but given the time constraints, I made my own. Just skipped a few tracks ..."
+        },{
+            "date": "2020-10-17",
+            "type": "Run",
+            "title": "Rambling in the Sun",
+            "miles": 10.21,
+            "minutes": 70,
+            "strava": 4208203796,
+            "description": "Oof, that was hard. I am used to running in the morning, before I eat anything, so this post-lunch run felt kind of tough. It is beautifully sunny, though."
+        },{
+            "date": "2020-10-18",
+            "type": "Weight",
+            "title": "BodyPump with Lynn",
+            "miles": 0,
+            "minutes": 54,
+            "strava": 4213976352,
+            "description": "A delightful virtual class with Lynn. There's something wonderful about working out in your living room when it's *not* your dinner night."
+        },{
+            "date": "2020-10-18",
+            "type": "Wrap",
+            "description": "I can't believe it's already mid-October. Where is the time going? My wife and I agree: time seems like it's moving both slowly and quickly, inexplicably at the same time. Regardless, that's another week of successful fitness, and I'm looking forward to the week ahead!"
         }
     ]
 }
