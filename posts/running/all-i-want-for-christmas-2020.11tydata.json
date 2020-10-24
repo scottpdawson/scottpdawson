@@ -352,6 +352,38 @@
             "date": "2020-10-18",
             "type": "Wrap",
             "description": "I can't believe it's already mid-October. Where is the time going? My wife and I agree: time seems like it's moving both slowly and quickly, inexplicably at the same time. Regardless, that's another week of successful fitness, and I'm looking forward to the week ahead!"
+        },{
+            "date": "2020-10-20",
+            "type": "Run",
+            "title": "Midday Misty Intervals",
+            "miles": 5.73,
+            "minutes": 43,
+            "strava": 4221088481,
+            "description": "Got to a logical stopping point at work and laced up for 6x800 w/ 90s RI. Tough, short, and delightful."
+        },{
+            "date": "2020-10-22",
+            "type": "Run",
+            "title": "Midweek Tempo",
+            "miles": 7.04,
+            "minutes": 48,
+            "strava": 4231013070,
+            "description": "5 miles of work at 6:36 target pace. Got out the door in time to get this solid run in before my meetings, AND the rain!"
+        },{
+            "date": "2020-10-22",
+            "type": "Weight",
+            "title": "BodyPump",
+            "miles": 0,
+            "minutes": 48,
+            "strava": 4231013024,
+            "description": "An on-demand BodyPump session before dinner. We felt like passing on our scheduled BodyPump session yesterday, so fit it in today (despite running earlier) so we'd have 2x for the week."
+        },{
+            "date": "2020-10-23",
+            "type": "Combat",
+            "title": "BodyCombat 83 Express",
+            "miles": 0,
+            "minutes": 41,
+            "strava": 4234449619,
+            "description": "Punching, kicking, and capoeira on the front patio. It was HOT today, but the setting sun made this patio workout downright delightful."
         }
     ]
 }
