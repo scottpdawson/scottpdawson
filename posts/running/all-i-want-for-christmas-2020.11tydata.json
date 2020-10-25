@@ -384,6 +384,26 @@
             "minutes": 41,
             "strava": 4234449619,
             "description": "Punching, kicking, and capoeira on the front patio. It was HOT today, but the setting sun made this patio workout downright delightful."
+        },{
+            "date": "2020-10-24",
+            "type": "Run",
+            "title": "From Clouds to Mist to Sun",
+            "miles": 12.03,
+            "minutes": 84,
+            "strava": 4237189159,
+            "description": "I waited for the rain to stop before starting this long run. It was cloudy, then it misted for a while, then the sun came out for the last few miles. All kinds of luscious weather out there this morning! Goal pace 7:10, so mission accomplished!"
+        },{
+            "date": "2020-10-25",
+            "type": "Weight",
+            "title": "BodyPump",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4242215751,
+            "description": "Another great BodyPump with Chantelle on our living room television. This felt particularly good because we were able to hit the sauna after we were done."
+        },{
+            "date": "2020-10-25",
+            "type": "Wrap",
+            "description": "The weeks are flying by! I enjoyed two hikes this week, along with my standard set of four 10-minute rowing sessions. Feeling really great, and took in a massage this afternoon to loosen up my tight leg muscles."
         }
     ]
 }

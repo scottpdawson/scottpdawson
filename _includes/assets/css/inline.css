@@ -839,7 +839,7 @@ th {
     font-style: italic;
 }
 
-pre code, p code {
+pre code, p code, li code {
     background: #f4f4f4;
     border: 1px solid #ddd;
     border-left: 3px solid #666;
@@ -855,7 +855,7 @@ pre code, p code {
     display: block;
     word-wrap: break-word;
 }
-p code {
+p code, li code {
 	display: inline;
     margin: 0;
     padding: 3px 5px;
