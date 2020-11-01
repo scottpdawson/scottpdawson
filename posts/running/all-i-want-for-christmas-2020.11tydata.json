@@ -404,6 +404,58 @@
             "date": "2020-10-25",
             "type": "Wrap",
             "description": "The weeks are flying by! I enjoyed two hikes this week, along with my standard set of four 10-minute rowing sessions. Feeling really great, and took in a massage this afternoon to loosen up my tight leg muscles."
+        },{
+            "date": "2020-10-27",
+            "type": "Run",
+            "title": "Double Tempo",
+            "miles": 7.07,
+            "minutes": 48,
+            "strava": 4249714428,
+            "description": "I got my wires crossed this week and was supposed to run intervals today. Instead, I ran the double tempo that was scheduled for Thursday. I guess I’ll be doing intervals on Thursday! Working goal pace was 6:36."
+        },{
+            "date": "2020-10-28",
+            "type": "Weight",
+            "title": "BodyPump",
+            "miles": 0,
+            "minutes": 41,
+            "strava": 4257822854,
+            "description": "Another great on-demand BodyPump with Amy. Express version 103, you know, from before the pandemic!"
+        },{
+            "date": "2020-10-29",
+            "type": "Run",
+            "title": "Swatter Weather",
+            "miles": 7.01,
+            "minutes": 53,
+            "strava": 4258357471,
+            "description": "Christina said my Strava map looked like a fly swatter, and it’s getting cooler ... so, swatter weather! 2x(6x400) w/ 90s RI and 2:30 between the sets. Wet and wonderful!"
+        },{
+            "date": "2020-10-30",
+            "type": "Combat",
+            "title": "BodyCombat 82 Express",
+            "miles": 0,
+            "minutes": 41,
+            "strava": 4265412503,
+            "description": "I felt off this whole workout. It must have been the obscene about of caramel cremes I've been eating lately!"
+        },{
+            "date": "2020-10-31",
+            "type": "Run",
+            "title": "Hot Miles",
+            "miles": 8.01,
+            "minutes": 53,
+            "strava": 4267628491,
+            "description": "Started off a bit fast for my planned 7:00 miles, but the uphill segment made me temper it a bit. I was stressed for time and knew I had a latte waiting for me at the finish!"
+        },{
+            "date": "2020-11-01",
+            "type": "Weight",
+            "title": "BodyPump",
+            "miles": 0,
+            "minutes": 58,
+            "strava": 4273182438,
+            "description": "This was a killer Halloween BodyPump mix with Chantelle. I felt like the first two tracks were interminable, but the entire release was a great workout. I like when things are mixed up enough that it all feels novel."
+        },{
+            "date": "2020-11-01",
+            "type": "Wrap",
+            "description": "Really, November already? I can't believe it. These training weeks are rolling by quickly, and though this week's long run really wasn't that long, it wasn't really a fallback week, either. Total mileage is right in line with prior weeks. Next week I'll run a 13 again on on the weekend. 8 weeks to my goal race!"
         }
     ]
 }
