@@ -456,6 +456,66 @@
             "date": "2020-11-01",
             "type": "Wrap",
             "description": "Really, November already? I can't believe it. These training weeks are rolling by quickly, and though this week's long run really wasn't that long, it wasn't really a fallback week, either. Total mileage is right in line with prior weeks. Next week I'll run a 13 again on on the weekend. 8 weeks to my goal race!"
+        },{
+            "date": "2020-11-03",
+            "type": "Run",
+            "title": "Repeats for Breakfast",
+            "miles": 5.07,
+            "minutes": 33,
+            "strava": 4280398812,
+            "description": "These were big repeats, too. 2x1600 and 2x800. Took 60s between each and a mile to warm up and cool down."
+        },{
+            "date": "2020-11-04",
+            "type": "Weight",
+            "title": "BodyPump 111 Express",
+            "miles": 0,
+            "minutes": 40,
+            "strava": 4289605678,
+            "description": "At-home BodyPump with Amy. Mission accomplished!"
+        },{
+            "date": "2020-11-05",
+            "type": "Run",
+            "title": "Tempolicious",
+            "miles": 7.17,
+            "minutes": 48,
+            "strava": 4289605969,
+            "description": "Oh, how I missed the sunshine and warmer temperatures. Blissful for 5 miles of tempo effort."
+        },{
+            "date": "2020-11-06",
+            "type": "Run",
+            "title": "Ride, Interrupted",
+            "miles": 9.55,
+            "minutes": 35,
+            "strava": 4298757998,
+            "description": "It was such a gorgeous day that we had to go out for a ride. Sadly, though, we had bail after Amy’s bike got a flat. I raced home to fetch our rescue vehicle!"
+        },{
+            "date": "2020-11-06",
+            "type": "Combat",
+            "title": "BodyCombat 83 Express",
+            "miles": 0,
+            "minutes": 37,
+            "strava": 4302030230,
+            "description": "This was NOT very satisfying since I had to pause for 10 minutes and then resume, but it served as combat for the week, nonetheless."
+        },{
+            "date": "2020-11-07",
+            "type": "Run",
+            "title": "Sunshine and Smiles",
+            "miles": 13.18,
+            "minutes": 92,
+            "strava": 4302031279,
+            "description": "I was smiling for a lot of this run, but later miles were a tad uncomfortable. Beautiful temperatures for a November Saturday morning!"
+        },{
+            "date": "2020-11-08",
+            "type": "Ride",
+            "title": "Sheldrake Ride w/ Amy",
+            "miles": 28.28,
+            "minutes": 114,
+            "strava": 4310545025,
+            "description": "A gorgeous Sheldrake ride with Amy. I can’t believe we have these temperatures in November!"
+        },{
+            "date": "2020-11-08",
+            "type": "Wrap",
+            "description": "What a roller coaster of a week! Coronavirus roars on, but the week's emotions about political uncertainty crescendoed to a delightful resolution on Saturday. The run workouts were tough this week but I got 'em all in, and it seems like it may be the last week of unseasonably warm temperatures."
         }
     ]
 }
