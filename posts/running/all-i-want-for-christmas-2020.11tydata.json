@@ -516,6 +516,58 @@
             "date": "2020-11-08",
             "type": "Wrap",
             "description": "What a roller coaster of a week! Coronavirus roars on, but the week's emotions about political uncertainty crescendoed to a delightful resolution on Saturday. The run workouts were tough this week but I got 'em all in, and it seems like it may be the last week of unseasonably warm temperatures."
+        },{
+            "date": "2020-11-10",
+            "type": "Run",
+            "title": "Repeats",
+            "miles": 6.03,
+            "minutes": 42,
+            "strava": 4318075461,
+            "description": "1 mi WU, 4x1200 w/ 2 min RI, 1 mi CD. I started the run pretty tired, and intervals 3 and 4 proved really difficult. Perseverance is the watchword of the day!"
+        },{
+            "date": "2020-11-11",
+            "type": "Weight",
+            "title": "BodyPump 112 Express",
+            "miles": 0,
+            "minutes": 38,
+            "strava": 4326180837,
+            "description": "At-home BodyPump with Amy. These shorter sessions can sometimes be harder than the hour-long ones!"
+        },{
+            "date": "2020-11-12",
+            "type": "Run",
+            "title": "Tempo",
+            "miles": 8.01,
+            "minutes": 54,
+            "strava": 4327492705,
+            "description": "6 miles at mid-tempo pace of 6:36. Started off rather cold but was really grateful for shorts and a tee a few miles in!"
+        },{
+            "date": "2020-11-13",
+            "type": "Combat",
+            "title": "BodyCombat 83",
+            "miles": 0,
+            "minutes": 54,
+            "strava": 4331861816,
+            "description": "It's been a few weeks since I did a full-length class. This felt SO good! Wow. Morning is such a better time for my energy level for this class."
+        },{
+            "date": "2020-11-14",
+            "type": "Run",
+            "title": "Saturday Sevens",
+            "miles": 10.06,
+            "minutes": 70,
+            "strava": 4336249892,
+            "description": "7:00 goal pace for 10 miles. Overcast, cool, and delightful! Listened to Marc Cohn for the first time in a while, and then Hamilton. What’s your name, man?"
+        },{
+            "date": "2020-11-15",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 56,
+            "strava": 4344065948,
+            "description": "We enjoyed the replay of Chantelle's Saturday morning class. Sunday evening, while it was pouring outside!"
+        },{
+            "date": "2020-11-15",
+            "type": "Wrap",
+            "description": "This week seemed to fly (or is it slip) by! It's hard to believe that Thanksgiving is less than 2 weeks away, and it *is* getting colder. That makes the tough runs far more bearable. I'm still feeling really good about this plan, and am really happy with how things are going!"
         }
     ]
 }
