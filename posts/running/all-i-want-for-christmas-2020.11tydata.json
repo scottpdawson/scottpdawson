@@ -568,6 +568,46 @@
             "date": "2020-11-15",
             "type": "Wrap",
             "description": "This week seemed to fly (or is it slip) by! It's hard to believe that Thanksgiving is less than 2 weeks away, and it *is* getting colder. That makes the tough runs far more bearable. I'm still feeling really good about this plan, and am really happy with how things are going!"
+        },{
+            "date": "2020-11-16",
+            "type": "Run",
+            "title": "Dusky Repeats",
+            "miles": 6.02,
+            "minutes": 42,
+            "strava": 4348677763,
+            "description": "Headed out after work to avoid nasty weather tomorrow. Got to wear light-up gear! 1 mile warm up, 1,000-2,000-1,000-1,000 w/ 400 RI, 1 mi cool down."
+        },{
+            "date": "2020-11-18",
+            "type": "Weight",
+            "title": "BodyPump 107 Express",
+            "miles": 0,
+            "minutes": 38,
+            "strava": 4356526954,
+            "description": "Ended up doing this one alone, since Amy and I had schedules that didn't align. We both agreed that solo BodyPump seemed to go by more quickly and seemed easier, but we're not exactly sure why."
+        },{
+            "date": "2020-11-19",
+            "type": "Run",
+            "title": "Tempo",
+            "miles": 7.04,
+            "minutes": 48,
+            "strava": 4361303368,
+            "description": "Man, I just love running into a cold headwind! Oh wait, that's not true. Southbound was miserable!"
+        },{
+            "date": "2020-11-20",
+            "type": "Combat",
+            "title": "BodyCombat 82 Express",
+            "miles": 0,
+            "minutes": 42,
+            "strava": 4365742952,
+            "description": "I literally finished this 2 minutes before my morning meeting. Punching, kicking, and conference calling. That's life in 2020!"
+        },{
+            "date": "2020-11-21",
+            "type": "Run",
+            "title": "Hard-Earned Miles",
+            "miles": 14.09,
+            "minutes": 99,
+            "strava": 4369971042,
+            "description": "This was my longest run in a long tome, so I felt nervous. The first half felt good, while the second half was hard. I felt like I was working hard to earn each stride. Every one of those strides got me closer to my goal, though! 14 miles with a 7:10 average pace goal."
         }
     ]
 }
