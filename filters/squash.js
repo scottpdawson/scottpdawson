@@ -27,6 +27,8 @@ module.exports = function(text) {
   result = result.replace(/\.|\,|\?|-|—|\n/g, '');
   //remove repeated spaces
   result = result.replace(/([ ]{2,}|\t+)/g, ' ');
+  // remove backslashes
+  result = result.replace(/\\/g, "");
 
   return result;
 }
