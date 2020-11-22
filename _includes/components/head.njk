@@ -3,10 +3,12 @@
   {# <link rel="dns-prefetch" href="https://identity.netlify.com"> #}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {# <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> #}
-  <link href="/_includes/assets/fa/css/all.min.css" rel="stylesheet">
+  <link href="/_includes/assets/fa/css/all.min.css" rel="stylesheet" media="print" onload="this.media='screen'">
   <link rel="preconnect" href="//fonts.googleapis.com/" crossorigin>
-  <link rel="preload" href="/_includes/assets/fa/webfonts/fa-brands-400.woff2">
+  <link rel="preload" href="/_includes/assets/fa/webfonts/fa-solid-400.woff2">
   <link rel="preload" href="/_includes/assets/fa/webfonts/fa-solid-900.woff2">
+  <link rel="preload" href="/_includes/assets/fa/webfonts/fa-brands-400.woff2">
+  <link rel="preload" href="/_includes/assets/fa/webfonts/fa-brands-900.woff2">
   <link href="//fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&family=Special+Elite&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;700&display=swap" rel="stylesheet">
   <title>{%- if title !== 'Welcome' -%}{{ title }} | Scott Dawson{%- else -%}Scott Dawson{%- endif -%}</title>
   {% set meta_description %}
