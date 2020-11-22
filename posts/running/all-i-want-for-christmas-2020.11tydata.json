@@ -608,6 +608,18 @@
             "minutes": 99,
             "strava": 4369971042,
             "description": "This was my longest run in a long tome, so I felt nervous. The first half felt good, while the second half was hard. I felt like I was working hard to earn each stride. Every one of those strides got me closer to my goal, though! 14 miles with a 7:10 average pace goal."
+        },{
+            "date": "2020-11-22",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 60,
+            "strava": 4377670734,
+            "description": "A little virtual BodyPump with Chantelle in our living room. So delightful to get a good sweat on before hitting the barrel sauna for 15 minutes."
+        },{
+            "date": "2020-11-22",
+            "type": "Wrap",
+            "description": "Well, that was close to a 30 mile week, and not a bad one at that. Boy, do I need a break, though. These weekends aren't cutting it, so I'm looking forward to this being a 3-day work week coming up. I've decided to take Friday off so I get a nice 4-day weekend courtesy of Thanksgiving. Onward!"
         }
     ]
 }
