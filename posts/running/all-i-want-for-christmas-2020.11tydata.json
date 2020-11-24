@@ -620,6 +620,14 @@
             "date": "2020-11-22",
             "type": "Wrap",
             "description": "Well, that was close to a 30 mile week, and not a bad one at that. Boy, do I need a break, though. These weekends aren't cutting it, so I'm looking forward to this being a 3-day work week coming up. I've decided to take Friday off so I get a nice 4-day weekend courtesy of Thanksgiving. Onward!"
+        },{
+            "date": "2020-11-24",
+            "type": "Run",
+            "title": "Man in Tights",
+            "miles": 6.03,
+            "minutes": 43,
+            "strava": 4384068315,
+            "description": "Repeats! Boy, it was cold. First run this season in thermal tights. 3x mile with 200 RI. Splits: 6:18, 5:55, 6:23."
         }
     ]
 }

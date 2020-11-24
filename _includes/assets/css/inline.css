@@ -986,6 +986,9 @@ p code, li code {
 	margin-left: 55px;
 	margin-bottom: 10px;
 }
+.trainingTitle label:hover{
+	cursor: pointer;
+}
 .trainingToggle {
 	position: relative;
 }

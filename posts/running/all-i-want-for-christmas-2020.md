@@ -19,7 +19,7 @@ So far, I've run <b>{{hmTraining | totalRunMiles}}</b> miles over <b>{{hmTrainin
 {% set weekArray = hmTraining | getWeekArrayFor2020HMP | reverse %}
 {%- for week in weekArray -%}
 
-<h3 class="trainingTitle">Week {{week}}</h3>
+<h3 class="trainingTitle"><label for="switch{{week}}">Week {{week}}</label></h3>
 <div class="trainingToggle">
     <input type="checkbox" class="trainingSwitch switch" id="switch{{week}}" {%- if week == weekArray.length -%} checked{%- endif -%} />
     <label for="switch{{week}}">Toggle</label>
