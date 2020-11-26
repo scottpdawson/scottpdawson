@@ -628,6 +628,14 @@
             "minutes": 43,
             "strava": 4384068315,
             "description": "Repeats! Boy, it was cold. First run this season in thermal tights. 3x mile with 200 RI. Splits: 6:18, 5:55, 6:23."
+        },{
+            "date": "2020-11-25",
+            "type": "Weight",
+            "title": "BodyPump Remix",
+            "miles": 0,
+            "minutes": 42,
+            "strava": 4391321014,
+            "description": "Hard to believe that tomorrow is Thanksgiving! Work gave me part of the afternoon off, so it was nice to start this a little earlier and finish it with 15 minutes in the sauna while the rain fell softly outside."
         }
     ]
 }
