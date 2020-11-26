@@ -1,6 +1,6 @@
 ---
 title: "Christmas Half Marathon: 13.1 Miles of Holiday Cheer"
-date: "2020-09-14"
+date: "2020-11-26"
 permalink: "training-christmas-half-marathon-2020/"
 hero: "/images/2020/09/leaf-peeping.jpg"
 description: "I've used the Run Less, Run Faster half marathon plans before, so when I calculated out where a 16-week plan would land, it put me squarely at the end of Christmas week."
