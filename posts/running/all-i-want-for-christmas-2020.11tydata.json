@@ -644,6 +644,26 @@
             "minutes": 54,
             "strava": 4393505823,
             "description": "This is the first week of my plan where Thursday didn’t call for a tempo run. 6 miles “easy” was the order of the day, so it was perfect that @FLRCIthaca held a virtual fund run edition for their 48th Annual Turkey Trot. It benefits Loaves & Fishes of Tompkins County. I’m looking forward to a fun run with friends next year, but this year’s waterfall was a splendid stand-in as the sun peeked through the clouds."
+        },{
+            "date": "2020-11-27",
+            "type": "Combat",
+            "title": "BodyCombat 80",
+            "miles": 0,
+            "minutes": 58,
+            "strava": 4399718205,
+            "description": "Punching, kicking, and capoeira. Pretty darn good way to pass an hour!"
+        },{
+            "date": "2020-11-28",
+            "type": "Run",
+            "title": "Be Chilled or Be Chafed",
+            "miles": 10.04,
+            "minutes": 79,
+            "strava": 4402520119,
+            "description": "Rain? What rain? Started with clearing skies but my shirt was soaked by mist by mile 5. Fully soaked by 8 so the shirt came off. It was “be chilled or be chafed,” so I chose short-term discomfort!"
+        },{
+            "date": "2020-11-29",
+            "type": "Wrap",
+            "description": "What a gift today is. It's sunny, warm enough for a recovery hike, and tomorrow's back-to-work forecast is for rain. Perfect for indoor BodyPump, so today's planned lifting will be tomorrow's sweat-fest. What's next? Four weeks of planned runs, culminating in a fast half marathon. Let's do this!"
         }
     ]
 }
