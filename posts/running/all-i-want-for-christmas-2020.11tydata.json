@@ -664,6 +664,58 @@
             "date": "2020-11-29",
             "type": "Wrap",
             "description": "What a gift today is. It's sunny, warm enough for a recovery hike, and tomorrow's back-to-work forecast is for rain. Perfect for indoor BodyPump, so today's planned lifting will be tomorrow's sweat-fest. What's next? Four weeks of planned runs, culminating in a fast half marathon. Let's do this!"
+        },{
+            "date": "2020-11-30",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 59,
+            "strava": 4414171901,
+            "description": "Rainy. Cold-ish. Perfect for indoor BodyPump!"
+        },{
+            "date": "2020-12-01",
+            "type": "Run",
+            "title": "Repeats",
+            "miles": 7.02,
+            "minutes": 53,
+            "strava": 4417988751,
+            "description": "Oof. That’s was difficult. I wish I’d run this in the morning, but my only schedule opening was late afternoon. 10x400 w/ 400 RI."
+        },{
+            "date": "2020-12-02",
+            "type": "Weight",
+            "title": "BodyPump 105",
+            "miles": 0,
+            "minutes": 43,
+            "strava": 4422870223,
+            "description": "Amy and I had schedules that didn't line up to do this together, so this was a solo living room effort with ear buds in. It seems like the workout goes a lot faster this way!"
+        },{
+            "date": "2020-12-03",
+            "type": "Run",
+            "title": "Tempo",
+            "miles": 7.01,
+            "minutes": 48,
+            "strava": 4426083537,
+            "description": "Beautiful sun for this afternoon run, but a really unsettled stomach after a late lunch. Plus, shredded shoes (see Strava pics)! Time for a new pair, definitely."
+        },{
+            "date": "2020-12-05",
+            "type": "Run",
+            "title": "Sleet Feet",
+            "miles": 7.01,
+            "minutes": 48,
+            "strava": 4426083537,
+            "description": "Longest run of the training cycle with 3 weeks to go. Goal pace of 7:10, so really happy with this! My inventive route had me cross paths with my neighbor Ken like 6 times, he must have thought I was stalking him!"
+        },{
+            "date": "2020-12-06",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 57,
+            "strava": 4439730098,
+            "description": "Sunday BodyPump in our living room. Chantelle put together a pretty challenging workout for us today! Pretty whipped by the end."
+        },{
+            "date": "2020-12-06",
+            "type": "Wrap",
+            "description": "What a week. I ran in the sun, sleet, morning, and afternoon. 2x BodyPump felt good, though I skipped my weekly BodyCombat on Friday. Just wasn't feeling it, so begged off! My Altra Torin 4.5 Plush generated 3 holes in the sidewalls with just south of 400 miles on 'em, and to my surprise, Altra is covering that damage under warranty with a replacement pair. I'll be turning in these destroyed red kicks for something new in the coming 7-10 business days. Yeah!"
         }
     ]
 }
