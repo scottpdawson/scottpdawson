@@ -715,7 +715,47 @@
         },{
             "date": "2020-12-06",
             "type": "Wrap",
-            "description": "What a week. I ran in the sun, sleet, morning, and afternoon. 2x BodyPump felt good, though I skipped my weekly BodyCombat on Friday. Just wasn't feeling it, so begged off! My Altra Torin 4.5 Plush generated 3 holes in the sidewalls with just south of 400 miles on 'em, and to my surprise, Altra is covering that damage under warranty with a replacement pair. I'll be turning in these destroyed red kicks for something new in the coming 7-10 business days. Yeah!"
+            "description": "What a week. I ran in the sun, sleet, morning, and afternoon. 2x BodyPump felt good, though I skipped my weekly BodyCombat on Friday. Just wasn't feeling it, so begged off! My Altra Torin 4.5 Plush generated 3 holes in the sidewalls with just south of 400 miles on 'em, and to my surprise (and delight), Altra is covering that damage under warranty with a replacement pair. I'll be turning in these destroyed red kicks for something new in the coming 7-10 business days. Yeah!"
+        },{
+            "date": "2020-12-08",
+            "type": "Run",
+            "title": "No Netflix and Chill",
+            "miles": 5.61,
+            "minutes": 40,
+            "strava": 4446312696,
+            "description": "Hey, that was cold! 2x1200 w/ 2 min RI + 2x800 w/ 2 min RI. Fun to put on my cold weather gear and see that I wasn’t alone out there!"
+        },{
+            "date": "2020-12-09",
+            "type": "Weight",
+            "title": "BodyPump 109 Express",
+            "miles": 0,
+            "minutes": 37,
+            "strava": 4452555541,
+            "description": "I don't think Les Mills should advertise a 37-minute workout as a 45-minute workout in their app. I feel cheated."
+        },{
+            "date": "2020-12-10",
+            "type": "Run",
+            "title": "Tempo + It's a Wonderful Run",
+            "miles": 7.04,
+            "minutes": 49,
+            "strava": 4455319806,
+            "description": "Felt like a tough go today, but happy to get this in before a hectic day of work. Plus, this was the week for the virtual \"It's a Wonderful Run\". I paid for a nice tech tee, so might as well have this count. It's strange to run these virtual races alone, but here we are! We'll count the first mile as a warmup, so this was a 20:26 5K effort."
+        },{
+            "date": "2020-12-11",
+            "type": "Combat",
+            "title": "BodyCombat 78",
+            "miles": 0,
+            "minutes": 41,
+            "strava": 4460163439,
+            "description": "Punching and kicking on the deck. I felt the need to kick the shit out of something after a frustrating day at work, so I kicked the shit outta this workout. Mission accomplished."
+        },{
+            "date": "2020-12-12",
+            "type": "Run",
+            "title": "🎯 Right on the Money",
+            "miles": 12.03,
+            "minutes": 84,
+            "strava": 4463094799,
+            "description": "Called for 12 at 7, so yeah. I threw in a bunch of little hills to keep it interesting. Maiden voyage with my warranty-replaced Torin Plush, so that was a nice treat!"
         }
     ]
 }
