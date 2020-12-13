@@ -1,8 +1,8 @@
 ---
 title: "Annual Christmas Tree Ornaments"
-date: "2019-12-20"
+date: "2020-12-13"
 permalink: "annual-christmas-tree-ornaments/"
-hero: "/images/2019/12/2003-Joy.jpg"
+hero: "/images/2019/12/2020-Pottery-Rose.jpg"
 description: "We've been making homemade ornaments for our family since we were married."
 ---
 
@@ -175,3 +175,11 @@ Amy and I had just enjoyed a morning coffee at Sisters Coffee Company when we ca
 
 _2019_  
 When Scott's Korg 01/WproX piano started to bite the dust, he tore it down to be recycled. It seemed appropriate to upcycle the keys into ornaments, given that 7 octaves contained the requisite C/D/E combination for this ornament. Also appropriate since Elizabeth began her college education this fall as a music education major with a concentration in Piano.
+
+{% picture "/images/2019/12/2020-Pottery-Rose.jpg", "" %}
+
+## Pottery Vessel with a Yellow Rose
+
+_2020_  
+Elizabeth made this year's ornament to remember her grandma, Diana Bradham. Elizabeth threw, glazed, and fired all of the pottery vessels (20 in all) and placed Diana's favorite flower (a yellow rose) in each. 
+
