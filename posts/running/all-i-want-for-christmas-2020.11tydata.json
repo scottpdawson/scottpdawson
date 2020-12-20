@@ -768,6 +768,58 @@
             "date": "2020-12-13",
             "type": "Wrap",
             "description": "What a difference a few days makes. The weekends are crucial to my emotional health during this time. During the summer, I used much of my vacation time to take Mondays off, resulting in a serious string of 4-day work weeks. I really miss that. It seemed like the right balance. I'm taking the week between Christmas and New Year's off, so am really looking forward to that. Now, just 2 weeks left in the plan. 5 more training runs. Nothing over 8 miles. Let's do this!"
+        },{
+            "date": "2020-12-15",
+            "type": "Run",
+            "title": "Ginger Lee",
+            "miles": 6.04,
+            "minutes": 45,
+            "strava": 4475111242,
+            "description": "Well, gingerly. Snowy roads for the first time this season! 5x1,000 w/ 400 RI. Hamstring is tight, too, so time for a little stretching too!"
+        },{
+            "date": "2020-12-16",
+            "type": "Weight",
+            "title": "BodyPump 97",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4481410841,
+            "description": "97 is our go-to BodyPump release. It's like an old friend!"
+        },{
+            "date": "2020-12-17",
+            "type": "Combat",
+            "title": "BodyCombat 73",
+            "miles": 0,
+            "minutes": 55,
+            "strava": 4485175956,
+            "description": "Switched up my runs this week due to weather, so a rare BodyCombat for a Thursday. Did a full-length edition, and felt every punch and kick by the end. Such a wonderful workout!"
+        },{
+            "date": "2020-12-18",
+            "type": "Run",
+            "title": "Slip ‘n Slide",
+            "miles": 6.02,
+            "minutes": 46,
+            "strava": 4487106389,
+            "description": "Tough to maintain a target tempo pace in miles 3-5, but at least it was faster than my 2-mile warmup and 1-mile cool down! Snowy roads and sidewalks made for tough progress."
+        },{
+            "date": "2020-12-19",
+            "type": "Weight",
+            "title": "BodyPump with Chantelle",
+            "miles": 0,
+            "minutes": 58,
+            "strava": 4491675032,
+            "description": "This time, a real-time virtual class with Chantelle. Really nice to get the shared energy from other participants from their respective living rooms."
+        },{
+            "date": "2020-12-20",
+            "type": "Run",
+            "title": "Chasing Clean Pavement",
+            "miles": 8.11,
+            "minutes": 55,
+            "strava": 4496935502,
+            "description": "Last long run of the training cycle! I could have done without needing a bio break with 1.2 miles to go, but that’s what I get for drinking too much coffee! Ready for an easier week ahead."
+        },{
+            "date": "2020-12-20",
+            "type": "Wrap",
+            "description": "Well, that's pretty much it. Hay is mostly in the barn, with two more short, easy runs before I try a fast half marathon late next week. It coincides with the beginning of a much-needed week off from work, too, so I'm really looking forward to it. I also have a plan for what I'm going to do post-race: a whole lot of cross training and a lot less running. Really glad that we have some solid fitness equipment at home to get through these cold winter months!"
         }
     ]
-}
+}   
