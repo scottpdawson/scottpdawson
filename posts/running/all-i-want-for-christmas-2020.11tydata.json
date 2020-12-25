@@ -820,6 +820,34 @@
             "date": "2020-12-20",
             "type": "Wrap",
             "description": "Well, that's pretty much it. Hay is mostly in the barn, with two more short, easy runs before I try a fast half marathon late next week. It coincides with the beginning of a much-needed week off from work, too, so I'm really looking forward to it. I also have a plan for what I'm going to do post-race: a whole lot of cross training and a lot less running. Really glad that we have some solid fitness equipment at home to get through these cold winter months!"
+        },{
+            "date": "2020-12-21",
+            "type": "Run",
+            "title": "Rabbit Repeats",
+            "miles": 5.01,
+            "minutes": 39,
+            "strava": 4500172646,
+            "description": "I decided to do my 6x400 repeats today instead of tomorrow, mostly because I’m being a wuss about the forecasted weather. No rest between yesterday’s long fast run and today, so this felt particularly taxing!"
+        },{
+            "date": "2020-12-23",
+            "type": "Run",
+            "title": "Easy Miles",
+            "miles": 3.02,
+            "minutes": 23,
+            "strava": 4509844708,
+            "description": "Three easy miles to close out the plan. Now all that’s left is a half marathon this weekend!"
+        },{
+            "date": "2020-12-25",
+            "type": "Run",
+            "title": "Christmas Half Marathon 🎄",
+            "miles": 13.14,
+            "minutes": 86,
+            "strava": 4516872713,
+            "description": "Racing solo is so hard, but such a sweet reward for cap off a solid training cycle. 2nd fastest half marathon EVER with 1:25:50, between my 1:23:17 PR at 2018's Gorges and 1:26:20 at 2014's Wineglass. I promised myself a fast half marathon for Christmas, and I delivered it right on time!"
+        },{
+            "date": "2020-12-25",
+            "type": "Wrap",
+            "description": "Mission. Freakin'. Accomplished. 2nd fastest half marathon! When I thought about this goal Labor Day weekend, I never thought it would bring me so much satisfaction. The training runs were hard, but as the pandemic-fueled weeks rolled on, I hit my goals again and again. This last week had just a few easy runs, the first cross-country ski of the season, rowing, yoga, and an elliptical workout. Most importantly, though, it culminated in a goal met. Onward!"
         }
     ]
 }   
