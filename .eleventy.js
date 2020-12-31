@@ -12,11 +12,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addFilter("galleryImage", img => {
-    return img + '?nf_resize=smartcrop&w=213&h=213';
+    let resizeType = img.includes(".png") ? "fit" : "smartcrop";
+    return img + '?nf_resize=' + resizeType + '&w=213&h=213';
   });
 
   eleventyConfig.addFilter("heroImage", img => {
-    return img + '?nf_resize=smartcrop&w=723&h=560';
+    let resizeType = img.includes(".png") ? "fit" : "smartcrop";
+    return img + '?nf_resize=' + resizeType + '&w=723&h=560';
   });
   
   eleventyConfig.addFilter("contentImage", img => {
