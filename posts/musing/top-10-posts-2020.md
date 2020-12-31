@@ -4,6 +4,8 @@ date: "2020-12-31"
 permalink: "top-10-posts-2020/"
 hero: "/images/2020/12/top-10-2020.png"
 description: "Looking back on my web site traffic for 2020, I thought it'd be fun to recap my top 10 visited posts of 2020. They paint a nice picture of my diversification of interests, and also a hint of a visitorship intent on improving their backyards."
+tags: 
+    - top10
 ---
 
 Looking back on my web site traffic for 2020 _(thanks, Google Analytics)_, I thought it'd be fun to recap my top 10 visited posts of 2020. I think they paint a nice picture of my diversification of interests, and also a hint of a visitorship intent on improving their backyards. Here's to 2020, and to these popular posts (in order of increasing views):
