@@ -14,7 +14,7 @@ If you're a numbers geek AND a fitness geek like me, you've wanted to export Str
 
 Going through workout-by-workout just wouldn't cut it. I needed a spreadsheet I could sort, filter and enrich. The [resulting poster](/infographic-training-50-mile-race/) was just as I'd hoped for! It turns out I'm also a technology geek, so I figured out how to export Strava data into a spreadsheet so I could get the numbers I needed for my poster. There are a few steps involved, but it's not _THAT_ hard. Grab a cold one and get your browser console ready, 'cause we're going to go on a Strava data expedition!
 
-## TL;DR: A 2020 Update
+## TL;DR: An Update
 
 Tibor commented on my original post a while ago, and I had reason to use their code when [my wife and daughter summarized their 200-day hike streak](https://skirtrunner.com/hiking/200-day-coronavirus-hike-streak/). This is by far the easiest and quickest approach. 
 
@@ -24,7 +24,7 @@ Tibor commented on my original post a while ago, and I had reason to use their c
 4. Paste the code into the browser console and hit Enter.
 5. Copy new window's content into https://konklone.io/json to convert to CSV.
 
-Read on if you'd like some alternatives, or want to understand what's going on in more detail.
+Also, if you're after GPX files from multiple activities, [Alistair Adams](https://www.linkedin.com/in/alistair0adams/) sent me some code that they've used to [bulk-download GPX files from Strava](https://gist.github.com/scottpdawson/e4a9e7febf073302c46f012b46cc5676). No arbitrary wait time between downloads and some control over the saved filename, too. It's a different use case than above, but very useful if you're trying to get per-workout data out to transfer to another platform or analyze further.
 
 ## Other Approaches, Background
 
