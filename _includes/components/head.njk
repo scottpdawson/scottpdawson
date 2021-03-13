@@ -47,6 +47,9 @@
   <script defer src="/_includes/assets/js/search.js"></script>
   <script defer src="/_includes/assets/js/flickity.pkgd.min.js"></script>
   <script defer src="/_includes/assets/js/fullscreen.js"></script>
+  {%- if usesCharts -%}
+  <script src="//code.highcharts.com/highcharts.js"></script>
+  {%- endif -%}
   {% set css %}
     {% include "assets/css/inline.css" %}
     {% include "assets/css/flickity.min.css" %}

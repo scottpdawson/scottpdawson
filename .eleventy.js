@@ -40,6 +40,10 @@ module.exports = function(eleventyConfig) {
     return moment.utc(dateObj).format('YYYY');
   });
 
+  eleventyConfig.addFilter("momentUnix", dateObj => {
+    return moment.utc(dateObj).format('x');
+  });
+
   eleventyConfig.addFilter("momentDay", dateObj => {
     return moment.utc(dateObj).format('D');
   });
@@ -83,6 +87,18 @@ module.exports = function(eleventyConfig) {
       }
     });
     return totalRunMinutes;
+  });
+
+  eleventyConfig.addFilter("averageWritingMinutes", collection => {
+    return Math.floor(collection.reduce( ( total, next ) => total + next.y, 0 ) / collection.length);
+  });
+
+  eleventyConfig.addFilter("totalWritingMinutes", collection => {
+    return Math.floor(collection.reduce( ( total, next ) => total + next.y, 0 ));
+  });
+
+  eleventyConfig.addFilter("percentWritingMinutes", function(value, total) {
+    return Math.floor(value/total*100);
   });
 
   eleventyConfig.addFilter("getWeekArrayFor2020HMP", collection => {
