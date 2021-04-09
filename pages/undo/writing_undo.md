@@ -25,8 +25,7 @@ I'm keeping track of my progress each week, since they've seemed to fly by since
 
 {%- for recap in writingRecap | reverse -%}
     {%- if recap.title -%}
-        <h3>{{recap.date | momentDate}}: {{recap.title}}</h3>
-        <div class="writing_recap">{%- include "./writing_summaries/" + recap.date + ".md" -%}</div>
+        <h3>{{recap.date | momentDate}}: {{recap.title}}</h3><div class="writing_recap">{%- include "./writing_summaries/" + recap.date + ".md" -%}</div>
     {%- endif -%}
 {%- endfor -%}
 
