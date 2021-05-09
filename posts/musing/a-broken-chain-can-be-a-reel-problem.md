@@ -19,3 +19,11 @@ My first go-to resource was Fiskars, but my quick Internet search led me to conc
 > Yeah. Bring it in. Fun.
 
 I was so grateful for his willingness to tackle the job! Within just a few hours of dropping it off, John emailed me that it was all set to pick up. Phenomenal. I cut the grass yesterday with my renewed mower, with no slack in the chain. It cut like a dream again. Thank you, John! If this happens to you, hit up your local independent bike shop. They might be able to help!
+
+## Update May 9, 2021
+
+Tori emailed me to let me share their story about the very same issue. They bought their Fiskars StaySharp Max reel mower in 2011 and  used it every season since then ... going into 10 years of weekly mowing a rural home lot for 8 months out of the year.
+
+> I had chain issues this year; on my 4th mowing the chain slipped off 6 different times and I was beyond frustrated. I didn't really want to spend another $200+ for a new Fiskars so I emailed their warranty dept. explaining that I knew I was not in a warranty period but needed a new chain and possibly a large sprocket because I thought it might be bent. Their response: "Anyone that has a 10 year-old reel mower that has performed faithfully deserves new parts". Seriously! They sent me a new chain, a chain tensioner (something new that mine did not have), and a new large sprocket. I had them 8 days later. Absolutely no cost to me. Fiskars rocks! If you have problems in the future you might want to try their warranty dept. I suspect you will have the same positive experience I had.
+
+What a great story from Tori! Fiskars' warranty email is [warranty@fiskars.com](mailto:warranty@fiskars.com).
