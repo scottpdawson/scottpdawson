@@ -91,7 +91,13 @@
         { "date": "2021-05-11", "y": 848 },
         { "date": "2021-05-12", "y": 1160 },
         { "date": "2021-05-13", "y": 955 },
-        { "date": "2021-05-14", "y": 1668, "title": "On Lengthening Days and Storylines" }
+        { "date": "2021-05-14", "y": 1668, "title": "On Lengthening Days and Storylines" },
+
+        { "date": "2021-05-17", "y": 1005 },
+        { "date": "2021-05-18", "y": 622 },
+        { "date": "2021-05-19", "y": 326 },
+        { "date": "2021-05-20", "y": 668 },
+        { "date": "2021-05-21", "y": 730, "title": "First Thing Monday Morning" }
 
     ]
 }   
