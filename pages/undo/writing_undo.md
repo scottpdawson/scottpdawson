@@ -23,11 +23,14 @@ I'm keeping track of my progress each week. I wrote the second draft of the book
 
 <h2>Editing & Marketing Dispatches</h2>
 
-<h3>{{'2021-07-16' | momentDate}}: No More Counting</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-07-16.md" -%}</div>
+<h3>{{'2021-07-23' | momentDate}}: Assuming the Role of the Reader</h3>
+<div class="writing_recap">{%- include "./writing_summaries/2021-07-30.md" -%}</div>
 
 <h3>{{'2021-07-23' | momentDate}}: Shifting Gears</h3>
 <div class="writing_recap">{%- include "./writing_summaries/2021-07-23.md" -%}</div>
+
+<h3>{{'2021-07-16' | momentDate}}: No More Counting</h3>
+<div class="writing_recap">{%- include "./writing_summaries/2021-07-16.md" -%}</div>
 
 <h2>Writing Dispatches</h2>
 
