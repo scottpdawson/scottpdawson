@@ -23,6 +23,9 @@ I'm keeping track of my progress each week. I wrote the second draft of the book
 
 <h2>Editing & Marketing Dispatches</h2>
 
+<h3>{{'2021-09-03' | momentDate}}: Beta Readers</h3>
+<div class="writing_recap">{%- include "./writing_summaries/2021-09-03.md" -%}</div>
+
 <h3>{{'2021-08-27' | momentDate}}: Next Week's the Week</h3>
 <div class="writing_recap">{%- include "./writing_summaries/2021-08-27.md" -%}</div>
 
