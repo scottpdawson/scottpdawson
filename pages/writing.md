@@ -10,21 +10,15 @@ eleventyNavigation:
 
 ## The Art of Working Remotely
 
-{% pictureRt "/images/2019/06/cover-ipad-mock-e1561109317865.png", "The Art of Working Remotely" %}
+{% pictureRt "/images/writing/aowr-cover.jpg", "" %}
 
-[The Art of Working Remotely](https://artofworkingremotely.com/book/) is about my experience working from home since 1998. That's {% yearsRemoteWorking %} years. I published it on July 25, 2019, and it's had a fantastic reception in the remote work community (which, let's face it, grew a little in 2020).
-
-> People aren’t typically taught how to thrive in a distributed workplace. Remote workers have to learn on their own. Discover how to set up a quality workspace. Learn the behaviors and practices that contribute to remote worker success. You, too, can thrive in a distributed workplace.
-
-I would be so grateful for a review at [Amazon](https://www.amazon.com/dp/1733991301) or [Goodreads](https://www.goodreads.com/book/show/46848606-the-art-of-working-remotely).
+**The Art of Working Remotely** is about my experience working from home since 1998. That's {% yearsRemoteWorking %} years of remote work! I published it on July 25, 2019, and it's had a fantastic reception in the remote work community (which, let's face it, grew a little in 2020). [Read more about the project](/writing/aowr/).
 
 ## Undo
 
-I'm on track to finish my fiction novel by September 2021.
+{% pictureRt "/images/writing/barn.jpg", "" %}
 
-> Corey lives in Morley, Oregon. His family is well known for winemaking and ranching in this rural Willamette Valley town. After tragedy strikes, he discovers a device that allows him to jump back in time. Will the power of undoing his actions get him what he wants? Or, does Corey learn there are some things you cannot fix?
-
-I'm [keeping track of my progress each week](/writing/undo), since they've seemed to fly by since I started writing the second draft of the book on January 25, 2021.
+I finished writing my debut fiction novel, **Undo**, in September 2021. It's currently with beta readers and I cannot wait to bring it to a wider audience! [Read more about the project](/writing/undo/).
 
 ## #365DayDraw
 

@@ -5,14 +5,14 @@ author: "Scott Dawson"
 hero: "/images/writing/barn.jpg"
 navigation: "Write"
 usesCharts: true
-description: "I'm on track to finish Undo, my fiction novel, by September 2021. I'm keeping track of my progress each week, since they've seemed to fly by since I started writing the second draft of the book on January 25, 2021."
+description: "I finished writing Undo, my debut fiction novel, in September 2021. It's currently with beta readers and I cannot wait to bring it to a wider audience! "
 ---
 
-I'm on track to finish **Undo**, my fiction novel, by September 2021.
+I finished writing **Undo**, my debut fiction novel, in September 2021. It's currently with beta readers and I cannot wait to bring it to a wider audience!
 
 > Corey lives in Morley, Oregon. His family is well known for winemaking and ranching in this rural Willamette Valley town. After tragedy strikes, he discovers a device that allows him to jump back in time. Will the power of undoing his actions get him what he wants? Or, does Corey learn there are some things you cannot fix?
 
-I'm keeping track of my progress each week. I wrote the second draft of the book between January 25 and July 9, 2021. I'm capturing the weekly progress of editing, proposing, and sharing below.
+I wrote the book between January 25 and July 9, 2021. I'm capturing the weekly progress of editing, proposing, and sharing below.
 
 <h2>Progress, Visualized</h2>
 
