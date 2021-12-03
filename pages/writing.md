@@ -8,17 +8,24 @@ eleventyNavigation:
   order: 4
 ---
 
+## Handbook for the Modern Worker (365 Daily Tips)
+
+{% pictureRt "/images/writing/handbook_tree.jpg", "" %}
+
+I wrote a tip for "distributed workers" every day in 2021. By the end of the year, I realized I had created something rather special, and decided to publish it in the form of a handbook.
+[Read more about the project](/writing/handbook/).
+
 ## The Art of Working Remotely
 
 {% pictureRt "/images/writing/aowr-cover.jpg", "" %}
 
-**The Art of Working Remotely** is about my experience working from home since 1998. That's {% yearsRemoteWorking %} years of remote work! I published it on July 25, 2019, and it's had a fantastic reception in the remote work community (which, let's face it, grew a little in 2020). [Read more about the project](/writing/aowr/).
+**The Art of Working Remotely** is about my experience working from home since 1998. That's {% yearsRemoteWorking %} years of remote work! I published it on July 25, 2019, and it's had a fantastic reception in the remote work community.
+[Read more about the project](/writing/aowr/).
 
 ## Undo
 
-{% pictureRt "/images/writing/barn.jpg", "" %}
-
-I finished writing my debut fiction novel, **Undo**, in September 2021. It's currently with beta readers and I cannot wait to bring it to a wider audience! [Read more about the project](/writing/undo/).
+I finished writing my debut fiction novel, **Undo**, in September 2021. It's currently with beta readers and I cannot wait to bring it to a wider audience!
+[Read more about the project](/writing/undo/).
 
 ## #365DayDraw
 
