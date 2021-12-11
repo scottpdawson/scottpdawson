@@ -21,6 +21,10 @@ On January 1, 2021, I set a goal to write 365 practical and unique tips about th
 
 I posted tips on Twitter and LinkedIn every day. Before January was up, I doubled my cadence: for every daily tip I wrote, I wrote one for later in the year. Some tips are from my book and others are new, garnered from my own experiences over the last few years. The tips will help you level up your working game, regardless of where, when, or how you do it. On July 19, my list met in the middle of my spreadsheet. Mission accomplished!
 
+## From the Author
+
+<iframe width="100%" height="393" src="https://www.youtube.com/embed/19lwOIvSFW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Who's This Modern Worker, Anyway?
 
 {% pictureRt "/images/writing/handbook_index.jpg", "Features an exhaustive index" %}
