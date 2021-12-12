@@ -1,8 +1,8 @@
 ---
 title: "Annual Christmas Tree Ornaments"
-date: "2020-12-13"
+date: "2021-12-12"
 permalink: "annual-christmas-tree-ornaments/"
-hero: "/images/2019/12/2020-Pottery-Rose.jpg"
+hero: "/images/2019/12/2021-Saxophone.jpg"
 description: "We've been making homemade ornaments for our family since we were married."
 ---
 
@@ -181,5 +181,11 @@ When Scott's Korg 01/WproX piano started to bite the dust, he tore it down to be
 ## Pottery Vessel with a Yellow Rose
 
 _2020_  
-Elizabeth made this year's ornament to remember her grandma, Diana Bradham. Elizabeth threw, glazed, and fired all of the pottery vessels (20 in all) and placed Diana's favorite flower (a yellow rose) in each. 
+Elizabeth made this year's ornament to remember her grandma, Diana Bradham. Elizabeth threw, glazed, and fired all of the pottery vessels (20 in all) and placed Diana's favorite flower (a yellow rose) in each.
 
+{% picture "/images/2019/12/2021-Saxophone.jpg", "" %}
+
+## Saxophone
+
+_2021_  
+We call this the "Saxy"-est ornament on the tree. 2021 has been all about the saxophone (well, flute and clarinet, too) for Xander as he auditions for music school. He also was the principle saxophonist at the NYSSMA All-State Music Festival.
