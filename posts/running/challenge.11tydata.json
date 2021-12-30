@@ -1,0 +1,371 @@
+{
+  "courses": [
+    {
+      "name": "East Hill Rec Way",
+      "description": "Once a month was good enough for this course, apparently! The mile is such a tough distance, and even more so when you don't have the markers of track or the motivation of nearby runners to keep the pedal to the metal. The Rec Way is beautiful, though, and a nice flat venue to try your best. My last and fastest effort brought me close to my 5:17 mile PR, so that was pretty satisfying for me. Benefit to this course is the return trip back to the start, which I mainly did as a cool-down walk with Amy.",
+      "fastestTime": "5:23",
+      "fastestPlace": "11th",
+      "fastestStrava": 6092844898,
+      "distance": "1 mile"
+    },
+    {
+      "name": "Cornell Botanic Gardens",
+      "description": "I had never been to Cornell's Botanic Gardens before. It's so beautiful! It's also a tough course to run. It's short, sure, but there's plenty of elevation gain and loss. Fastest time on this course was with fellow runners at a FLRC-sanctioned group run. Some younger (faster) runners helped propel me to my PR here.",
+      "fastestTime": "16:05",
+      "fastestPlace": "17th",
+      "fastestStrava": 5828654982,
+      "distance": "2.4 miles"
+    },
+    {
+      "name": "Waterfront Trail",
+      "description": "Ah, the 5K. A nemesis distance if I ever knew one. Why run a fast mile when you can run 3? I have trouble pacing at this distance, and never got the chance to run it with other people. Still, I put in solid efforts whenever I could and notched a sub-20 in October.",
+      "fastestTime": "19:43",
+      "fastestPlace": "15th",
+      "fastestStrava": 6126236015,
+      "distance": "3.1 miles"
+    },
+    {
+      "name": "Tortoise & Hare",
+      "description": "Buttermilk Falls State Park is gorgeous. We did a hill running training camp here once, and every time I go up the camp road I'm reminded of that time with Willie McBride, Yassine Diboun, and Krissie Moehl. A mid-year storm wiped out the bridge at the top of this course, so late-season efforts were true out-and-backs to make the proper distance. That last effort was really tough, but there's nothing like sprinting across that parking lot after the last mile or so of gnarly downhill running.",
+      "fastestTime": "44:04",
+      "fastestPlace": "5th",
+      "fastestStrava": 6135662504,
+      "distance": "5.4 miles"
+    },
+    {
+      "name": "Danby Down & Dirty",
+      "description": "Oh, Danby! I'd never been to this trail before, and the first time Amy and I went, we walked and hiked most of it. And, we encountered snakes! We thought seriously about not returning but we were drawn to another effort with friends (who would keep the snakes at bay) who were running the race in October. In fact, Danby is the only <i>real race</i> I ran this year, and you can read all about it in my <a href='/danby-down-and-dirty-2021'>race report</a>. My very best course-specific placement in the challenge!",
+      "fastestTime": "51:51",
+      "fastestPlace": "4th",
+      "fastestStrava": 6052962624,
+      "distance": "6 miles"
+    },
+    {
+      "name": "South Hill Rec Way",
+      "description": "Another new trail for me! The Rec Way course has three legs and you can run them in any order. I found a preference in the latter runnings for the shortest leg first, then the longest, and then the downhill/uphill leg to finish. My favorite memory running this course was when Ian Golden and I hooked up for an impromptu conversation for most of the run in July.",
+      "fastestTime": "45:28",
+      "fastestPlace": "10th",
+      "fastestStrava": 6151690401,
+      "distance": "6.8 miles"
+    },
+    {
+      "name": "Thom B. Trail Run",
+      "description": "Hammond Hill was such a blast. I used to cross country ski here when we first moved to the area, and I'd only been here a few times in summer to run the race. All of my efforts were in late summer and early fall. The first was a reconnaissance hike/run with Amy. Most of the efforts were in very wet conditions. Nothing like getting a little mud on the tires! Also very impressed with the Friends of Hammond Hill organization: they kept the trails nicely maintained, and also made some pretty big improvements in some of the wettest spots!",
+      "fastestTime": "1:09:21",
+      "fastestPlace": "8th",
+      "fastestStrava": 6244137211,
+      "distance": "8.5 miles"
+    },
+    {
+      "name": "Forest Frolic",
+      "description": "The forests near Virgil are gnarly and really off grid. No cell service in much of this area, and I love it because it backs up to Greek Peak. You can see the top of Chair 2 from the apex of this course! I ran this with similar timing and frequency to Thom B. For us, it's quite a haul to get there and back, but every time it was really worth it. Lots of elevation gain and plenty of solitude!",
+      "fastestTime": "1:24:31",
+      "fastestPlace": "11th",
+      "fastestStrava": 6161429449,
+      "distance": "9 miles"
+    },
+    {
+      "name": "Black Diamond Trail",
+      "description": "It's no surprise that I notched most of my efforts here. It's closest to Trumansburg. This course is pure challenge: five miles up, five miles down. To nail a fast time, you have to work hard the entire time! This was the only time that I ran faster pre-surgery, though it did come close to besting the time in early November. Colder air makes for faster running, right?",
+      "fastestTime": "1:07:13",
+      "fastestPlace": "7th",
+      "fastestStrava": 5379284790,
+      "distance": "10 miles"
+    },
+    {
+      "name": "Pseudo Skunk Cabbage",
+      "description": "For the past few years, I've tried to maintain a constant state of half marathon readiness. In fact, I used to bang out a half every weekend during the first year of the pandemic. I still really enjoy the distance and the mental focus it takes to work for the better part of 90 minutes. I'd never run the streets of this course, but came to love it, especially in the early months of the challenge.I saved my best effort for last, getting my course PR in late November.",
+      "fastestTime": "1:32:17",
+      "fastestPlace": "7th",
+      "fastestStrava": 6284878703,
+      "distance": "13.1 miles"
+    }
+  ],
+  "challenge": [
+    {
+      "date": "3/13/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "1:40:43"
+    },
+    {
+      "date": "3/20/21",
+      "course": "Black Diamond Trail",
+      "time": "1:18:58"
+    },
+    {
+      "date": "3/27/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "1:33:22"
+    },
+    {
+      "date": "4/3/21",
+      "course": "Black Diamond Trail",
+      "time": "1:08:48"
+    },
+    {
+      "date": "4/10/21",
+      "course": "Black Diamond Trail",
+      "time": "1:10:07"
+    },
+    {
+      "date": "4/11/21",
+      "course": "Waterfront Trail",
+      "time": "22:12"
+    },
+    {
+      "date": "4/18/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "1:34:38"
+    },
+    {
+      "date": "4/24/21",
+      "course": "Black Diamond Trail",
+      "time": "1:09:44"
+    },
+    {
+      "date": "5/2/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "1:35:12"
+    },
+    {
+      "date": "5/9/21",
+      "course": "Black Diamond Trail",
+      "time": "1:07:54"
+    },
+    {
+      "date": "5/16/21",
+      "course": "Black Diamond Trail",
+      "time": "1:10:27"
+    },
+    {
+      "date": "5/23/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "1:36:26"
+    },
+    {
+      "date": "5/29/21",
+      "course": "Black Diamond Trail",
+      "time": "1:07:13"
+    },
+    {
+      "date": "6/12/21",
+      "course": "Black Diamond Trail",
+      "time": "1:14:55"
+    },
+    {
+      "date": "7/24/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "24:03"
+    },
+    {
+      "date": "7/24/21",
+      "course": "East Hill Rec Way",
+      "time": "6:27"
+    },
+    {
+      "date": "7/24/21",
+      "course": "Waterfront Trail",
+      "time": "30:04"
+    },
+    {
+      "date": "7/26/21",
+      "course": "Tortoise & Hare",
+      "time": "1:11:38"
+    },
+    {
+      "date": "7/31/21",
+      "course": "South Hill Rec Way",
+      "time": "52:49"
+    },
+    {
+      "date": "8/7/21",
+      "course": "Waterfront Trail",
+      "time": "22:44"
+    },
+    {
+      "date": "8/9/21",
+      "course": "Forest Frolic",
+      "time": "2:40:00"
+    },
+    {
+      "date": "8/14/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:38:12"
+    },
+    {
+      "date": "8/15/21",
+      "course": "Black Diamond Trail",
+      "time": "1:14:55"
+    },
+    {
+      "date": "8/16/21",
+      "course": "Danby Down & Dirty",
+      "time": "1:22:28"
+    },
+    {
+      "date": "8/18/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "16:38"
+    },
+    {
+      "date": "8/18/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "18:14"
+    },
+    {
+      "date": "8/18/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "18:19"
+    },
+    {
+      "date": "8/19/21",
+      "course": "East Hill Rec Way",
+      "time": "5:50"
+    },
+    {
+      "date": "8/20/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:18:35"
+    },
+    {
+      "date": "8/21/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "16:05"
+    },
+    {
+      "date": "8/28/21",
+      "course": "Forest Frolic",
+      "time": "1:30:41"
+    },
+    {
+      "date": "9/4/21",
+      "course": "Black Diamond Trail",
+      "time": "1:10:04"
+    },
+    {
+      "date": "9/6/21",
+      "course": "South Hill Rec Way",
+      "time": "48:58"
+    },
+    {
+      "date": "9/7/21",
+      "course": "Tortoise & Hare",
+      "time": "51:40"
+    },
+    {
+      "date": "9/9/21",
+      "course": "Waterfront Trail",
+      "time": "20:53"
+    },
+    {
+      "date": "9/11/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "17:58"
+    },
+    {
+      "date": "9/11/21",
+      "course": "East Hill Rec Way",
+      "time": "5:38"
+    },
+    {
+      "date": "9/12/21",
+      "course": "Forest Frolic",
+      "time": "1:25:17"
+    },
+    {
+      "date": "9/13/21",
+      "course": "Waterfront Trail",
+      "time": "24:34"
+    },
+    {
+      "date": "9/26/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:12:54"
+    },
+    {
+      "date": "9/29/21",
+      "course": "Cornell Botanic Gardens",
+      "time": "17:18"
+    },
+    {
+      "date": "10/2/21",
+      "course": "Danby Down & Dirty",
+      "time": "51:51"
+    },
+    {
+      "date": "10/10/21",
+      "course": "East Hill Rec Way",
+      "time": "5:23"
+    },
+    {
+      "date": "10/10/21",
+      "course": "South Hill Rec Way",
+      "time": "48:51"
+    },
+    {
+      "date": "10/11/21",
+      "course": "Tortoise & Hare",
+      "time": "47:11"
+    },
+    {
+      "date": "10/17/21",
+      "course": "Waterfront Trail",
+      "time": "19:43"
+    },
+    {
+      "date": "10/19/21",
+      "course": "Tortoise & Hare",
+      "time": "44:04"
+    },
+    {
+      "date": "10/22/21",
+      "course": "South Hill Rec Way",
+      "time": "45:28"
+    },
+    {
+      "date": "10/24/21",
+      "course": "Forest Frolic",
+      "time": "1:24:31"
+    },
+    {
+      "date": "10/30/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:15:10"
+    },
+    {
+      "date": "10/31/21",
+      "course": "South Hill Rec Way",
+      "time": "47:39"
+    },
+    {
+      "date": "11/6/21",
+      "course": "Black Diamond Trail",
+      "time": "1:08:56"
+    },
+    {
+      "date": "11/11/21",
+      "course": "Thom B. Trail Run",
+      "time": "1:09:21"
+    },
+    {
+      "date": "11/14/21",
+      "course": "Black Diamond Trail",
+      "time": "1:16:01"
+    },
+    {
+      "date": "11/20/21",
+      "course": "Pseudo Skunk Cabbage",
+      "time": "1:32:17"
+    },
+    {
+      "date": "11/24/21",
+      "course": "Black Diamond Trail",
+      "time": "1:15:03"
+    },
+    {
+      "date": "11/28/21",
+      "course": "Black Diamond Trail",
+      "time": "1:12:48"
+    }
+  ]
+}
