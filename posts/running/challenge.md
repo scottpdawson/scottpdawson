@@ -4,7 +4,7 @@ date: "2021-12-31"
 permalink: "flrc-challenge-2021/"
 hero: "/images/2021/challenge/cover.jpg"
 usesCharts: true
-description: ""
+description: "Instead of toeing the line at a series of trail and road races, the Finger Lakes Runners Club put on the FLRC Challenge. The asynchronous challenge sent runners to 10 area courses, split evenly between road and trail, with distances from 1 mile to the half marathon."
 tags:
   - flrc
   - running
