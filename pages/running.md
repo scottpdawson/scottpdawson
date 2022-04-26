@@ -112,6 +112,14 @@ eleventyNavigation:
 {%- endfor -%}
 </ul>
 
+## Relay
+
+<ul>
+{%- for post in collections.all | has_tag("data.tags", "relay") -%}
+  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
 ## Non-Race Running Commentary
 
 <ul>
