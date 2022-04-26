@@ -77,6 +77,8 @@ He flew by us to the final turnaround and we all sprinted in to the finish with 
 
 {% picture "/images/2022/seneca7/team.jpg", "Post-race photo of our team" %}
 
+{% picture "/images/2022/seneca7/team_with_cornell.jpg", "Post-race photo of our team with Cornell" %}
+
 ## By the Numbers
 
 **Time:** 8:50:35 ([results](https://live.resport.io/spec/results.jsp?w=4920318913150976))
