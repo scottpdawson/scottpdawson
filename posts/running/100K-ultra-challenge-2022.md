@@ -3,7 +3,7 @@ title: "FLRC 100K Ultra Challenge 2022"
 date: "2022-08-07"
 permalink: "flrc-100k-ultra-challenge-2022/"
 hero: "/images/2022/100k/100kultradrivingmap.png"
-description: ""
+description: "Amy and I completed the main challenge of running all 10 courses at least once. Amy wondered if she and her friend could do the ultra challenge? The challenge season ends in just one week, so the time was now or never."
 tags:
   - flrc
   - running
