@@ -8,6 +8,8 @@ eleventyNavigation:
   order: 4
 ---
 
+First off, I write a weekly newsletter at [wanderfull.substack.com](https://wanderfull.substack.com/). It’s all about remote work, drawing daily, and other observations about living in this modern world. Do yourself a favor and subscribe!
+
 ## Handbook for the Modern Worker (365 Daily Tips)
 
 {% pictureRt "/images/writing/handbook_tree.jpg", "" %}
