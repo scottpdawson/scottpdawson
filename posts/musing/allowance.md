@@ -3,10 +3,10 @@ title: "A Four-Box Approach to Allowance"
 date: "2022-10-06"
 permalink: "four-box-allowance/"
 hero: "/images/2022/allowance/wooden_allowance_boxes.jpg"
-description: "We started the kids on a weekly allowance at age 4. We are so happy we did, and even happier with how we did it."
+description: "We started the kids on a weekly allowance at age 3. We are so happy we did, and even happier with how we did it."
 ---
 
-We started the kids on a weekly allowance at age 4. We are so happy we did, and even happier with how we did it. I was reminded of this system when I realized I no longer needed to make sure the kids were doing their "quarterly finances" since they're both in college now and (mostly) do this on their own. More on that below, but first let's delve into what we did for the kids from a very young age.
+We started the kids on a weekly allowance at age 3. We are so happy we did, and even happier with how we did it. I was reminded of this system [todoist](https://todoist.com/) prompted me this month. I realized I no longer needed to make sure the kids were doing their "quarterly finances" since they're both in college now and (mostly) do this on their own. More on that below, but first let's delve into what we did for the kids from a very young age.
 
 {% picture "/images/2022/allowance/end_quarter.png", "Time to stop? Maybe." %}
 
@@ -40,6 +40,6 @@ Lastly, the concept of investing has been fun to teach. Like the 529 plan, we ha
 
 ## Later Adolescence
 
-As the kids got older they found other ways to make money. They taught music lessons, got paid music gigs, and both got great jobs at Ithaca's [Finger Lakes Running Company](https://fingerlakesrunning.com/). Elizabeth started a pottery business. Add to that gifts of cash for birthdays and money started to add up. Allowance phased out at age 18, anyway. The four-box model lived on, but in a world with bank and investment accounts, remote check deposit, and credit cards. Instead of splitting things up every week, we got into a quarterly cadence using a [Google Doc](https://docs.google.com/document/d/1yP9w5rQF4ptdBOY6937jTYgbHZEnRxGHiqH45lc9i4Y/edit?usp=sharing) (feel free to copy and adapt) to keep things straight.
+As the kids got older they found other ways to make money. They taught music lessons, got paid music gigs, and both got great jobs at Ithaca's [Finger Lakes Running Company](https://fingerlakesrunning.com/). [Elizabeth started a pottery business](https://erdawson.com/pottery/). Add to that gifts of cash for birthdays and money started to add up. Allowance phased out at age 18, anyway. The four-box model lived on, but in a world with bank and investment accounts, remote check deposit, and credit cards. Instead of splitting things up every week, we got into a quarterly cadence using a [Google Doc](https://docs.google.com/document/d/1yP9w5rQF4ptdBOY6937jTYgbHZEnRxGHiqH45lc9i4Y/edit?usp=sharing) _(feel free to copy and adapt)_ to keep things straight.
 
-Every quarter the kids use the doc to manage their income, allocating 25% to retirement, 10% to charity, and keeping 100% of cash gifts. Now that they're adults, we think these habits of saving for the future and being charitable will stick.
+At first, I sat with them quarterly and helped them fill it out. Now, they fill it out themselves. Every quarter they use the doc to manage their income, allocating 25% to retirement, 10% to charity, and keeping 100% of cash gifts. Now that they're adults, we think these habits of saving for the future and being charitable will stick.
