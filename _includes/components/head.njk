@@ -60,13 +60,13 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3965818-2"></script>
-  <script>
-  if (document.location.hostname.search("scottpdawson.com") !== -1) {
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FLLJM1LHT0"></script>
+<script>
   window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-3965818-2');
-  }
-  </script>
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FLLJM1LHT0');
+</script>
 </head>
