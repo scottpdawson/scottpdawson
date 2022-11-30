@@ -77,7 +77,7 @@ The post-race vibe was not that great. We were quickly ushered through the food 
 
 They had us all funnel out through a narrow chute, and I barely registered that I was staring at the Rocky steps. I made a beeline for the hotel, which though it was less than a mile away might as well have been on Mars. It felt like it took so long to get there, and I was so chilled. I stripped off my clothes, hunkered down under the bed sheets, and waited to warm up slowly. A hot shower sealed the deal and I waited for Amy and Elizabeth to arrive. They both finished and we all met back at the hotel and each got through our warming-up routines. I was so grateful to be done and headed for home – happy for the experience, but also happy for the coming rest and preparing for whatever adventure we choose next.
 
-[Amy wrote a fantastic blog post about her experience](https://skirtrunner.com/race-report/philly-marathon-2022/), too. It’s filled with grid, determination, and is incredibly inspiring.
+[Amy wrote a fantastic blog post about her experience](https://skirtrunner.com/race-report/philly-marathon-2022/), too. It’s filled with grit, determination, and is incredibly inspiring.
 
 ## By the Numbers
 
