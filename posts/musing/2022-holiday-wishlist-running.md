@@ -3,7 +3,7 @@ title: "2022 Holiday Running Wishlist"
 date: "2022-12-10"
 permalink: "2022-holiday-running-wishlist/"
 hero: "/images/2022/holiday/header.png"
-description: "I'm take a post-marathon break from running, so what better time than now to write about some of my favorite running things? This is my holiday wishlist for running."
+description: "I'm taking a post-marathon break from running, so what better time than now to write about some of my favorite running things? This is my holiday wishlist for running."
 tags:
   - wishlist
 ---
