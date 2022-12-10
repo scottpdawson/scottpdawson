@@ -8,7 +8,7 @@ tags:
   - wishlist
 ---
 
-I'm take a post-marathon break from running, so what better time than now to write about some of my favorite running things? This is my holiday wishlist for running, which means that I've gear-tested all this stuff and it's fantastic. If you're searching for a gift idea for that special runner in your life, here's some inspiration. You'll notice there's no shoe recommendations here: that's because shoe preferences are highly subjective, and my affinity for Altra and Topo will likely not transfer onto just any runner. If you're in the market for new kicks, hit up your local specialty store: they need your business! Now, on to the list.
+I'm taking a post-marathon break from running, so what better time than now to write about some of my favorite running things? This is my holiday wishlist for running, which means that I've gear-tested all this stuff and it's fantastic. If you're searching for a gift idea for that special runner in your life, here's some inspiration. You'll notice there's no shoe recommendations here: that's because shoe preferences are highly subjective, and my affinity for Altra and Topo will likely not transfer onto just any runner. If you're in the market for new kicks, hit up your local specialty store: they need your business! Now, on to the list.
 
 {% pictureRt "/images/2022/holiday/bombas.jpg", "Bombas Running Socks" %}
 
