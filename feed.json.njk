@@ -1,8 +1,10 @@
 ---
 permalink: search.json
+eleventyExcludeFromCollections: true
 ---
 {"search" : [
-{%- for item in collections.post -%}
+{%- for item in collections.all -%}
+{%- if item.data.title and (item.url !== "/") -%}
   {
     "url" : "{{ item.url }}",
     "date" : "{{ item.date | momentDate }}",
@@ -10,5 +12,6 @@ permalink: search.json
     "description" : "{{ item.data.description }}",
     "text" : "{{ (item.data.title + " " + item.templateContent) | squash }}"
   }{% if not loop.last %},{% else %}{%- endif -%}
+{%- endif -%}
 {%- endfor -%}
 ]}

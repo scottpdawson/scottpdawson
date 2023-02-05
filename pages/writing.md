@@ -3,6 +3,7 @@ title: "Writing"
 permalink: "writing/"
 author: "Scott Dawson"
 hero: "/images/2018/05/147A2947.jpg"
+description: "Learn more about my Wanderfull Substack, my two books, and other writing projects I'm working on."
 eleventyNavigation:
   key: Write
   order: 4
