@@ -9,8 +9,8 @@ distance: "8 km"
 overall: "43/99"
 agegroup: "8/13"
 tags:
-    - race
-    - pgxc
+  - race
+  - pgxc
 ---
 
 The [Pete Glavin Cross Country (PGXC)](http://www.gvh.net/pete-glavin-xc-series) series of races is for runners throughout upstate New York. You can win individual age group prizes and team awards for each race, also accumulating series points and awards (and bragging rights) along the way. This race report is part of a broader post about the [2017 Pete Glavin Cross Country series](/pete-glavin-cross-country-pgxc-series-2017/).
@@ -19,7 +19,7 @@ _Fields, Hills, Trails … perfect. No wonder it was voted best XC course of the
 
 The last race of the series would also have the best weather for cross country running. It was dry, sunny and in the mid-40s. FLCC is close-ish to our house as compared with the other race venues, so we had a relaxing morning at home before heading out around 9. The women’s race started at 11, and I enjoyed cheering Amy and Elizabeth on while waiting for my 11:45 start time. Xander had come along to take pictures and video, too, which was super cool. I had debated whether or not to wear spikes. There is a 100-yard stretch of hard-packed gravel on this course, and we run up and down it. I chose to wear my trail shoes. Now, even post-race, I’m not sure what choice I would have made if I did it again. As we rolled through the first mile of the 8K (5 mile) course, I noticed the ground was soft and muddy in spots, which would have been perfect for spikes. I lost my footing around one particularly sharp turn, and almost ended up on my side. Gratefully I stayed vertical, passing Amy, Elizabeth and Xander shouting encouragement from a soccer field.
 
-https://vimeo.com/242572048
+https://www.youtube.com/watch?v=M6iklFQE624
 
 _Xander got this great series of videos while spectating!_
 

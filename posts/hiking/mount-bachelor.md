@@ -3,9 +3,9 @@ title: "Mount Bachelor"
 date: "2018-08-16"
 permalink: "mount-bachelor/"
 hero: "/images/2018/08/IMG_1802.jpg"
-description: "It may have been the wrong season to hit up a ski resort, but Mount Bachelor’s summit was too close for us to ignore during this hiking season. Plus: Cuppa Yo and Bend’s Brewfest." 
+description: "It may have been the wrong season to hit up a ski resort, but Mount Bachelor’s summit was too close for us to ignore during this hiking season. Plus: Cuppa Yo and Bend’s Brewfest."
 tags:
-    - oregon
+  - oregon
 ---
 
 It may have been the wrong season to hit up a ski resort, but Mount Bachelor’s summit was too close for us to ignore during this hiking season. We arrived in their expansive, mostly empty parking lot shortly before 1 p.m. We opted to cut out some of the lower flanks of the butte by taking the scenic Pine Marten ski lift to the Pine Marten lodge, where we enjoyed a quick lunch of carrots, tortilla chips and hummus.
@@ -50,12 +50,10 @@ Once we’d taken the lift ride back down to our car, we headed back to Bend. Th
 
 We had a fantastic time sampling beers from different breweries while the sun started to lower in the cloud-filled sky. We’d just missed a thunderstorm passing through the area, and it turned out to be a fantastic evening. We bought a tortilla pizza on the way out of the festival, saving a few of the slices for the kids before we headed back to our rental for the night.
 
-https://vimeo.com/286506231
+https://www.youtube.com/watch?v=0UM6uvKLvoM
 
 ## By the Numbers
 
 5.83 miles, 3:42 total time, 2,138 foot ascent
-
-https://vimeo.com/286655954
 
 <iframe src="https://www.strava.com/activities/1777583587/embed/d800bfa79bff2203fa1c28e88f7a8dfe26b4998e" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

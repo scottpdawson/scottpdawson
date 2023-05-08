@@ -8,9 +8,9 @@ description: "This is a guest post from my daughter, who was a disciplined saver
 
 {% pictureRtSm "/images/2015/11/elizabeth.png", "Elizabeth Dawson" %}
 
-_**This is a guest post from my daughter, who was a disciplined saver with a goal of buying the iPad Pro for her piano playing, among other things.** She met her savings goal and was able to order the iPad Pro the first day it was available. It arrived yesterday, and she is happy to share her unboxing story with you: iPad Pro for Pianists._ 
+_**This is a guest post from my daughter, who was a disciplined saver with a goal of buying the iPad Pro for her piano playing, among other things.** She met her savings goal and was able to order the iPad Pro the first day it was available. It arrived yesterday, and she is happy to share her unboxing story with you: iPad Pro for Pianists._
 
-* * *
+---
 
 As I opened my new iPad Pro, I was so excited! I have saved up my money from teaching piano lessons, babysitting and allowance, and my grandparents added some money as birthday and Christmas presents. As I walked up to the box, two things crossed my mind. One, how excited I was, and two, how big it was! The iPad Pro is 12.9 inches tall and 8.6 inches wide. It is extremely thin at 6.9 millimeters. I wanted the Pro because of the size. I mostly use the iPad for sheet music, so the bigger the better. I was previously using the iPad 3 which was quite a bit smaller. I was looking forward to some new features such as the Touch ID. I really like how quick and easy it is to get into the iPad.
 
@@ -35,4 +35,4 @@ I think the bigger design will really help with drawing, typing, and music. I di
 
 Check out the video of me playing. The page turns are triggered from my foot, so I can keep my hands on the keys!
 
-https://vimeo.com/145726005
+https://www.youtube.com/watch?v=jlF19mhTSCA

@@ -5,7 +5,7 @@ permalink: "timberline-to-zigzag-canyon-paradise-park/"
 hero: "/images/2015/08/IMG_3063.jpg"
 description: "The kids were starting their week at Mount Hood Summer Ski Camp, so Amy and I selected a hike from Timberline through Zigzag Canyon and then to Paradise Park."
 tags:
-    - oregon
+  - oregon
 ---
 
 The kids were starting their week at Mount Hood Summer Ski Camp, so Amy and I selected a hike from Timberline through Zigzag Canyon and then to Paradise Park. We’d all be on the same mountain, but doing different activities! Here are some of the fantastic views of Hood from Timberline.
@@ -22,7 +22,7 @@ The start of the hike couldn’t have been timed any better: we were able to see
 
 This was a very light snow year for Hood. After a roaring start to their winter, the weather pattern shifted and they never got the late winter snow volumes they traditionally get. We actually got a call several days before our vacation started, saying that the camp would have to be canceled! Then, a few days later, the good news that the mountain would stay open for the week, provided we could get the kids there a day early, which we could! They normally arrive on Sunday for Monday through Friday of skiing, but we got them there on Saturday, which included skiing. They would be able to ski Saturday through Wednesday and get a full week in. It would turn out that the mountain's last day of operation would be their last planned day of camp, so the timing worked quite well for all of us.
 
-https://vimeo.com/137740267
+https://www.youtube.com/watch?v=2V8WpDQgBqc
 
 ## Let's Hike!
 

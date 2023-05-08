@@ -4,8 +4,8 @@ date: "2018-08-17"
 permalink: "broken-top-and-no-name-lake/"
 hero: "/images/2018/08/IMG_1811.jpg"
 description: "Expansive views of Broken Top were before us and to our side for much of the hike. We crested the last rise before No-Name Lake just after just 2 miles of hiking. It was breathtaking."
-tags: 
-    - oregon
+tags:
+  - oregon
 ---
 
 The guidebook in our townhouse rental gave two options for this hike. The first was shorter, but only after a longer drive on forest service roads; the second longer — anywhere from 12-14 miles — but no such drive. The forest service roads called for a four-wheel drive with high clearance, code for “don’t bring your Prius.”
@@ -48,7 +48,7 @@ The smell didn’t linger long, though, and we continued along the edge of the l
     { caption: "Broken Top", image: "/images/2018/08/IMG_1812.jpg" }
 ]%}
 
-https://vimeo.com/286506856
+https://www.youtube.com/watch?v=TMP9dA1PdXw
 
 The return hike was mostly downhill and passed quickly.
 
@@ -59,7 +59,5 @@ As we started our drive I had the same anxiety I’d had on the way up. It was a
 ## By the Numbers
 
 5.5 miles, 2:48 total time, 1,318 foot ascent
-
-https://vimeo.com/286655959
 
 <iframe src="https://www.strava.com/activities/1779468641/embed/1c8ad31b7c058af47f3bbb198347203a22cc5b55" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

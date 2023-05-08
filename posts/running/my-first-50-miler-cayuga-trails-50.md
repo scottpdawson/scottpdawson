@@ -9,9 +9,9 @@ distance: "50 mi"
 overall: ""
 agegroup: ""
 tags:
-    - race
-    - ultra
-    - cayuga trails
+  - race
+  - ultra
+  - cayuga trails
 ---
 
 This particular journey, my first 50-miler, started [20 weeks ago with a single step](/my-journey-to-cayuga-trails-50-miler/). With snow starting to melt, my training was about to shift to trails with [75 days left](/the-road-to-cayuga-trails-50-75-days-left/). Then, with 30 days left, the unthinkable: [I fractured my right 5th toe](/the-road-to-cayuga-trails-50-tale-of-woe-fractured-toe/), on my _couch_ no less! I have been injured before and pushed it, so I heeded the medical advice (thank you, Dr. Getzin!) and got my toe in working order, just in time for this race. I really missed trail running during the last 4 weeks of my plan, but did some working out in the form of a 5K with my son and some tough endurance elliptical workouts. So here I found myself, Sunday, May 31, 6 a.m., toeing the line at the Cayuga Trails 50, the USATF 2015 50 Mile Trail Championship.
@@ -24,7 +24,7 @@ Saturday I picked up my number, tracking chip and a new Ultimate Direction 20 o
 
 I decided that I would run with a handheld instead of a hydration pack, given the short distances between aid stations. I've found that the pack weighs heavily on my shoulders, and later miles can be uncomfortable. I was thinking about also using a light pack to carry dry socks, but instead opted for a drop bag that I could access at 4 points during the race, at Underpass. My drop bag had a change of clothes, socks and spare Fig Newtons.
 
-Race morning I awoke at 4 a.m., had a bagel with peanut butter, coffee and orange juice. I loved reading all of the supportive comments on Facebook, and had a surprising text from my Dad just then, who wanted to wish me the best while I was eating "my Wheaties." Very cool. _Now, back to bed, Dad!_ 
+Race morning I awoke at 4 a.m., had a bagel with peanut butter, coffee and orange juice. I loved reading all of the supportive comments on Facebook, and had a surprising text from my Dad just then, who wanted to wish me the best while I was eating "my Wheaties." Very cool. _Now, back to bed, Dad!_
 
 {% pictureRt "/images/2015/06/IMG_4375.jpg", "Lacing up" %}
 
@@ -37,7 +37,6 @@ Amy drove me to the start, arriving at about 5:30, where I checked in and found 
 I have not run this entire loop before. I ran the Treman segment at Lucifer's Crossing, and the Buttermilk segment at the Tortoise and the Hare, but not the connector of Lick Brook. We had hiked Lick Brook as a family, and to say it's steep is an understatement. My first loop average pace was ~12:30, completing 25 miles in just over 5 hours.
 
 {% pictureRt "/images/2015/06/IMG_5100.jpg", "Buttermilk" %}
-
 
 I enjoyed running with a lot of different people this loop, and the pace was good and conversational. I had a BIG smile coming into the Buttermilk aid station at mile 12.5, where Ray and Diana were waiting with their own smiles. I said hello to them, got myself some food and headed back out for the return to the start. Along the way I knew I'd hit the Old Mill at mile 22, where [Amy, Elizabeth and Xander were volunteering for the day](http://skirtrunner.com/musings/cayuga-trails-50-as-an-aid-station-volunteer/). About a mile out from there, I saw Ian Golden who asked me how it was going. I told him it was tough! He nodded thoughtfully, remarking _"It ebbs and flows ..."_ Later in the race, I'd think to myself there was more ebbin' than flowin', but no matter!
 
@@ -59,7 +58,7 @@ I arrived back at the start for some more refueling, a quick tune of my muscles 
 
 At this point my legs were pretty much done and I was slowing considerably. My mind never went negative, though, and I kept putting one foot in front of the other. My 5 mph average pace slowed to about 3, and some quick math made me tell Amy when I saw her at mile 28 that she'd better grab some dinner on her own, since I wasn't going to be done until 6 or later. Elizabeth and Xander ran me in to the Old Mill aid station at mile 28 (video below), and I was a man of many words when my Dad asked me how my toe was holding up.
 
-https://vimeo.com/129587403
+https://www.youtube.com/watch?v=tBjxa3ZpbAc
 
 I kept on going, having some good talks with fellow FLRC runner _(and club president)_ Joel Cisne and others as I made my way over to Buttermilk again. A few miles out from there, I began to feel, well ... weak. That's about the only word I could use to describe it. I was getting light-headed and a bit hungry, and realized that I probably should have been eating MORE. Believe me, I was consuming what I thought was appropriate, but it clearly wasn't. My Mom and Dad were at Buttermilk, and saw me at my lowest. I seriously considered dropping out here, after 37.5 miles of running, but then I thought back to the sign at the start. Yes, quitting is forever, and I wasn't done yet. Through the assistance of my parents, Amy Schwartz Lopata and Joe Reynolds (and a very comfortable chair), I spent probably 10-15 minutes reloading with whatever they'd bring me: broth, Swedish Fish, Oreos, Fig Newtons, peanut M&Ms, salty Terra chips ... and I'm sure there was plenty more. I felt good enough to steel myself for the last 12.5 miles, got off my ass and headed out of the aid station.
 
@@ -67,7 +66,7 @@ I kept on going, having some good talks with fellow FLRC runner _(and club presi
     { caption: 'Would I return to Treman?', image: '/images/2015/06/IMG_1408.jpg' },
     { caption: 'Contemplating quitting.', image: '/images/2015/06/IMG_1431.jpg' },
     { caption: 'Mom helped bring food', image: '/images/2015/06/IMG_1429.jpg' }
-]%} 
+]%}
 
 ## The Home Stretch
 
@@ -80,9 +79,9 @@ This last stretch I enjoyed the company of a few runners hitting the pace I was,
     { caption: '', image: '/images/2015/06/IMG_2504.jpg' }
 ]%}
 
-## Aftermath 
+## Aftermath
 
-Amy whisked me away to the car after a few photos, where I promptly took my shoes and socks off, laying my wet, wrinkled feet on a blessedly dry towel. There had been 8 creek crossings (one thigh-deep) throughout the race, and I did change my socks mid-way through the second loop. Still, my feet were hurting but not damaged, and it felt SO good to sit. Believe it or not, my previously-fractured toe let out not a whimper the entire time. I had buddy-taped it to its neighbor, and it held up marvelously. Even now, 2 days later, it's feeling fine with no evidence of further trauma. _Yes!_ I enjoyed the brief drive home with Amy, who had brought the kids home earlier in the afternoon. They had made wonderful signs and some delicious peanut noodles for dinner. I felt (and feel) so blessed to have a wonderful, supportive family!
+Amy whisked me away to the car after a few photos, where I promptly took my shoes and socks off, laying my wet, wrinkled feet on a blessedly dry towel. There had been 8 creek crossings (one thigh-deep) throughout the race, and I did change my socks mid-way through the second loop. Still, my feet were hurting but not damaged, and it felt SO good to sit. Believe it or not, my previously-fractured toe let out not a whimper the entire time. I had buddy-taped it to its neighbor, and it held up marvelously. Even now, 2 days later, it's feeling fine with no evidence of further trauma. *Yes!* I enjoyed the brief drive home with Amy, who had brought the kids home earlier in the afternoon. They had made wonderful signs and some delicious peanut noodles for dinner. I felt (and feel) so blessed to have a wonderful, supportive family!
 
 ## Cayuga Trails 50: My GPS Track
 

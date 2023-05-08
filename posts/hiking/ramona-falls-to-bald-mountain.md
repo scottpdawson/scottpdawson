@@ -5,7 +5,7 @@ permalink: "ramona-falls-to-bald-mountain/"
 hero: "/images/2015/09/IMG_3120.jpg"
 description: "With some pretty good distance and elevation for the kids and four stream crossings (two of them I'd describe as epic), it would also turn out to be the most memorable."
 tags:
-    - oregon
+  - oregon
 ---
 
 This was the last major hike of our Oregon trip. With some pretty good distance and elevation for the kids and four stream crossings (two of them I'd describe as epic), it would also turn out to be the most memorable. We planned to hike to Ramona Falls, then make the ascent to Bald Mountain via the Timberline Trail.
@@ -31,7 +31,7 @@ Some of the Timberline Trail was close to washing out, with very steep slopes up
 
 ## Muddy Fork
 
-Now that I read the book closely, _after_ doing the hike, I see how we could have been warned in advance. However, given the dryness of the PNW this winter and summer, we thought we'd be in good shape for the stream crossings. Boy, we were wrong! The guide book says that Muddy Fork is _"a milky, glacial outwash river."_ It continues to note that the _"bridgeless crossing is tricky in June and on summer afternoons, when snowmelt swells this two-branched torrent."_ Hmm, them's fightin' words!
+Now that I read the book closely, _after_ doing the hike, I see how we could have been warned in advance. However, given the dryness of the PNW this winter and summer, we thought we'd be in good shape for the stream crossings. Boy, we were wrong! The guide book says that Muddy Fork is _"a milky, glacial outwash river."_ It continues to note that the *"bridgeless crossing is tricky in June and on summer afternoons, when snowmelt swells this two-branched torrent."* Hmm, them's fightin' words!
 
 We would pass over three branches of Muddy Fork, according to my topo map. The first branch was interesting, as we could traverse on rocks or relatively unstable, small trees. We all seemed to make it across in our own way, as it was not that great an expanse. Shortly thereafter we came to the next fork, and it was almost laughable. Just a few hops on rocks and we were across that. We were so confident that the first branch had the most potential for trouble, and we felt good about that until we reached the roaring third branch. This picture says it all ... oh my! You really needed to be there to see how swift and deep this water was.
 
@@ -69,7 +69,7 @@ We could have stood here for a very long time, taking it all in. The sun was shi
 
 The clouds were mesmerizing, and I took a time lapse of the [orographic lift](https://en.wikipedia.org/wiki/Orographic_lift).
 
-<iframe src="https://player.vimeo.com/video/136852434?autoplay=1&amp;loop=1" width="100%" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+https://www.youtube.com/watch?v=GPzzPbry1vA
 
 ## There's Just One More Thing
 

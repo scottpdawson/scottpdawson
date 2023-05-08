@@ -9,8 +9,8 @@ overall: "63/213"
 agegroup: "9/17"
 description: "I raced my second Intermediate (Olympic) triathlon on August 6. I’m lucky that it’s very close to my house, but I’m afraid the proximity also made it easier to be more blasé and less prepared than I was last year."
 tags:
-    - race
-    - triathlon
+  - race
+  - triathlon
 ---
 
 I raced my second Intermediate (Olympic) triathlon on August 6. I’m lucky that it’s very close to my house, but I’m afraid the proximity also made it easier to be more blasé and less prepared than I was last year. I had raced the Cayuga Trails 50 on June 3 and just returned from Mountain Running Camp on August 1, so this was definitely not a “goal race.”
@@ -43,7 +43,7 @@ There was doubt in prior weeks if we’d even be able to have the swim. There we
 
 I lined up to the far left of the swim wave where it’d be lighter traffic. Ironically, one of my Strava friends who I’ve not yet met in person, Bruno Salcedo, was standing right next to me. It was nice to meet him in person, since we’d met his wife Dayana Kibilds at packet pick-up. The countdown to the start was swift. We were off! I pulled hard for a minute to keep ahead of the fray, since there were several courses of swimmers lined up behind me. My dislike of being run over and kicked motivated me to start strong. I was careful to not go out too hard, and my main goal was to no stray too far to the left and have to make up the distance. I stopped a few times on the outbound leg to check my direction. The leg was otherwise uneventful and I found myself rounding the buoy at the far end of the course.
 
-https://vimeo.com/228953411
+https://www.youtube.com/watch?v=OZwY1MFvoeY
 
 The current was slightly in my favor for the return leg, and I hugged the buoy line on my right. I even ran into it once, the coarse rope becoming temporarily tangled with my leg. I passed a few swimmers in my group here too, providing me with motivation. I encountered a pod of my swim wave in front of me, so I veered to the left to get around them. It was shortly after this that I found a real rhythm, practicing the things I learned in Total Immersion swim training, breathing bilaterally and being genuinely relaxed. I dare say I was enjoying myself!
 
@@ -58,8 +58,6 @@ Transitioning to the bike was smooth and fast, though I was very winded. I awkwa
 {% picture "/images/2017/08/141188-092-020h-e1502359794819.jpg", "Starting the ride" %}
 
 I shouted words of encouragement as I passed Amy on the northbound leg. There are some nice downward-sloping stretches here, and I barreled into Sheldrake at a satisfying clip. Once on the Sheldrake flats, I enjoyed the views of the lake to my right while plenty of homeowners cheered with cowbells from their properties on the left. A quick climb out of Sheldrake brought me back to 89 and the southbound leg. I focused on turnover, since there are some obnoxious stretches of almost imperceptible climbing. Soon I was able to enjoy the speed of the final descent into the park. The road is closed here and several of the bikers around me were challenging me to go faster and faster. I hit just over 40 MPH as the road leveled out and the park entrance loomed on the left. The volunteers implored us to slow down, dismount, and enter transition once more.
-
-https://vimeo.com/228967286
 
 ## Run
 

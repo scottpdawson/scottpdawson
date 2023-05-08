@@ -4,9 +4,9 @@ date: "2017-09-07"
 permalink: "backyard-barrel-sauna-project-suburban-oasis/"
 hero: "/images/2017/09/IMG_9228.jpg"
 description: "When we listened to a podcast episode about saunas and performance enhancement, we were sold on sauna health benefits. Could we build one in our backyard?"
-tags: 
-    - sauna
-    - featured
+tags:
+  - sauna
+  - featured
 ---
 
 Amy and I are avid Tim Ferriss readers and listeners. When we listened to a podcast episode about [saunas and performance enhancement](https://tim.blog/2014/04/10/saunas-hyperthermic-conditioning-2), we were sold on sauna health benefits! We'd used them periodically in the gym, but never regularly. Before we proceed with the story, Tim has a great disclaimer on his post which I'll directly adapt here:
@@ -17,7 +17,7 @@ Amy and I are avid Tim Ferriss readers and listeners. When we listened to a podc
 
 As endurance athletes, Amy and I were most intrigued by this endorsement of sauna use from Tim's post:
 
-> ... acclimating yourself to heat independent of aerobic physical activity through sauna use induces adaptations that reduce the later strain of your primary aerobic activity. – _Rhonda Perciavalle Patrick, Ph.D._
+> ... acclimating yourself to heat independent of aerobic physical activity through sauna use induces adaptations that reduce the later strain of your primary aerobic activity. – *Rhonda Perciavalle Patrick, Ph.D.*
 
 In short, exposing ourselves to heat in the sauna will help our bodies adapt to the stresses we put ourselves under during endurance events. Rhonda also writes about the benefits of sauna use as it relates to muscle growth and regrowth (post-injury). We were sold on the benefits. Now, how to sauna more regularly?
 
@@ -39,7 +39,7 @@ The sauna arrived on July 6 and I called my Dad to see if he (and his hand truck
 
 We carefully lowered each box to the ground, got under it with the hand truck and gingerly wheeled each of them into the garage. It was quite a job, especially the box with the staves. It was a box full of wood, after all!
 
-https://vimeo.com/232561620
+https://www.youtube.com/watch?v=6t6IuG_52Go
 
 ## Preparation
 
@@ -76,9 +76,9 @@ Now gravity would take over as we placed the remaining pieces along the top arc 
 
 Xander shot a cool time-lapse of the construction. It's fun to see the pile slowly disappear on the left!
 
-https://vimeo.com/232556845
+https://www.youtube.com/watch?v=BSYwPObqyk0
 
-We attached and tightened the metal bands that hold the unit together. This was probably the toughest part, mostly due to the design of the hardware. It's a threaded bold with no head, so you have a nut that goes on both ends. _**Editor's Note:** After several weeks of use, we realized we needed to add a quarter-inch spacer stave due to a small gap in the top within which we could see sunlight. My Dad came over once more, and sadly we'd cross-threaded both nuts on the last metal band. I had to cut off the bolt! He also had a set of wide-mouth pliers that helped us tighten the bands sufficiently so cross-threading wasn't as much a risk. So, my feedback to Almost Heaven is (a) longer bolts with a head end, and (b) advice to use wide-mouth pliers to bring the bands together before threading the nut on the bolt. That way, you don't need a hacksaw!_ The interior and exterior benches were easy to assemble and install. We mounted the heater on the wall with just a few screws and awaited our date with the electrician.
+We attached and tightened the metal bands that hold the unit together. This was probably the toughest part, mostly due to the design of the hardware. It's a threaded bold with no head, so you have a nut that goes on both ends. **\*Editor's Note:** After several weeks of use, we realized we needed to add a quarter-inch spacer stave due to a small gap in the top within which we could see sunlight. My Dad came over once more, and sadly we'd cross-threaded both nuts on the last metal band. I had to cut off the bolt! He also had a set of wide-mouth pliers that helped us tighten the bands sufficiently so cross-threading wasn't as much a risk. So, my feedback to Almost Heaven is (a) longer bolts with a head end, and (b) advice to use wide-mouth pliers to bring the bands together before threading the nut on the bolt. That way, you don't need a hacksaw!\* The interior and exterior benches were easy to assemble and install. We mounted the heater on the wall with just a few screws and awaited our date with the electrician.
 
 ## Turning on the Juice
 

@@ -9,10 +9,10 @@ distance: "50 mi"
 overall: "49/164"
 agegroup: "8/19"
 tags:
-    - race
-    - ultra
-    - cayuga trails
-    - featured
+  - race
+  - ultra
+  - cayuga trails
+  - featured
 ---
 
 ## Race Eve
@@ -37,7 +37,7 @@ I chose to not carry a handheld this year, opting instead for a Nathan hydration
 
 From the start, I tried to set off at a conservative pace, just under 10 minutes per mile. The ascent to the top of Treman was quick. Ian added on a 1-mile loop before we got to the Old Mill AS, so the distance there was 4 miles. We’d bypass that on the way back, meaning the last leg would be 3 miles. I’d never run this loop before, and there was a very nice level stretch in here with soft footing. I came into the Old Mill feeling great. I was so happy to see Amy and Xander there helping out. Xander got some great video of me throughout the day, too!
 
-https://vimeo.com/220186677
+https://www.youtube.com/watch?v=sPUdYbhUPcY
 
 {% picture "/images/2017/06/flrc-at-the-old-mill-e1496835319288.jpg", "Xander, Amy and Ray at quiet Old Mill AS at mile 4. Photo Credit: Stephan Meyer" %}
 

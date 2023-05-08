@@ -5,7 +5,7 @@ permalink: "mazamas-mountain-running-camp-mrc-2017/"
 hero: "/images/2017/08/IMG_8887.jpg"
 description: "Sarah Bradham is my sister-in-law. She’s very active in the Mazamas, and in early 2014 asked me and Amy for some feedback about a new running camp she was spearheading."
 tags:
-    - mazamas
+  - mazamas
 ---
 
 Sarah Bradham is my sister-in-law. She’s very active in the Mazamas, and in early 2014 asked me and Amy for some feedback about a new running camp she was spearheading. She thought we’d be good to ask for an initial reaction to the camp since we were both runners and Mazama members. I read the prospectus for the camp and replied:
@@ -56,7 +56,7 @@ Yassine introduced us all to Charles, the Mazama Lodge’s caretaker. The buildi
 
 We were close to the Palmer Glacier where the kids have gone to summer ski camp, and I enjoyed seeing the groomers going up and down the mountain, preparing for the next day of skiers.
 
-https://vimeo.com/228510383
+https://www.youtube.com/watch?v=ifkE8tNSos8
 
 {% pictureRt "/images/2017/08/IMG_8773.jpg", "Running back to Mazama Lodge after Silcox" %}
 
@@ -146,7 +146,7 @@ Ramona Falls is such a beautiful, cool place so we didn’t mind lingering and t
 
 {% picture "/images/2017/08/IMG_6505.jpg", "Ramona Falls" %}
 
-https://vimeo.com/228510406
+https://www.youtube.com/watch?v=AJxsm7iIr-A
 
 Cheribundi and chips waited for us all as we arrived at the end of the trail. It was a delicious end to our run! We said our goodbyes as people loaded into vans for the ride back to Portland or the lodge. Amy and I were happy to get a photo with Yassine.
 

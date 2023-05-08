@@ -9,7 +9,7 @@ distance: "1 mi"
 overall: ""
 agegroup: ""
 tags:
-    - race
+  - race
 ---
 
 Remember [last week’s track meet](/first-flrc-track-meet/), the one where I showed up late and ran with untied shoelaces? I vowed to not make those mistakes this week when I ran in the [Hartshorne Memorial Masters Mile](http://fingerlakesrunners.org/race/hartshorne-masters-mile-2018).
@@ -44,7 +44,7 @@ They called my heat and I made my way to the start line. They announced our name
 
 Amy caught these video clips of me at the start, and after the first lap:
 
-https://vimeo.com/252136517
+https://www.youtube.com/watch?v=Hdo8HvJwjH0
 
 I took up a position just off and behind his right shoulder, which meant I was running between lanes one and two. Psychologically, I felt really comfortable in this position since I wasn’t behind him, but I wasn’t right next to him, either. I literally stuck to this position for the next five laps, though later I’d get some sage advice that I’ll adopt next time (see below). As the last turn of lap six came into view, I decided to abandon my post at Keith’s shoulder and make a break for it. It wasn’t my kick, but it was a nudge in that direction. I tucked into lane one and had a steady seventh lap in the lead.
 
@@ -68,13 +68,13 @@ Shortly after the race, [Joe Reynolds](http://www.ithaca.com/living/prime_times/
 
 After mingling a bit more and watching a few more races, Amy and I packed up and headed to our favorite place, Viva Taqueria. Plates of Tres Amigos, refreshingly cool glasses of water and a few Purist margaritas graced our table for a quick yet delicious post-race lunch. The results were posted on the web site by now, and I took a look at my 200m splits.
 
-43.085 
-38.646 
-39.436 
-41.636 
-42.430 
-42.581 
-41.273 
+43.085
+38.646
+39.436
+41.636
+42.430
+42.581
+41.273
 34.823
 
 They were not as even as I’d hoped, and I was surprised to see the first lap having taken so long. Adam would remind me that this first lap includes the extra 9.344 meters, since that’s how far we started behind the lap line to make a full mile. The next two laps made up for it by being a bit too hot. Laps 4-7 were right on the dot, just around 42 seconds (my R pace). And that last lap, the one where I drew on reserves I knew I had based on Tuesday training? Not as fast as the one in training, but a definite bear-inspired 200m kick. I’m in awe of faster milers, as this final kick typifies their pace for the ENTIRE RACE. Simply amazing.

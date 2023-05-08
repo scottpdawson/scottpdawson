@@ -8,7 +8,7 @@ description: "We had some good fun tonight with littleBits. Hope you all have a 
 
 We had some good fun tonight with littleBits. Hope you all have a very Happy New Year!
 
-http://vimeo.com/56571837
+https://www.youtube.com/watch?v=SMjRQ97HRuI
 
 ## littleBits used ...
 

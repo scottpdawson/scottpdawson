@@ -6,7 +6,8 @@ hero: "/images/2016/06/vivataqueria_10.jpg"
 description: "This Spring I had the pleasure of recording Trumansburg Central School's Band and Chorus concerts. Jenny and Hope bought a gift certificate for me and presented it in an incredibly creative way."
 ---
 
-This Spring I had the pleasure of recording Trumansburg Central School's Band and Chorus concerts. My daughter sings in the high school chorus, plays percussion in high school band and jazz band, and my son sings in the middle school chorus and plays saxophone in the middle school band. Additionally, my daughter accompanies the choruses on piano. I found myself in a position to enjoy a perch on the catwalk and video these performances. If you want to check them out, [see my Spring 2016 Band and Chorus album at vimeo.com](https://vimeo.com/album/3936143/sort:preset/format:detail).
+This Spring I had the pleasure of recording Trumansburg Central School's Band and Chorus concerts. My daughter sings in the high school chorus, plays percussion in high school band and jazz band, and my son sings in the middle school chorus and plays saxophone in the middle school band. Additionally, my daughter accompanies the choruses on piano. I found myself in a position to enjoy a perch on the catwalk and video these performances. If you want to check them out, [see my Music from Trumansburg Schools
+channel at vimeo.com](https://vimeo.com/channels/trumansburgmusic).
 
 **Hope Lewis** (High School bands) and **Jenny Henion** (High School chorus, vocal jazz and Middle School chorus) bought a gift certificate for me (which was totally not necessary!) and presented it in an incredibly creative way. One of my favorite mealtime hangouts is [Viva Taqueria](http://www.vivataqueria.com/), and they give out their gift certificates in $5 increments (which I think is awesome). It inspired Hope and Jenny to make me earn 'em, or in musical parlance, "sing for my supper."
 

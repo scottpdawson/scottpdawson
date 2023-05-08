@@ -5,7 +5,7 @@ permalink: "hamilton-mountain/"
 hero: "/images/2018/08/IMG_1625-1.jpg"
 description: "Quiggly joined in for our Hamilton Mountain on the Washington side of the Columbia River Gorge, followed by beer and pizza at Solstice in Hood River. Plus: trail magic by Merrell and Backpacker Magazine."
 tags:
-    - oregon
+  - oregon
 ---
 
 Sarah and her cute dog Quiggly joined us for the third hike of our trip. She took us to Hamilton Mountain on the Washington side of the Columbia River Gorge. As we were driving east of Portland, Sarah told us about how some trails in Washington required a different permit. We'd been so used to our [Northwest Forest Pass](https://www.fs.usda.gov/detail/r6/passes-permits/recreation/?cid=fsbdev2_027010) that we hadn't even considered it could be something different. Due to a variety of reasons, it was, and Sarah had purchased the [Discover Pass](http://www.discoverpass.wa.gov/) we needed. We crossed the Bridge of the Gods and parked at the trailhead for Beacon Rock State Park.
@@ -56,12 +56,10 @@ We drove further east and crossed back into Oregon. We enjoyed an early dinner a
 
 {% picture "/images/2018/08/IMG_1645.jpg", "Xander, Amy and me at Solstice in Hood River" %}
 
-https://vimeo.com/286500242
+https://www.youtube.com/watch?v=dyOEcwwrnAA
 
 ## By the Numbers
 
 7.37 miles, 5:04 total time, 2,169 foot ascent
-
-https://vimeo.com/286655932
 
 <iframe src="https://www.strava.com/activities/1764707728/embed/4c86318803de2e09bab162739bde09db747ac0ba" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

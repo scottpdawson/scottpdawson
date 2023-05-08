@@ -9,9 +9,10 @@ overall: "35/195"
 agegroup: "5/17"
 description: "This was the third year that I’d signed up for Cayuga Lake Triathlon’s intermediate distance. As in prior years, the race would be a gateway between our summer at home and several weeks of summer vacation."
 tags:
-    - race
-    - triathlon
+  - race
+  - triathlon
 ---
+
 This was the third year that I’d signed up for Cayuga Lake Triathlon’s intermediate distance. As in prior years, the race would be a gateway between our summer at home and several weeks of summer vacation. This year, we’d travel to Oregon for a few weeks of hiking, brewpubs, reading and relaxing. But first, I’d spend a few hours gutting it out in the lake, on my bike and on my feet.
 
 ## Training
@@ -100,7 +101,7 @@ The run is two identical loops up to the end of the gorge trail and back. After 
 
 I caught up with Shane Eversfield on the first loop and chatted with him briefly. I told him that the Wednesday night class had been “pure gold” for me. It was true: without it, the swim would have gone far more poorly. The first loop went by so well, but the sun beat down relentlessly as I came back into the park. There was no shade here, and I longed to be back on the tree-covered gorge trail. Joel Cisne, in his inimitable fashion (personality and clothing) spurred runners on at the halfway point and finish. He was kind enough to let me post this video of him either guiding runners to the finish (sprint and second-lap intermediates) or another 5K loop (us lucky intermediates). Joel is one of the most memorable parts of the race for me!
 
-https://vimeo.com/283432975
+https://www.youtube.com/watch?v=DcNkgCdAN9c
 
 The second loop was all about just keeping the pace up. I went a little further inside myself, not taking the time or energy to encourage many other runners. It was hard enough to focus on my own cadence! Minute by minute the miles passed by, though, and soon I was back in the direct sunlight. I was ready to be done.
 
@@ -122,8 +123,8 @@ It was a fitting end to a tough morning. I enjoyed the cold beer and beautiful s
 
 ## Cayuga Lake Olympic Triathlon: By the Numbers
 
-5/17 age group M45-49 
-33/130 male 
+5/17 age group M45-49
+33/130 male
 35/195 overall
 
 {% include "components/olympic-triathlon-table.njk" %}

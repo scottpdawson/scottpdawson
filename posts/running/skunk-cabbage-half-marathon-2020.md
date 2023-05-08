@@ -9,7 +9,7 @@ distance: "13.1 mi"
 overall: ""
 agegroup: "1"
 tags:
-    - race
+  - race
 ---
 
 It was no surprise that the Skunk Cabbage Half Marathon was canceled shortly after the scope of the coronavirus pandemic became apparent. That said, this run is a staple of my racing calendar. It’s a harbinger of spring, when we all emerge (not _literally_) from hibernation and enjoy the camaraderie of racing as spring starts to emerge.
@@ -18,7 +18,7 @@ Along with Amy and Xander, I’ve been training for a marathon over Memorial Day
 
 I half expected to see a lot of local runners on the course today, and while there were some runners out, we had the course mostly to ourselves. Elizabeth was our roving water stop, driving to intersections throughout the course in case we needed anything. We gave Amy a 10 minute head-start. Then Xander and I, staggered by a few minutes, chased after her. The start line, usually a cacophony of people catching up and flinging away pre-race anxiety at the same time, was void of people. Literally. I started my run shortly after 10a with the only pomp and circumstance coming from my daughter.
 
-https://vimeo.com/404404972
+https://www.youtube.com/watch?v=dZM03KG0rl8
 
 Shortly after starting the run, I saw Steve Ryan and a friend running back toward campus. I also saw John Hohm running shortly after I turned on Game Farm Road, too. I wondered, how many other runners would I see?
 
@@ -28,7 +28,7 @@ Laurel McIntyre was at the intersection of Game Farm and Stevenson, running back
 
 Joel Cisne, who I’d seen running in his banana costume in my first mile (he was finishing his race) drove by in his car, enthusiastically clanging a whole set of cowbells. More cowbell? Not today, not with Joel. He’s a local legend, and never disappoints with his support of a fellow runner. I came upon Elizabeth, who had carefully used sidewalk chalk to pen messages of support on the shoulder (see video below). That was so cool! Never in a race have I had so many personal notes to spur me onwards!
 
-https://vimeo.com/404404945
+https://www.youtube.com/watch?v=De-MR8TPm7o
 
 I saw Tonya Engst, running the opposite direction, and we enthusiastically waved to each other. I’d see her once more, about 6 miles later. I passed Amy shortly before the turn onto Ellis Hollow Creek. She was looking good. Elizabeth was parked with our car just after the turn, and I took solace in knowing I was halfway through the race. This was a beautiful stretch of the course and I took time to look around. Amidst the general brown color of everything, bright green shoots of foliage were growing out of the ground just off the shoulder. Spring is coming, and with it, all sorts of lush colors that we know and love here in upstate New York. That hopefulness almost made up for passing by what’s usually a hasher-staffed aid station around mile 9 that offers up beer in addition to water. I was carrying my own water today, but a few frothy ounces are part of this race’s personality. I missed that today.
 
@@ -44,7 +44,7 @@ Alex Kleinerman and John Hohm put out race medals on a stone wall and near the d
 
 {% picture "/images/2020/04/IMG_5678.jpg", "Medals at the finish line" %}
 
-https://vimeo.com/404404926
+https://www.youtube.com/watch?v=ls1t-kxPtkw
 
 Elizabeth pulled up a few seconds later and we watched Xander and Amy finish out their races. We had the foresight to place a take-out order with Taste of Thai Express, so picked that up on the way home and enjoyed sharing post-race stories around our dining room table.
 

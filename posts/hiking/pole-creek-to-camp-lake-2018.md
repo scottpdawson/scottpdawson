@@ -5,7 +5,7 @@ permalink: "pole-creek-to-camp-lake-2018/"
 hero: "/images/2018/08/IMG_1725.jpg"
 description: "We kicked off our week in central Oregon with a hike from Pole Creek Trailhead to Camp Lake, followed by beers and nachos at Hop & Brew in Sisters."
 tags:
-    - oregon
+  - oregon
 ---
 
 We kicked off our week in central Oregon with a hike from Pole Creek Trailhead to Camp Lake. Amy and I had [hiked this ourselves in 2015](/pole-creek-to-camp-lake-chambers-lakes/) while the kids were at ski camp. It was definitely a highlight then, so we wanted to share it with the kids. We were staying in Sisters, and the drive to Pole Creek is super short from there. We arrived shortly before 10 and got started up the dusty trail, once more traversing several miles of what remained from the Pole Creek fire in 2012. The hulking remains of once-majestic trees stood out starkly against the sky. The skies were so blue the last time we hiked this, though today there was a lingering haze from the California wildfires.
@@ -47,7 +47,7 @@ It was really cool to see the kids’ faces when we arrived at Camp Lake. It’s
     { caption: "Kids!", image: "/images/2018/08/IMG_1778.jpg" }
 ]%}
 
-https://vimeo.com/286506178
+https://www.youtube.com/watch?v=9oTIi5WizE0
 
 After we were done relaxing, we took off on a rambling route around Camp Lake, trying to find access trails to some of the Chambers Lakes that lay beyond. We found the well-worn trail near the end of our traverse around the lake and decided we’d seen enough. The official trail to Chambers Lakes ascended a steep ridge, and we still had about 8 miles to hike out to the trailhead again.
 
@@ -63,7 +63,7 @@ When we got to the Whychus crossing again, the water was clearly flowing higher 
     { caption: "A welcome sign: the last trail junction on the return hike", image: "/images/2018/08/IMG_1738.jpg" },
     { caption: "Almost back!", image: "/images/2018/08/IMG_1741.jpg" },
     { caption: "A beautiful stretch of trail flanked by trees", image: "/images/2018/08/IMG_1737.jpg" }
-]%}    
+]%}
 
 We drove straight to Twisted Juniper Coffee to treat ourselves to huckleberry smoothies, but sadly they closed at 5. We were just a half hour too late. Our palates would have to wait a few minutes for us to get cleaned up. Amy, Xander and I used the pool and hot tub at our place before showering. We all headed out to Hop & Brew in Sisters for some refreshing pints (our favorite post-hiking beverage) and a platter of loaded nachos. While there, we struck up a pleasant conversation with two Canadian bikers who were passing through town. We finished off the evening with some ice cream from BJ’s on Main Street.
 
@@ -72,7 +72,5 @@ We drove straight to Twisted Juniper Coffee to treat ourselves to huckleberry sm
 ## By the Numbers
 
 15.4 miles, 7:14 total time, 2,129 foot ascent
-
-https://vimeo.com/286655944
 
 <iframe src="https://www.strava.com/activities/1772949555/embed/1dbe546bf05fd023d50fd093a66cedee0957e493" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

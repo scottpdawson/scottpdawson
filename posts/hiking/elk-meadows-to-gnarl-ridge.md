@@ -4,8 +4,8 @@ date: "2018-08-09"
 permalink: "elk-meadows-to-gnarl-ridge/"
 hero: "/images/2018/08/IMG_0616.jpg"
 description: "A delightful hike to Gnarl Ridge (who loves switchbacks?), almond butter/jelly sandwiches and grapes,  and a brief stop at Trillium Lake."
-tags: 
-    - oregon
+tags:
+  - oregon
 ---
 
 We wanted to get a far earlier start on this hike than we’d had the prior day at Kings Mountain. We arrived at the trailhead just off of Mt. Hood Meadows Nordic Center at 9a, after a bit of confusion after mistakenly pulling into the main Meadows driveway. It's clear that we have to update our guidebooks, since the ones we're using were published about a decade ago!
@@ -52,7 +52,5 @@ As evidence that Portland is a "small town" the driver of the car parked next t
 ## By the Numbers
 
 10.47 miles, 4:54 total time, 2,305 foot ascent
-
-https://vimeo.com/286655925
 
 <iframe src="https://www.strava.com/activities/1764701665/embed/74b99375934e8ea870dbde16d4da84a4ce5cf797" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

@@ -9,9 +9,10 @@ distance: "26.2 mi"
 overall: ""
 agegroup: ""
 tags:
-    - marathon
-    - race
+  - marathon
+  - race
 ---
+
 ## Acceptance and Training
 
 The New York Marathon has seemingly been a long journey for me. Amy and I both put in for the lottery last year, and the luck of the draw had me running and her spectating. I have such mixed feelings about the lottery, as once you're in, you're in! So, I added this marathon to my training plan and got to work.
@@ -52,13 +53,13 @@ Getting to the start on Staten Island couldn't have been more efficient. I woke�
     { caption: 'Wave 2', image: '/images/2014/11/IMG_3482.jpg' },
     { caption: 'I was in the front, following volunteers with linked arms', image: '/images/2014/11/IMG_3481.jpg' },
     { caption: 'At the start line, ready to go!', image: '/images/2014/11/IMG_3483.jpg' }
-]%} 
+]%}
 
 I was able to get into the front of the Corral, so after we slowly moved our way to the start line, I found a surreal scene. Beyond the start line, the Verrazano Narrows bridge was empty. Lighter bits of clothing swirled around in the wind, and it was something from a post-apocalyptic movie where we were all about to run for our lives across a deserted 2-mile bridge. A quick national anthem, and we were off. It was downright surreal. In front of me, just about 10 runners on a desolate stretch. At one point, a runner in front of me took an article of flying clothing in the face. A particularly strong gust blew me to my right in mid-stride. We must have looked like drunken runners! It was nice to come off the bridge into the relatively sheltered streets, and I got into a good groove as we ran the streets of Brooklyn. I was on my numbers (a bit ahead of them, actually) and was feeling great.
 
 The crowd support in Brooklyn was amazing - the best of the entire race. I got to see Amy and the kids at Mile 8, which was super cool and quite a lift!
 
-http://vimeo.com/110764231
+https://www.youtube.com/watch?v=PkGKGSXWEh0
 
 The only personal complaint I have is the sheer volume, not from the crowds, but from the bands. The music was SO loud at times, and it felt rather ridiculous to have my own earbuds in. I am a very introspective runner, and not once in this race did I feel like I really focused on myself. And that's when things got tough and my wave assignment affected me. I caught up with the tail of Wave 1, and suddenly found myself dodging walkers and slower runners, some of whom were running side-by-side like a slowly-moving roadblock. I think this really took its toll over time, and the 59th Street Bridge was the toughest part of it. So many obstacles to dodge, and by the time I made it over, I was really looking forward to a push up 1st Avenue.
 
@@ -70,7 +71,7 @@ After what seemed like an eternity, we finally entered Central Park and I mental
 
 {% picture "/images/2014/11/IMG_3486.jpg", "Post-race, in the medical tent." %}
 
-This post-race walk was in some ways HARDER than the marathon itself. It was an eternity before I arrived at the tables where they were distributing bags of water/apple/gatorade and space blankets. I was feeling light-headed and my legs were killing me, and so I sat on the side of the fencing. Red Cross was on me right away, asking if I needed help. _"No, but thank you. I just need to sit down."_ They pointed to a white tent in the distance. _"Can you get up and walk over there? You can't sit here."_ Sure, I said. I think so. When I got to the tent, a sign told me it was the medical tent. I didn't need medical attention! Another 50 feet past the entrance, I turned back and found a volunteer because yes, I did need medical attention. They ushered me into a very well-organized medical tent with tons of staff, cots and provisions. Before I knew it was I lying down, feet elevated, with saltines, Gatorade, and a very nice man who was doing delightful things to my calves. They took such good care of me, and after about ten minutes I was on my (happier) way.
+This post-race walk was in some ways HARDER than the marathon itself. It was an eternity before I arrived at the tables where they were distributing bags of water/apple/gatorade and space blankets. I was feeling light-headed and my legs were killing me, and so I sat on the side of the fencing. Red Cross was on me right away, asking if I needed help. *"No, but thank you. I just need to sit down."* They pointed to a white tent in the distance. *"Can you get up and walk over there? You can't sit here."* Sure, I said. I think so. When I got to the tent, a sign told me it was the medical tent. I didn't need medical attention! Another 50 feet past the entrance, I turned back and found a volunteer because yes, I did need medical attention. They ushered me into a very well-organized medical tent with tons of staff, cots and provisions. Before I knew it was I lying down, feet elevated, with saltines, Gatorade, and a very nice man who was doing delightful things to my calves. They took such good care of me, and after about ten minutes I was on my (happier) way.
 
 After the warmth of the medical tent, that space blanket might as well have not been there. My teeth were chattering, and as I exited the park, I had forgotten that one of the perks of not checking baggage at the start was getting a finisher "poncho". They put this around hooded luxury on me just a few blocks South of my exit on Central Park West, and I've never felt so grateful. We did all look like blue-clad zombies, shuffling off to wherever we had agreed to meet friends and family. Our meeting place was a pizza joint on Amsterdam, which I quickly found and was reunited with Amy and the kids. They had a great day spectating, and we couldn't wait to tell each other all of our stories!
 
@@ -82,7 +83,7 @@ I wouldn't have been able to do this without the support of my family. Amy and t
     { caption: '', image: '/images/2014/11/IMG_1767.jpg' },
     { caption: '', image: '/images/2014/11/IMG_1762.jpg' },
     { caption: '', image: '/images/2014/11/IMG_1764.jpg' }
-]%} 
+]%}
 
 ## The Final Result
 

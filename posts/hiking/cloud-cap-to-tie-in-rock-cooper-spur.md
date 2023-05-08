@@ -5,7 +5,7 @@ permalink: "cloud-cap-to-tie-in-rock-cooper-spur/"
 hero: "/images/2018/08/IMG_1675.jpg"
 description: "It’s a 12-mile drive up the access road to Cloud Cap on the eastern flanks of Mount Hood. This hike did not disappoint, and we finished the day off at Mount Hood Brewing in Government Camp."
 tags:
-    - oregon
+  - oregon
 ---
 
 It’s a 12-mile drive up the access road to Cloud Cap on the eastern flanks of Mount Hood, but it takes a strong stomach and about a half hour of careful driving. We debated who among us should get the cherished front seat, the place least likely to induce carsickness (you can check out a back seat perspective of the drive in the video below). It was all for nothing, though, since we all gratefully stayed healthy during the ride to the top. Sarah, Adam and Quiggly joined us for this hike. We were a party of six, plus a small and determined dog!
@@ -33,7 +33,7 @@ The plaque on tie-in rock commemorates five climbers who died on June 21, 1981. 
 
 We decided to proceed along the trail all the way past Tie-In Rock, ending up at the edge of the glacier after exactly 4 miles of hiking for a fantastic lunch and photo spot. Quiggly enjoyed rolling around on the glacier.
 
-https://vimeo.com/286503426
+https://www.youtube.com/watch?v=zygV9gKRW5I
 
 {% lightbox [
     { caption: "At the turnaround point", image: "/images/2018/08/IMG_1705.jpg" },
@@ -66,7 +66,5 @@ The drive down was no less harrowing but seemed shorter since we knew what was c
 ## By the Numbers
 
 8.22 miles, 6:43 total time, 3,166 foot ascent
-
-https://vimeo.com/286655939
 
 <iframe src="https://www.strava.com/activities/1768533431/embed/097c2552813ae04e519c17476c8fd45d79c988a8" width="100%" height="405" frameborder="0" scrolling="no"></iframe>
