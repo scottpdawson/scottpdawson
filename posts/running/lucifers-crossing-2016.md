@@ -9,8 +9,8 @@ distance: "6.66 mi"
 overall: ""
 agegroup: ""
 tags:
-    - lucifers crossing
-    - race
+  - lucifers crossing
+  - race
 ---
 
 I made a decision the morning of the race to run it again, since my marathon training plan called for 8 miles for the day, and this would give me at least 6.66 of 'em. I ran Lucifer's [last year](/lucifers-crossing-2015/), and in the [inaugural year](/lucifers-crossing/), and it's really great. The distance is short enough to go all out on flat and downhill stretches, but the wicked elevation helps keep the pace in check, too. I arrived a few minutes early to warm up and same-day register, and enjoyed talking to a few fellow runners before we got started at 10 a.m. Here's how Ian describes the race on the RNR web site:
@@ -23,9 +23,7 @@ I had an 18-mile training run the day prior, but my legs were feeling pretty goo
 
 As always, I enjoyed the downhill single-track sections, and someone did a fantastic job with a brush hog keeping vegetation away from the trail margins. I watched the remaining distance tick down on my watch, and was grateful to make the final pitch down to the campground area for the finish, some much-needed water (I carried about 12 ounces with me and used it all) and some delicious watermelon.
 
-All in all, a fantastic day on the trails courtesy of [Red Newt Racing](http://rednewtracing.com/)! I came in 7th out of 117 with a 1:00:08. After getting back home, having a copious amount of coffee and watching the replay of the women's triathlon in Rio (amazing ...), I drew this gem as part of my [#365DayDraw project](/365-day-draw-sketching-each-day-in-2016/). Seems I was influenced just a _bit_ by the race's title.
-
-{% tweet "767447300641808384" %}
+All in all, a fantastic day on the trails courtesy of [Red Newt Racing](http://rednewtracing.com/)! I came in 7th out of 117 with a 1:00:08. After getting back home, having a copious amount of coffee and watching the replay of the women's triathlon in Rio (amazing ...), I drew [this gem](https://twitter.com/scottpdawson/status/767447300641808384) as part of my [#365DayDraw project](/365-day-draw-sketching-each-day-in-2016/). Seems I was influenced just a *bit* by the race's title.
 
 ## GPS Track
 

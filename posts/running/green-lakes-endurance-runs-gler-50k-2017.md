@@ -9,8 +9,8 @@ distance: "50 km"
 overall: "16/82"
 agegroup: "2/12"
 tags:
-    - ultra
-    - race
+  - ultra
+  - race
 ---
 
 Amy convinced me that a 50K would be a good idea on the heels of [Cayuga Trails 50](/cayuga-trails-50-2017/) earlier this year. She had run the Green Lakes 50K a few years prior with Jenny, and was excited to try it out again. As we’d both be coming off of Intermediate Triathlon training, and we’d been steadily running all year, we were not _wholly_ unprepared for the challenge. We signed up on July 12 for this late August race.
@@ -67,17 +67,13 @@ I hung around the finish area for a bit, enjoying watching the awards ceremony a
 
 {% pictureRt "/images/2017/08/IMG_9136.jpg", "Caffeine/calorie bombs" %}
 
-We were so happy with ourselves, and now it was time to recover (_ahem_, indulge). We both had grabbed some provisions from the finish line aid station after our respective finishes. I'd grabbed a few handfuls of M&Ms and had a glass of orange soda with ice, mostly for the refreshment factor (I've not had a full soda in _many_ years after watching some frightening documentaries).
+We were so happy with ourselves, and now it was time to recover (_ahem_, indulge). We both had grabbed some provisions from the finish line aid station after our respective finishes. I'd grabbed a few handfuls of M&Ms and had a glass of orange soda with ice, mostly for the refreshment factor (I've not had a full soda in *many* years after watching some frightening documentaries).
 
 We had a few free rewards _(don't you love those?)_ on our Starbucks account, so after taking a few minutes to change our clothes, we headed to the closest caffeine dispensary to order the largest Frappuccinos we could find. Why is there not a SuperVenti for ultra runners? The Venti Frapps didn't disappoint and we finished them before we were too far down I-81. As Amy reached the bottom of her drink with the telltale sound of slurping air and whipped cream, I said "Well, we could always get another one, right?" I don't doubt we'd have stopped again if there was another Starbucks nearby.
 
-By this point we were getting hungry (or it may have evolved into [_hangry_](https://www.google.com/search?q=define+hangry) as we exited 81 in Cortland) so we made a plan to stop by [Viva Taqueria](http://www.vivataqueria.com/) and get some Cheatin' Vegan Nachos on the taqueria side. We placed our order and patiently waited outside in the partial shade, content to watch the world walk by as our stomachs protested the lack of further Frappuccinos. Nachos arrived late ... but better late than never!
-
-{% tweet "901882922051010560" %}
+By this point we were getting hungry (or it may have evolved into [_hangry_](https://www.google.com/search?q=define+hangry) as we exited 81 in Cortland) so we made a plan to stop by [Viva Taqueria](http://www.vivataqueria.com/) and get some Cheatin' Vegan Nachos on the taqueria side. We placed our order and patiently waited outside in the partial shade, content to watch the world walk by as our stomachs protested the lack of further Frappuccinos. [Nachos](https://twitter.com/scottpdawson/status/901882922051010560) arrived late ... but better late than never!
 
 We continued our evening at home with a beer while relaxing outside, and then with Mexican night (homemade quesadillas, guacamole with refried beans and corn) and a margarita. I'd say we replenished far enough!
-
-{% tweet "901928295998124032" %}
 
 ## By the Numbers
 
@@ -85,8 +81,8 @@ We continued our evening at home with a beer while relaxing outside, and then wi
 
 GLER's results page is SO cool. It helped me confirm what I already knew, albeit with more precision. My first two loops were too fast. The third loop was definitely where I started to give up ground, even if I did maintain my overall placement. The fourth loop was carnage, giving up four places along the way to the finish. Even pacing is my nemesis, especially when I go beyond 20 miles! I'm not sure if I'd be up for this again, given the looping format, but there is something to be said for knowing what's ahead of you. _Miles are miles, boss!_ I'll give myself an attaboy, though, since I beat my prior 50K time by 55:31. I ran 5:40:22 during my only other 50K run [several years ago at the Finger Lakes 50s](https://www.strava.com/activities/212335849). Gnarly course, and a separate one to be sure, but a PR is a PR any day of the week!
 
-**Time:** 4:44:51 ([results](http://results.leonetiming.com/2017GLER)) 
-**Overall:** 16 of 82 
+**Time:** 4:44:51 ([results](http://results.leonetiming.com/2017GLER))
+**Overall:** 16 of 82
 **M40-49:** 2 of 12
 
 <iframe src="https://www.strava.com/activities/1155551831/embed/48e63fd8444b26adf2d9c3226a55f2b2a165826e" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

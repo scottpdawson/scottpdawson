@@ -9,8 +9,8 @@ distance: "13.1 mi"
 overall: "15/625"
 agegroup: "1/40"
 tags:
-    - race
-    - featured
+  - race
+  - featured
 ---
 
 I signed up for my fifth [Skunk Cabbage Half Marathon](https://fingerlakesrunners.org/race/skunk-cabbage-classic-2018/) on December 1. There’s something about hitting registration for your favorite races on the first day it opens, in the depths of winter. I have several races that are this way, including [Gorges Half](http://rednewtracing.com/GorgesIthaca) and the [Cayuga Lake Triathlon](https://cayugalaketriathlon.org/). I love Skunk because of the people. It feels like everyone emerges from winter hibernation and converges on Barton Hall for an unofficial runner’s kickoff to spring. I love the social aspect of mingling before and after the race. The course is also rather nice, as there aren’t too many hills and it’s easily digested in stretches of 2-4 miles.
@@ -19,9 +19,7 @@ This winter’s [MITHICAL Milers](https://www.strava.com/clubs/mithacal-milers) 
 
 ## What to Wear?
 
-The key problem was going to be the weather. The temperature was forecasted to be about ten degrees colder than I’d like. It’d hover right around freezing for the entire distance! What should I wear? Tights could overheat. Shorts could be too cold, especially if it wasn’t sunny. I need up choosing shorts and my favorite NYC Marathon long-sleeved tech shirt. A hat and sunglasses completed the ensemble nicely, since the course was not sheltered and wind and snow could be an issue for visibility. I was really nervous, too. Race mornings can be hit or miss for me, but I was feeling particularly bad this morning, bad enough to tweet about it.
-
-{% tweet "982933394878271488" %}
+The key problem was going to be the weather. The temperature was forecasted to be about ten degrees colder than I’d like. It’d hover right around freezing for the entire distance! What should I wear? Tights could overheat. Shorts could be too cold, especially if it wasn’t sunny. I need up choosing shorts and my favorite NYC Marathon long-sleeved tech shirt. A hat and sunglasses completed the ensemble nicely, since the course was not sheltered and wind and snow could be an issue for visibility. I was really nervous, too. Race mornings can be hit or miss for me, but I was feeling particularly bad this morning, [bad enough to tweet about it](https://twitter.com/scottpdawson/status/982933394878271488).
 
 ## Getting Ready in Cornell's Barton Hall
 
@@ -79,8 +77,8 @@ A huge thank you to Alex Kleinerman and her crew of volunteers who pull this eve
 
 ## By the Numbers
 
-**Time:** [1:26:15](http://www.leonetiming.com/2018/Roads/SkunkHalf18.htm) (course PR!) 
-**Overall:** 15/625 
+**Time:** [1:26:15](http://www.leonetiming.com/2018/Roads/SkunkHalf18.htm) (course PR!)
+**Overall:** 15/625
 **Age Group:** 1/40, 1st Masters winner, NYS RRCA Champion
 
 <iframe src="https://www.strava.com/activities/1497520920/embed/ef9f2ed9f6912378d5c455161d41824769bf23d8" width="100%" height="405" frameborder="0" scrolling="no"></iframe>

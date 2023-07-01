@@ -9,14 +9,12 @@ distance: "50 km"
 overall: "12"
 agegroup: "1"
 tags:
-    - ultra
-    - race
-    - featured
+  - ultra
+  - race
+  - featured
 ---
 
-The night before this race, I tallied the miles I ran since signing up on January 1. I trained 918 miles over 6 months for THIS RACE. No pressure. I put a lot of pressure on myself, and in various venues, told people that I hoped to win (_really, Scott?_), or at least place in the top 10. In my head, though, my true baseline hopes were simple: finish strong and don't let the wheels fall off.
-
-{% tweet 485194644339560450 %}
+The night before this race, I tallied the miles I ran since signing up on January 1. I trained 918 miles over 6 months for THIS RACE. [No pressure](https://twitter.com/scottpdawson/status/485194644339560450). I put a lot of pressure on myself, and in various venues, told people that I hoped to win (_really, Scott?_), or at least place in the top 10. In my head, though, my true baseline hopes were simple: finish strong and don't let the wheels fall off.
 
 ## Race Prep
 
@@ -42,7 +40,7 @@ The rest of the first loop is kind of a blur. I didn't do much hiking at all, en
 
 And the mud? Bad. Especially near the top. Think about soaking your yard for a few weeks so it's nice and spongy. Then invite a herd of cattle to mill about for awhile, making nice 6-8 inch holes. Then fill those holes with water. There was nowhere to step without getting soaked, so get soaked, I did. My feet dried off pretty quickly, though.
 
-I arrived at the mid-point having to go to the bathroom badly. They announced, _"And in 3rd place, here comes Scott Dawson from Trumansburg, New York!"._ I made a gesture like I was going to make a 30-second pit stop, closed the bathroom door, and heard the announcer continue, _"...and since I have a microphone, I can tell you that Scott Dawson is going to the bathroom! We should time him ..."._ EMBARRASSING. But still funny.
+I arrived at the mid-point having to go to the bathroom badly. They announced, *"And in 3rd place, here comes Scott Dawson from Trumansburg, New York!".* I made a gesture like I was going to make a 30-second pit stop, closed the bathroom door, and heard the announcer continue, *"...and since I have a microphone, I can tell you that Scott Dawson is going to the bathroom! We should time him ...".* EMBARRASSING. But still funny.
 
 I ran out of the aid station still in 3rd place, but not for long. I was passed shortly after another mile was up, and loop 2 turned out to be NOTHING like the first.
 
@@ -50,7 +48,7 @@ I ran out of the aid station still in 3rd place, but not for long. I was passed 
 
 {% picture "/images/2014/07/IMG_1428.jpg", "Serious doubts at mile 20.5" %}
 
-During loop 2, I stopped at EVERY aid station. For awhile. And I stopped on trail, too. My knees were my friends, helping support my upper body while I tried to catch my breath. At miles 20.5 and 23.5 I saw Amy and the kids. The first stop, they wisely got electrolyte pills in me (my calves were cramping badly), potato chips and a Twizzler. I sat down on a lovely-looking rock. Probably would have sat their longer had Amy not said, _"You probably shouldn't sit TOO long."_ Sage advice. Legs, don't fail me now.
+During loop 2, I stopped at EVERY aid station. For awhile. And I stopped on trail, too. My knees were my friends, helping support my upper body while I tried to catch my breath. At miles 20.5 and 23.5 I saw Amy and the kids. The first stop, they wisely got electrolyte pills in me (my calves were cramping badly), potato chips and a Twizzler. I sat down on a lovely-looking rock. Probably would have sat their longer had Amy not said, *"You probably shouldn't sit TOO long."* Sage advice. Legs, don't fail me now.
 
 Another three miles and I had looped back to see them again. This time Amy ran down to see me, and I almost cried. They were tears of happiness: I was SO happy to see someone who I knew I could rely on, as I was having trouble. Any other aid station worker would have seen a stronger face, but when I see my family, I fall apart when I'm having a tough time. I got a banana, more electrolytes, a few M&Ms and headed out again.
 
@@ -74,7 +72,7 @@ _"We should TOTALLY get a horse. That would be SO cool."_
 
 I live on a quarter acre. Reality check, please.
 
-At the library aid station, one worker asked what he could get me. _"I don't know. There's so much crap in my stomach, I don't know if it's coming up or going down."_
+At the library aid station, one worker asked what he could get me. *"I don't know. There's so much crap in my stomach, I don't know if it's coming up or going down."*
 
 {% picture "/images/2014/07/IMG_2870.jpg", "Finishing felt SOOO good." %}
 
