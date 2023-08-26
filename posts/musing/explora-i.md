@@ -20,7 +20,7 @@ It was as if we stepped into the lobby of a luxury hotel as we boarded Explora I
 
 We headed down to Deck 7 to let ourselves into our suites. We had one on each side of the ship, affording us a chance to have great views no matter where we were docked or sailing. The suites were comfortably sized and decorated like a sleek, modern hotel room. In fact, I can count very few on-land stays that had the same vibe. The bedding was really comfortable with upscale sheet sets. The room lighting could be configured to fit your mood, from subtle lighting for mornings and evenings to full brightness, if you wish.
 
-{% picture "/images/2023/explora/room.jpg", "Suite 7016" %}
+{% picture "/images/2023/explora/room.jpg", "Suite 7106" %}
 
 The balcony, behind a substantial door that let us view the ocean from within our suite, was also a fantastic size, complete with a table, two chairs, and a chaise lounge.
 
@@ -32,7 +32,7 @@ The balcony furniture was so nice and comfortable I had to look them up. We’re
 
 As Amy got ready for dinner the first evening, she used the [Dyson hair dryer](https://www.dyson.com/hair-care/hair-dryers/supersonic). It was the best hair dryer she’d ever used, so we looked that one up, too. Again, _luxury._
 
-The host assigned to our room was attentive and friendly. We really didn’t need anything special during our stay, as any needs we had seemed to have been anticipated by the well-stocked room. We received little gifts most days: tote bags, souvenir water bottles, Moleskine notebooks, bath and shower oil, and artisanal chocolates. Very nice touches.
+Ravi, the host assigned to our room, was attentive and friendly. We really didn’t need anything special during our stay, as any needs we had seemed to have been anticipated by the well-stocked room. He did check in whenever our paths crossed and we always enjoyed chatting with him. We received little gifts most days: tote bags, souvenir water bottles, Moleskine notebooks, bath and shower oil, and artisanal chocolates. Very nice touches.
 
 {% picture "/images/2023/explora/chocolates.jpg", "Fancy chocolates" %}
 
@@ -92,7 +92,11 @@ The approach to entertainment on Explora I is unique. There are no massive perfo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/NZbkXDYq84Y?si=2vfaiw9ZyFq8Gx8O&amp;start=368" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Xander played a late afternoon saxophone set with piano accompaniment. It was a complete concert, really, with narration about the history of the saxophone and sharing context for the pieces he played. He also played a brief piano set above the lobby bar while guests relaxed below and at the adjacent Crema Cafe. Wonderful ambiance.
+Xander played a late afternoon saxophone set with piano accompaniment by Eli. It was a complete concert, really, with narration about the history of the saxophone and sharing context for the pieces he played. You can hear voices in the background, since it's an open space and drinks are being served, but it was such a relaxing way to spend an hour.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6nZP1cKFP6c?si=pSGzwCZFMqgQAvWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+He also played a brief piano set above the lobby bar while guests relaxed below and at the adjacent Crema Cafe. Wonderful ambiance.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/XGsIsOoqYSA?si=Qq8wMeu5xM6xVE-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -106,7 +110,7 @@ The artistes on board are all very talented and we really enjoyed the entertainm
 
 ## Activities & Amenities on Explora I
 
-The fitness center is stocked with TechnoGym equipment and the staff is helpful and friendly. We enjoyed a few treadmill runs, a circuit on the weight machines, and took advantage of a couple's offer for an [InBody scan and consultation](https://inbodyusa.com/general/inbody-test/) (60 euros each). We enjoyed morning yoga most days, which you should sign up for if you’re interested (there are only 8-10 spots). That was a great way to kick off the day before enjoying coffee and breakfast.
+The fitness center is stocked with TechnoGym equipment and the staff is helpful and friendly. We enjoyed a few treadmill runs, a circuit on the weight machines, and took advantage of a couple's offer for an [InBody scan and consultation](https://inbodyusa.com/general/inbody-test/) (for an extra modest fee). We enjoyed morning yoga most days, which you should sign up for if you’re interested (there are only 8-10 spots). That was a great way to kick off the day before enjoying coffee and breakfast.
 
 {% picture "/images/2023/explora/yoga.jpg", "The yoga studio at the fitness center" %}
 
