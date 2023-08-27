@@ -90,7 +90,7 @@ Our son, [Xander Dawson](https://xkdawson.com/), was hired as a Resident Artiste
 
 The approach to entertainment on Explora I is unique. There are no massive performance spaces, but rather intimate lounges conducive to popping in and out as you wish. We enjoyed several evenings in the Astern Lounge with intimate quartets, and most evenings we took in a few sets in the larger Journeys Lounge. Xander played a late afternoon saxophone set with piano accompaniment by Eli. It was a complete concert, really, with narration about the history of the saxophone and sharing context for the pieces he played. Here's a brief sample pack of the variety of entertainment we enjoyed.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/d0y5Q3QELdc?si=Dtvv-hl0YKmsIXVF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/YZONQaz2xd8?si=xjHJkeV9ob5qn8rn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Xander also played a brief piano set above the lobby bar while guests relaxed below and at the adjacent Crema Cafe. Wonderful ambiance.
 
