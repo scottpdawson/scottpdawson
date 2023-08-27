@@ -16,7 +16,7 @@ We are not travel agents (a good portion of whom we saw on our cruise or read po
 
 ## Accommodations on Explora I
 
-It was as if we stepped into the lobby of a luxury hotel as we boarded Explora I. A host greeted us enthusiastically, handed us a glass of champagne, and told us that our suite would be ready in an hour or so. They encouraged us to explore the ship. As we were incredibly hungry, we were guided to the Emporium, a buffet of lunch options that filled a massive space with ocean views from all sides.
+It was as if we stepped into the lobby of a luxury hotel as we boarded Explora I. A host greeted us enthusiastically, handed us a glass of champagne, and told us that our suite would be ready in an hour or so. They encouraged us to explore the ship. As we were incredibly hungry, we were guided to the Emporium, an array of lunch options that filled a massive space with ocean views from all sides.
 
 We headed down to Deck 7 to let ourselves into our suites. We had one on each side of the ship, affording us a chance to have great views no matter where we were docked or sailing. The suites were comfortably sized and decorated like a sleek, modern hotel room. In fact, I can count very few on-land stays that had the same vibe. The bedding was really comfortable with upscale sheet sets. The room lighting could be configured to fit your mood, from subtle lighting for mornings and evenings to full brightness, if you wish.
 
