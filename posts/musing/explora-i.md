@@ -88,19 +88,15 @@ While there are many bars and lounges on board that offer beverages, we chose to
 
 Our son, [Xander Dawson](https://xkdawson.com/), was hired as a Resident Artiste for this cruise. Shortly after completing his first year at Boston Conservatory, he joined the rest of the musicians in Orlando for a few weeks of rehearsals and then was whisked away to Monfalcone, Italy to board the ship and await its completion. He’ll be in residence as an artiste through mid-December, and we couldn’t miss the opportunity to see him perform in such a wonderful and unique setting. That’s the main reason we chose Explora I, but we were also celebrating our 25th anniversary, Elizabeth’s college graduation, and her subsequent job as an elementary chorus teacher. So, _plenty_ of reasons to get on board!
 
-The approach to entertainment on Explora I is unique. There are no massive performance spaces, but rather intimate lounges conducive to popping in and out as you wish. We enjoyed several evenings in the Astern Lounge with intimate quartets, and most evenings we took in a few sets in the larger Journeys Lounge.
+The approach to entertainment on Explora I is unique. There are no massive performance spaces, but rather intimate lounges conducive to popping in and out as you wish. We enjoyed several evenings in the Astern Lounge with intimate quartets, and most evenings we took in a few sets in the larger Journeys Lounge. Xander played a late afternoon saxophone set with piano accompaniment by Eli. It was a complete concert, really, with narration about the history of the saxophone and sharing context for the pieces he played. Here's a brief sample pack of the variety of entertainment we enjoyed.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/NZbkXDYq84Y?si=2vfaiw9ZyFq8Gx8O&amp;start=368" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/d0y5Q3QELdc?si=Dtvv-hl0YKmsIXVF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Xander played a late afternoon saxophone set with piano accompaniment by Eli. It was a complete concert, really, with narration about the history of the saxophone and sharing context for the pieces he played. You can hear voices in the background, since it's an open space and drinks are being served, but it was such a relaxing way to spend an hour.
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/6nZP1cKFP6c?si=pSGzwCZFMqgQAvWK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-He also played a brief piano set above the lobby bar while guests relaxed below and at the adjacent Crema Cafe. Wonderful ambiance.
+Xander also played a brief piano set above the lobby bar while guests relaxed below and at the adjacent Crema Cafe. Wonderful ambiance.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/XGsIsOoqYSA?si=Qq8wMeu5xM6xVE-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-The artistes on board are all very talented and we really enjoyed the entertainment.
+The artistes on board are all very talented and we really enjoyed the entertainment!
 
 {% lightbox [
     { caption: "Evening by Candlelight", image: "/images/2023/explora/eveningbycandlelight.jpg" },
