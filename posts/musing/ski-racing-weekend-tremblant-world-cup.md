@@ -1,5 +1,5 @@
 ---
-title: "Women's World Cup Giant Slalom at Mont Tremblant (December 2-3, 2023)"
+title: "Women's World Cup Giant Slalom at Mont-Tremblant (December 2-3, 2023)"
 date: "2023-12-03"
 permalink: "womens-world-cup-gs-mont-tremblant-2023/"
 hero: "/images/2023/tremblant/finish.jpg"
