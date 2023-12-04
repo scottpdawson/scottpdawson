@@ -24,6 +24,6 @@ We enjoyed takeout from [Le Restaurant Ô WOK](https://www.o-wok.com/) in our ho
 
 We had grandstand tickets for day 2 and repeated our routine from the day prior. We got a prime spot in the front of the grandstand and enjoyed the elevated perch for the first run. There was heavy snow forecasted for the afternoon, though. We decided to head home (a six-hour drive) before the roads got too nasty. We grabbed some poutine and a beaver tail from [Queues de Castor](https://maps.app.goo.gl/VE6hL6UAkX3X32vv5), enjoyed that in our hotel lobby, and headed out. As it was, we hit bad weather-related traffic most of the way to Ottawa, so I'm not sure how later departures fared. We did watch and listen to the second run in the car, though, thanks to Elizabeth's subscription.
 
-World Cup ski racing returns to Mont-Tremblant December 6-7, 2024. Check below for a summary of the sights and sounds of this year's event.
+[World Cup ski racing returns to Mont-Tremblant December 6-7, 2024](https://coupedumonde.tremblant.ca/en/). Check below for a summary of the sights and sounds of this year's event.
 
 https://www.youtube.com/watch?v=MhEJevasJAE
