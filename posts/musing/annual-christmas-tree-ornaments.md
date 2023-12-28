@@ -189,3 +189,20 @@ Elizabeth made this year's ornament to remember her grandma, Diana Bradham. Eliz
 
 _2021_  
 We call this the "Saxy"-est ornament on the tree. 2021 has been all about the saxophone (well, flute and clarinet, too) for Xander as he auditions for music school. He also was the principle saxophonist at the NYSSMA All-State Music Festival.
+
+{% lightbox [
+    { caption: "Caption", image: "/images/2019/12/2022-ithaca-college.jpg" },
+    { caption: "Caption", image: "/images/2019/12/2022-boston-conservatory.jpg" }
+]%}
+
+## A College and a Conservatory
+
+_2022_  
+It's a two-for-one year with a reversible ornament that Elizabeth purchased from Amanda Colunio. Elizabeth graduated from Ithaca College and Xander was a freshman at Boston Conservatory in 2022!
+
+{% picture "/images/2019/12/2023-Explora-I.jpg", "" %}
+
+## Explora I
+
+_2023_  
+Xander was a working musician on Explora Journeys' Explora I for much of 2023, so we commemorated the occasion with a nautical ornament we purchased from a Christmas shop in New York City's Little Italy.
