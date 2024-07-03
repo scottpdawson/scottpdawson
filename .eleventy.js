@@ -51,6 +51,10 @@ module.exports = function (eleventyConfig) {
     return moment.utc(dateObj).format("MMM");
   });
 
+  eleventyConfig.addFilter("momentMonthName", (dateObj) => {
+    return moment.utc(dateObj).format("MMMM");
+  });
+
   eleventyConfig.addFilter("mmToHHMM", (num) => {
     var hours = Math.floor(num / 60);
     var minutes = num % 60;
@@ -212,10 +216,8 @@ module.exports = function (eleventyConfig) {
   const embedVimeo = require("eleventy-plugin-vimeo-embed");
   eleventyConfig.addPlugin(embedVimeo);
 
-  const embedYouTube = require("eleventy-plugin-youtube-embed");
-  eleventyConfig.addPlugin(embedYouTube, {
-    recommendSelfOnly: true,
-  });
+  const embedEverything = require("eleventy-plugin-embed-everything");
+  eleventyConfig.addPlugin(embedEverything);
 
   const pluginEmbedTweet = require("eleventy-plugin-embed-tweet");
   let tweetEmbedOptions = {
