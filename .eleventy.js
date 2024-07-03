@@ -216,8 +216,8 @@ module.exports = function (eleventyConfig) {
   const embedVimeo = require("eleventy-plugin-vimeo-embed");
   eleventyConfig.addPlugin(embedVimeo);
 
-  const embedEverything = require("eleventy-plugin-embed-everything");
-  eleventyConfig.addPlugin(embedEverything);
+  // const embedEverything = require("eleventy-plugin-embed-everything");
+  // eleventyConfig.addPlugin(embedEverything);
 
   const pluginEmbedTweet = require("eleventy-plugin-embed-tweet");
   let tweetEmbedOptions = {
