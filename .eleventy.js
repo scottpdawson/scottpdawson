@@ -244,6 +244,16 @@ module.exports = function (eleventyConfig) {
     return `${year}`;
   });
 
+  eleventyConfig.addShortcode("youtube", (videoURL, title) => {
+    const url = new URL(videoURL);
+    const id = url.searchParams.get("v");
+    return `
+<iframe class="yt-embed" style="height: 50vw; margin: 1rem 0; max-height: 25rem; width: 100%;" src="https://www.youtube.com/embed/${id}" title="YouTube video player${
+      title ? ` for ${title}` : ""
+    }" frameborder="0" allowfullscreen></iframe>
+`;
+  });
+
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
