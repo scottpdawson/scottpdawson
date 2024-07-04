@@ -101,7 +101,7 @@ The run is two identical loops up to the end of the gorge trail and back. After 
 
 I caught up with Shane Eversfield on the first loop and chatted with him briefly. I told him that the Wednesday night class had been “pure gold” for me. It was true: without it, the swim would have gone far more poorly. The first loop went by so well, but the sun beat down relentlessly as I came back into the park. There was no shade here, and I longed to be back on the tree-covered gorge trail. Joel Cisne, in his inimitable fashion (personality and clothing) spurred runners on at the halfway point and finish. He was kind enough to let me post this video of him either guiding runners to the finish (sprint and second-lap intermediates) or another 5K loop (us lucky intermediates). Joel is one of the most memorable parts of the race for me!
 
-https://www.youtube.com/watch?v=DcNkgCdAN9c
+{% youtube "https://www.youtube.com/watch?v=DcNkgCdAN9c" %}
 
 The second loop was all about just keeping the pace up. I went a little further inside myself, not taking the time or energy to encourage many other runners. It was hard enough to focus on my own cadence! Minute by minute the miles passed by, though, and soon I was back in the direct sunlight. I was ready to be done.
 

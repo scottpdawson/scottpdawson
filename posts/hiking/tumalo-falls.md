@@ -28,7 +28,7 @@ After riding, we met up with my high school friend Mata and her family at the [N
 
 We had our sights set on Tumalo Falls for the afternoon, but mistakenly believed it was halfway back to Sisters in Tumalo. Nope — that’s a state park with camping along the Deschutes. We mapped it out on our GPS and headed due west from Northwest Crossing and arrived at a very busy parking area. Luckily, there was a free spot just feet from the trailhead. We checked out the map, decided to leave our trekking poles behind, and headed up the trail with just a few running packs of water on the kids’ backs.
 
-https://www.youtube.com/watch?v=G4WbjO1FEaw
+{% youtube "https://www.youtube.com/watch?v=G4WbjO1FEaw" %}
 
 We passed waterfall after waterfall on the outbound leg of the hike. The terrain was well-trod, and I’ll say it got a bit monotonous as we neared 3.5 miles. At the junction with the middle fork of Tumalo Creek, we realized quickly that, were we to cross without our poles to steady us, we’d get wet. The crossing logs were either too narrow or submerged, so we decided to head back the way we’d come. As an added bonus, since we were wearing running packs and trail running shoes, we could do some running on the mostly-downhill return. I took up a spot behind Xander and really enjoyed the stretches of running on the clean trail. There were a few roots and rocks to contend with, but nothing like some of the trails out east.
 

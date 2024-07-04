@@ -48,7 +48,7 @@ The smell didn’t linger long, though, and we continued along the edge of the l
     { caption: "Broken Top", image: "/images/2018/08/IMG_1812.jpg" }
 ]%}
 
-https://www.youtube.com/watch?v=TMP9dA1PdXw
+{% youtube "https://www.youtube.com/watch?v=TMP9dA1PdXw" %}
 
 The return hike was mostly downhill and passed quickly.
 

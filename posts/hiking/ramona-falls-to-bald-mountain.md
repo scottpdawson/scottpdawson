@@ -69,7 +69,7 @@ We could have stood here for a very long time, taking it all in. The sun was shi
 
 The clouds were mesmerizing, and I took a time lapse of the [orographic lift](https://en.wikipedia.org/wiki/Orographic_lift).
 
-https://www.youtube.com/watch?v=GPzzPbry1vA
+{% youtube "https://www.youtube.com/watch?v=GPzzPbry1vA" %}
 
 ## There's Just One More Thing
 

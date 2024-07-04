@@ -47,7 +47,7 @@ It was really cool to see the kids’ faces when we arrived at Camp Lake. It’s
     { caption: "Kids!", image: "/images/2018/08/IMG_1778.jpg" }
 ]%}
 
-https://www.youtube.com/watch?v=9oTIi5WizE0
+{% youtube "https://www.youtube.com/watch?v=9oTIi5WizE0" %}
 
 After we were done relaxing, we took off on a rambling route around Camp Lake, trying to find access trails to some of the Chambers Lakes that lay beyond. We found the well-worn trail near the end of our traverse around the lake and decided we’d seen enough. The official trail to Chambers Lakes ascended a steep ridge, and we still had about 8 miles to hike out to the trailhead again.
 

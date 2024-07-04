@@ -50,7 +50,7 @@ Once we’d taken the lift ride back down to our car, we headed back to Bend. Th
 
 We had a fantastic time sampling beers from different breweries while the sun started to lower in the cloud-filled sky. We’d just missed a thunderstorm passing through the area, and it turned out to be a fantastic evening. We bought a tortilla pizza on the way out of the festival, saving a few of the slices for the kids before we headed back to our rental for the night.
 
-https://www.youtube.com/watch?v=0UM6uvKLvoM
+{% youtube "https://www.youtube.com/watch?v=0UM6uvKLvoM" %}
 
 ## By the Numbers
 

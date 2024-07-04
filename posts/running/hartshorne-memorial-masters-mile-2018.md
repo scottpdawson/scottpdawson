@@ -44,7 +44,7 @@ They called my heat and I made my way to the start line. They announced our name
 
 Amy caught these video clips of me at the start, and after the first lap:
 
-https://www.youtube.com/watch?v=Hdo8HvJwjH0
+{% youtube "https://www.youtube.com/watch?v=Hdo8HvJwjH0" %}
 
 I took up a position just off and behind his right shoulder, which meant I was running between lanes one and two. Psychologically, I felt really comfortable in this position since I wasn’t behind him, but I wasn’t right next to him, either. I literally stuck to this position for the next five laps, though later I’d get some sage advice that I’ll adopt next time (see below). As the last turn of lap six came into view, I decided to abandon my post at Keith’s shoulder and make a break for it. It wasn’t my kick, but it was a nudge in that direction. I tucked into lane one and had a steady seventh lap in the lead.
 

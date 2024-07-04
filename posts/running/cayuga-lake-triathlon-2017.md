@@ -43,7 +43,7 @@ There was doubt in prior weeks if we’d even be able to have the swim. There we
 
 I lined up to the far left of the swim wave where it’d be lighter traffic. Ironically, one of my Strava friends who I’ve not yet met in person, Bruno Salcedo, was standing right next to me. It was nice to meet him in person, since we’d met his wife Dayana Kibilds at packet pick-up. The countdown to the start was swift. We were off! I pulled hard for a minute to keep ahead of the fray, since there were several courses of swimmers lined up behind me. My dislike of being run over and kicked motivated me to start strong. I was careful to not go out too hard, and my main goal was to no stray too far to the left and have to make up the distance. I stopped a few times on the outbound leg to check my direction. The leg was otherwise uneventful and I found myself rounding the buoy at the far end of the course.
 
-https://www.youtube.com/watch?v=OZwY1MFvoeY
+{% youtube "https://www.youtube.com/watch?v=OZwY1MFvoeY" %}
 
 The current was slightly in my favor for the return leg, and I hugged the buoy line on my right. I even ran into it once, the coarse rope becoming temporarily tangled with my leg. I passed a few swimmers in my group here too, providing me with motivation. I encountered a pod of my swim wave in front of me, so I veered to the left to get around them. It was shortly after this that I found a real rhythm, practicing the things I learned in Total Immersion swim training, breathing bilaterally and being genuinely relaxed. I dare say I was enjoying myself!
 

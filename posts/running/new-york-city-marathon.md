@@ -59,7 +59,7 @@ I was able to get into the front of the Corral, so after we slowly moved our way
 
 The crowd support in Brooklyn was amazing - the best of the entire race. I got to see Amy and the kids at Mile 8, which was super cool and quite a lift!
 
-https://www.youtube.com/watch?v=PkGKGSXWEh0
+{% youtube "https://www.youtube.com/watch?v=PkGKGSXWEh0" %}
 
 The only personal complaint I have is the sheer volume, not from the crowds, but from the bands. The music was SO loud at times, and it felt rather ridiculous to have my own earbuds in. I am a very introspective runner, and not once in this race did I feel like I really focused on myself. And that's when things got tough and my wave assignment affected me. I caught up with the tail of Wave 1, and suddenly found myself dodging walkers and slower runners, some of whom were running side-by-side like a slowly-moving roadblock. I think this really took its toll over time, and the 59th Street Bridge was the toughest part of it. So many obstacles to dodge, and by the time I made it over, I was really looking forward to a push up 1st Avenue.
 

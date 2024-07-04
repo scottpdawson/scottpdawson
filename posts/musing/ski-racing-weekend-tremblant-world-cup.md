@@ -26,4 +26,4 @@ We had grandstand tickets for day 2 and repeated our routine from the day prior.
 
 [World Cup ski racing returns to Mont-Tremblant December 6-7, 2024](https://coupedumonde.tremblant.ca/en/). Check below for a summary of the sights and sounds of this year's event.
 
-https://www.youtube.com/watch?v=MhEJevasJAE
+{% youtube "https://www.youtube.com/watch?v=MhEJevasJAE" %}

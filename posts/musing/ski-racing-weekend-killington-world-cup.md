@@ -63,7 +63,7 @@ We were slightly concerned about the second run starting on time, due to the fog
 
 The second run is a flip 30 only, which means that instead of running the entire field of 60+ racers once more, they run only the fastest 30 from the first run. They run them in reverse, so the fastest racer from the first run goes last in the second run. This makes for a VERY exciting time, since all things being equal, you’d expect the run times to get increasingly faster. The announcers and the crowd got totally into it, and the combination of sport and theatrics made for a very entertaining afternoon. The video below starts off with Mikaela Shiffrin’s GS run from the first day, and also captures Mikaela Shiffrin and Resi Stiegler’s SL run from the second day. Spectacular fun.
 
-https://www.youtube.com/watch?v=QewEo77yR_Y
+{% youtube "https://www.youtube.com/watch?v=QewEo77yR_Y" %}
 
 ## Autograph Session
 

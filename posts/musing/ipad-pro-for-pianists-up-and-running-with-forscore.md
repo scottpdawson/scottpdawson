@@ -35,4 +35,4 @@ I think the bigger design will really help with drawing, typing, and music. I di
 
 Check out the video of me playing. The page turns are triggered from my foot, so I can keep my hands on the keys!
 
-https://www.youtube.com/watch?v=jlF19mhTSCA
+{% youtube "https://www.youtube.com/watch?v=jlF19mhTSCA" %}

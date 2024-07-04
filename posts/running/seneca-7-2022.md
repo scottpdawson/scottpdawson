@@ -71,7 +71,7 @@ Bottomless Brewing was the last transition zone, and by that point, Cornell’s 
 
 Just before I started capturing video, I spotted Scott’s blue USA singlet in the distance. No Cornell red. “Oh my God, he did it!” I yelled.
 
-https://www.youtube.com/watch?v=xwHkLg4w0Qs
+{% youtube "https://www.youtube.com/watch?v=xwHkLg4w0Qs" %}
 
 He flew by us to the final turnaround and we all sprinted in to the finish with him. He must have been doing sub-5 at that point, and later told me that he’d passed Cornell with a mile and a half to go. Phenomenal. We ended up edging Cornell by 55 seconds: a solid showing for a 100% Masters team from Ithaca, NY. We enjoyed talking with the Cornell team after we'd both finished and snapped this post's feature photo. Look at all those fast Ithacans!
 

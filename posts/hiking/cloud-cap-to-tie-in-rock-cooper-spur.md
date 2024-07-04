@@ -33,7 +33,7 @@ The plaque on tie-in rock commemorates five climbers who died on June 21, 1981. 
 
 We decided to proceed along the trail all the way past Tie-In Rock, ending up at the edge of the glacier after exactly 4 miles of hiking for a fantastic lunch and photo spot. Quiggly enjoyed rolling around on the glacier.
 
-https://www.youtube.com/watch?v=zygV9gKRW5I
+{% youtube "https://www.youtube.com/watch?v=zygV9gKRW5I" %}
 
 {% lightbox [
     { caption: "At the turnaround point", image: "/images/2018/08/IMG_1705.jpg" },

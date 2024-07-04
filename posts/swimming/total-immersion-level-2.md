@@ -71,7 +71,7 @@ We had a nice group in today's class with 6 people. After our dryland drills (we
 1. Making sure my head does not come up when I breathe. If I maintain a laser lead, my mouth will reach the surface *faster* than if I tilt my head upwards like I used to breathe.
 2. Driving my arms *not* quite so deep. You can see it in the attached video, but I struggle with the depth of my head and the depth of my focal points. I need to keep everything light and near the surface.
 
-https://www.youtube.com/watch?v=OwnqBn2mQJs
+{% youtube "https://www.youtube.com/watch?v=OwnqBn2mQJs" %}
 
 I'm still having a great time, learning a lot!
 
@@ -83,13 +83,13 @@ I couldn't make Monday's class, but Shane invited me to attend his Thursday nigh
 
 After a week of feeling sub-par and not getting into the pool (or doing any other fitness for that matter) I went again to Thursday night's class. I feel like I'm getting the hang of it, and am focused more on honing different skills as I do subsequent laps. For example, tonight I was curious about the intersection of strokes per length (SPL), perceived rate of exertion (PRE) and TIME. I hadn't measured how long it took to swim a length, so I used my tempo trainer to experiment with different settings from 145 down to 130. I found that I could drop my time by increasing the cadence, only dropping SPL by a stroke or two. My rate of exertion wasn't too bad with the increased cadence either. I was only doing 50s and 100s while experimenting with the clock, so the next step is to practice with these combinations doing 200s ... and something to write down my findings with. Shane shot underwater video again tonight, and I found another thing to work on, still, with raising my head to breathe. When I do so, my spine arches, which drops my legs _(first right-side breath in the video below)_. I need to keep that strong laser lead and rotate the head to the side to breathe, keeping my spine straight. The video did reinforce that the timing of my breath is right on _(second left-side breath)_, as I have my breath as my arm exits the water and begins re-entry. So, that was good to see!
 
-https://www.youtube.com/watch?v=82dC7_cHwaM
+{% youtube "https://www.youtube.com/watch?v=82dC7_cHwaM" %}
 
 ## February 25 - Class 8
 
 Ah, the last class of Session 2! I have really enjoyed this next step in re-training my brain and body to have a more efficient swim stroke. This class was all about repetitions, and didn't disappoint. Shane had us do 200s with varying foci, and it was a really good workout. I definitely am getting better at managing my exertion level, and keeping my arms higher in the water as I extend them to the target after entry. The BEST part about this class was swimming with Shane at the end. He matches the cadence and style of each and every swimmer in the class - a true testament to his skill - and being a part of that is just magical. Here's our dual swim across the pool, capping off the 8th and last class of this series.
 
-https://www.youtube.com/watch?v=rHhe0f1Vax0&feature=youtu.be
+{% youtube "https://www.youtube.com/watch?v=rHhe0f1Vax0" %}
 
 ---
 

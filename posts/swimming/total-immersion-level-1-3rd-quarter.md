@@ -19,7 +19,7 @@ Video feedback is going to be great. Shane awed us when he paused the playback w
 - **Engage my shoulders *even more* for the entry and extension of my lead arm.** I think more dryland will help here, and a renewed focus as I swim on doing this.
 - **Not dropping my lead arm too soon after I breathe.** My patient lead arm is not quite patient enough, especially when I breathe to the right. Again, will focus on this as I practice.
 
-https://www.youtube.com/watch?v=wb8wynKCkp8
+{% youtube "https://www.youtube.com/watch?v=wb8wynKCkp8" %}
 
 ---
 

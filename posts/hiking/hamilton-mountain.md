@@ -56,7 +56,7 @@ We drove further east and crossed back into Oregon. We enjoyed an early dinner a
 
 {% picture "/images/2018/08/IMG_1645.jpg", "Xander, Amy and me at Solstice in Hood River" %}
 
-https://www.youtube.com/watch?v=dyOEcwwrnAA
+{% youtube "https://www.youtube.com/watch?v=dyOEcwwrnAA" %}
 
 ## By the Numbers
 

@@ -32,13 +32,13 @@ At that moment, my mind's eye brought me to one of those tongue-in-cheek ideas 
 
 I swam with my [tempo trainer](http://amzn.to/1MFY1Ms) at 130, and found that I really enjoyed snapping my hips at the same time as the trainer's "beep". As Shane notes, I need to continue to focus on getting my shoulder out front. It was really funny, as at the beginning of this class, he stopped me and asked why my head was so far below the water. I didn't know! I smartly replied that I was trying to be like a dolphin, and then quickly fixed that problem. That's the thing I loved about this class, that if I picked up a bad habit (like that one) during practice, it was easily pointed out and rectified in the next class. **No sense practicing the wrong thing!**
 
-https://www.youtube.com/watch?v=9Cizzm3Agn4
+{% youtube "https://www.youtube.com/watch?v=9Cizzm3Agn4" %}
 
 ## Week 8 Video: Swimming with Shane
 
 In week 8, after progressing through our drills, I had the great pleasure of swimming with Shane in my lane. He swam with each of us, matching our stroke count and breathing. During class, I had found that my optimal tempo was around 133-135 (a stroke every 1.33 to 1.35 seconds), resulting in a stroke count of about 17 and a low perceived rate of exertion. It was really cool to see Shane adapt his stroke to each classmate's style. After the class, we all headed to the hot tub to spend time reviewing our videos.
 
-https://www.youtube.com/watch?v=1dsh5dX0WpY
+{% youtube "https://www.youtube.com/watch?v=1dsh5dX0WpY" %}
 
 ## Summarizing My Total Immersion Journey
 

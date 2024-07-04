@@ -10,7 +10,7 @@ The Finger Lakes Runners Club hosted this virtual run to benefit Ian Golden's [F
 
 I was inspired by [the video Ian shot during his run](https://www.youtube.com/watch?v=hrbVvqRrJQ0), so I took to the streets and trails where I live in Trumansburg and paused along the way to take some videos. Here's the compilation of my 19-mile run.
 
-https://www.youtube.com/watch?v=jsgaHzb0c6g
+{% youtube "https://www.youtube.com/watch?v=jsgaHzb0c6g" %}
 
 I mentioned some businesses and places/events of interest during the run. Here's a list of them for easy linking, too!
 
