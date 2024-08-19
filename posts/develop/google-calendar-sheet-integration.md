@@ -45,6 +45,8 @@ So, what's going on here?
 
 The core function is **addEventsToCalendar**. It gets the event data from the spreadsheet, ignoring any empty rows. Then, it deletes any events created on prior executions. This step is crucial, because otherwise you'd duplicate events (see the section on editing events below). Then, for each event, it grabs the date, title, and description, and creates an event.
 
+If you want to add events that have start and end times (not all-day events), check out the [**createEvent**](<https://developers.google.com/apps-script/reference/calendar/calendar#createEvent(String,Date,Date)>) function in the [Apps Script Calendar Service API](https://developers.google.com/apps-script/reference/calendar). There are a ton of other functions, too, so depending on what you want to do, you can probably find inspiration in the API.
+
 ## Run the Script
 
 Let's give it a try. Click the **Save** icon in toolbar, select **addEventsToCalendar**, and then click **Run**. Since this is the first time you're running a script connected to the sheet, you'll need to get some permissions set.
