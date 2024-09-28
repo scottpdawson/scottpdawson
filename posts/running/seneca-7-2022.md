@@ -1,5 +1,5 @@
 ---
-title: "Seneca 7"
+title: "Seneca 7 2022"
 date: "2022-04-24"
 permalink: "seneca-7-2022/"
 hero: "/images/2022/seneca7/team_with_cornell.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Seneca 7"
+title: "Seneca 7 2024"
 date: "2024-04-28"
 permalink: "seneca-7-2024/"
 hero: "/images/2024/seneca7/shirts-front.jpg"
