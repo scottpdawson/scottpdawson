@@ -207,6 +207,8 @@ It's a two-for-one year with a reversible ornament that Elizabeth purchased from
 _2023_  
 Xander was a working musician on Explora Journeys' Explora I for much of 2023, so we commemorated the occasion with a nautical ornament we purchased from a Christmas shop in New York City's Little Italy.
 
+{% picture "/images/2019/12/2024-whisk.png", "" %}
+
 ## Emoticakes Whisk
 
 _2024_  
