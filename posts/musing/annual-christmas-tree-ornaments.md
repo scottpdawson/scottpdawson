@@ -206,3 +206,8 @@ It's a two-for-one year with a reversible ornament that Elizabeth purchased from
 
 _2023_  
 Xander was a working musician on Explora Journeys' Explora I for much of 2023, so we commemorated the occasion with a nautical ornament we purchased from a Christmas shop in New York City's Little Italy.
+
+## Emoticakes Whisk
+
+_2024_  
+After 20 wonderful years, Amy made the heartfelt decision to retire from baking for her business, Emoticakes, at the end of October. It was amazing to reflect on how this journey began when Xander was just a year old. This little whisk seemed the perfect way to commemorate the occasion.
