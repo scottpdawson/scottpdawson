@@ -999,8 +999,7 @@ li code {
 .trainingTable .metrics a:hover {
   opacity: 1;
 }
-.trainingTable p,
-.writing_recap {
+.trainingTable p {
   margin: 0;
   font-size: 0.9em;
   line-height: 1.4em;

@@ -75,7 +75,8 @@ table,
 blockquote,
 form,
 .by-line,
-.relatedTags {
+.relatedTags,
+#container {
   width: 600px;
   max-width: 90%;
   margin: 0 auto 1em;

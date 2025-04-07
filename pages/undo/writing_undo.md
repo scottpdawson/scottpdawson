@@ -24,34 +24,45 @@ I wrote the book between January 25 and July 9, 2021. I'm capturing the weekly p
 <h2>Editing & Marketing Dispatches</h2>
 
 <h3>{{'2021-09-03' | momentDate}}: Beta Readers</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-09-03.md" -%}</div>
+
+{% include "./writing_summaries/2021-09-03.md" %}
 
 <h3>{{'2021-08-27' | momentDate}}: Next Week's the Week</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-08-27.md" -%}</div>
+
+{% include "./writing_summaries/2021-08-27.md" %}
 
 <h3>{{'2021-08-20' | momentDate}}: 500k</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-08-20.md" -%}</div>
+
+{% include "./writing_summaries/2021-08-20.md" %}
 
 <h3>{{'2021-08-13' | momentDate}}: Dog Days</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-08-13.md" -%}</div>
+
+{% include "./writing_summaries/2021-08-13.md" %}
 
 <h3>{{'2021-08-06' | momentDate}}: All That Summer Has to Offer</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-08-06.md" -%}</div>
+
+{% include "./writing_summaries/2021-08-06.md" %}
 
 <h3>{{'2021-07-30' | momentDate}}: Assuming the Role of the Reader</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-07-30.md" -%}</div>
+
+{% include "./writing_summaries/2021-07-30.md" %}
 
 <h3>{{'2021-07-23' | momentDate}}: Shifting Gears</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-07-23.md" -%}</div>
+
+{% include "./writing_summaries/2021-07-23.md" %}
 
 <h3>{{'2021-07-16' | momentDate}}: No More Counting</h3>
-<div class="writing_recap">{%- include "./writing_summaries/2021-07-16.md" -%}</div>
+
+{% include "./writing_summaries/2021-07-16.md" %}
 
 <h2>Writing Dispatches</h2>
 
-{%- for recap in writingRecap | reverse -%}
-{%- if recap.title -%}
+{% for recap in writingRecap | reverse %}
+{% if recap.title %}
 
-<h3>{{recap.date | momentDate}}: {{recap.title}}</h3><div class="writing_recap">{%- include "./writing_summaries/" + recap.date + ".md" -%}</div>
-{%- endif -%}
-{%- endfor -%}
+<h3>{{recap.date | momentDate}}: {{recap.title}}</h3>
+
+{% include "./writing_summaries/" + recap.date + ".md" %}
+
+{% endif %}
+{% endfor %}

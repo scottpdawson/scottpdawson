@@ -28,6 +28,7 @@ I posted tips on LinkedIn every day. Before January was up, I doubled my cadence
 ## Who's This Modern Worker, Anyway?
 
 {% pictureRt "/images/writing/handbook_index.jpg", "Features an exhaustive index" %}
+
 The modern worker isn't a popular term at the moment when it comes to describing remote work, distributed work, or hybrid teams … but it should be. The workplace is always in flux. Technology evolves. Teams change. Industries adapt. We communicate asynchronously. Workforces can be entirely virtual, or hybrid with some together, some apart. The world seems smaller and larger, all at the same time. And as the pandemic showed us, geography doesn’t have to dictate how we get work done. We all play in this constantly evolving sandbox, and that makes us modern workers.
 
 ## Buy the Book
