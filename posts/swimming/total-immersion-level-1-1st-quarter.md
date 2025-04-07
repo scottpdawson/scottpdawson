@@ -10,7 +10,7 @@ I'll be writing about these classes every other week, so with an 8-week class th
 
 Good. Back with me now? Here we go!
 
-Amy told me that I'd not only get the swimming instruction, but also a weekly dose of zen. I figured with the stresses of life, zen would be a welcome addition! Shane started off our first class with an orientation of sorts. We sat haphazardly around a monitor and soaked in the essence of Total Immersion's principles, most notably the concept of effortless power, and how we can harness _gravity_ as a means to propel us forward. Shane talked about balance, streamline, and propulsion, and how it would be unnatural at first to balance ourselves fore and aft in the water. I thought to myself, _"how on earth can I balance myself in water if my center of gravity is at my chest?"._ The answer was revealed soon enough ... keep your arms in front of you to redistribute your mass, as uncomfortable as that can be in the water. We introduced ourselves to the group, then got down to business.
+Amy told me that I'd not only get the swimming instruction, but also a weekly dose of zen. I figured with the stresses of life, zen would be a welcome addition! Shane started off our first class with an orientation of sorts. We sat haphazardly around a monitor and soaked in the essence of Total Immersion's principles, most notably the concept of effortless power, and how we can harness _gravity_ as a means to propel us forward. Shane talked about balance, streamline, and propulsion, and how it would be unnatural at first to balance ourselves fore and aft in the water. I thought to myself, *"how on earth can I balance myself in water if my center of gravity is at my chest?".* The answer was revealed soon enough ... keep your arms in front of you to redistribute your mass, as uncomfortable as that can be in the water. We introduced ourselves to the group, then got down to business.
 
 ## Sharpening the Axe
 
@@ -32,7 +32,7 @@ We added a transition to skate (or the hammock, as Shane calls it) with a latera
 
 I've always thought of swimming as being 100% about propulsion. Keep those fingers together! Move the water underneath you with each stroke! Power in the shoulders! Kick, kick, kick!
 
-Not so. Not even close! The principles I'm learning here will result in the ability to move through the water, not moving around _in_ the water. I practiced twice between the first and second class. Once I embraced Shane's admonition against racking up yardage in the pool, I was fine. This was playtime. Serious play, for sure, but this was going to be fun.
+Not so. Not even close! The principles I'm learning here will result in the ability to move through the water, not moving around *in* the water. I practiced twice between the first and second class. Once I embraced Shane's admonition against racking up yardage in the pool, I was fine. This was playtime. Serious play, for sure, but this was going to be fun.
 
 ## It's All About the Arm
 
@@ -42,7 +42,7 @@ We learned about the timing for transitioning our arms, and how to keep our forw
 
 We did more first-week drills in the pool, and I got a helpful bit of correction as we started transitioning skate positions. My x-y coordinate (target) of my lead arm was not low enough, making my feet sink. Indeed, in practice I'd play with this more, learning that having my arms lower made my feet go higher, and having my arms higher would make my feet go lower. Playful!
 
-We headed over the warm pool (thank God!) for some more drills, focusing on using our shoulder to lead our recovery arm out from its position after transition. We did forearm painting through the water, though in practice our arm would be transiting _out_ of the water. We worked on various ways of switching skate positions, with our forearm both in and out of the water.
+We headed over the warm pool (thank God!) for some more drills, focusing on using our shoulder to lead our recovery arm out from its position after transition. We did forearm painting through the water, though in practice our arm would be transiting *out* of the water. We worked on various ways of switching skate positions, with our forearm both in and out of the water.
 
 I practiced twice again this week, and really enjoyed the progression from bobble-head to full-on swimming (albeit without taking a breath, stopping instead). I'm excited for tonight's class, to see what cards we'll add to our "house of cards!"
 
@@ -50,8 +50,6 @@ I practiced twice again this week, and really enjoyed the progression from bobbl
 
 The first week, Shane recommended this TED video. I enjoyed listening to Tim’s anecdote about learning to enjoy swimming, after he was introduced to Total Immersion by Terry Laughlin.
 
-<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/tim_ferriss_smash_fear_learn_anything" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
-
-* * *
+<iframe src="https://embed.ted.com/talks/tim_ferriss_smash_fear_learn_anything" width="100%" height="480" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 This is part of a bi-weekly series on my Total Immersion learning experiences. If you arrived here and are wondering what Total Immersion is or why I'm doing it, [read about my swimming and who inspired me to take this on in my early forties](/swimming/).

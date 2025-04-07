@@ -5,7 +5,8 @@ permalink: "export-strava-workout-data/"
 hero: "/images/2017/09/xhr-requests-filled.png"
 description: "If you're a numbers geek AND a fitness geek like me, you've wanted to export Strava data. You've realized with dismay that Strava doesn't have any kind of export function for the hard-earned workouts you've uploaded."
 tags:
-    - strava
+  - strava
+  - popular
 ---
 
 If you're a numbers geek AND a fitness geek like me, you've wanted to export Strava data. You've realized with dismay that Strava doesn't have any kind of export function for the hard-earned workouts you've uploaded. Normally the lack of a feature like this wouldn't cramp my style, but I _really_ wanted to summarize my preparation for [Cayuga Trails 50](/cayuga-trails-50-2017/).
@@ -16,7 +17,7 @@ Going through workout-by-workout just wouldn't cut it. I needed a spreadsheet I 
 
 ## TL;DR: An Update
 
-Tibor commented on my original post a while ago, and I had reason to use their code when [my wife and daughter summarized their 200-day hike streak](https://skirtrunner.com/hiking/200-day-coronavirus-hike-streak/). This is by far the easiest and quickest approach. 
+Tibor commented on my original post a while ago, and I had reason to use their code when [my wife and daughter summarized their 200-day hike streak](https://skirtrunner.com/hiking/200-day-coronavirus-hike-streak/). This is by far the easiest and quickest approach.
 
 1. Go to https://www.strava.com/athlete/training after signing in.
 2. Open your browser's developer tools and navigate to Console window. In Chrome, you can press Command+Option+J (Mac) or Control+Shift+J (Windows, Linux, Chrome OS). In Firefox, you can press Ctrl+Shift+I or F12 (Windows, Linux) or Cmd+Opt+I (Mac)
@@ -58,7 +59,7 @@ Your inspector should now look like this:
 
 ### Step 3: Export Strava Data
 
-Web pages can make a lot of requests in the background for data. In this case, we're looking for one called training\_activities. In the upper left corner, under that red dot, you can search for "training" and see just those requests, which is what we're looking for.
+Web pages can make a lot of requests in the background for data. In this case, we're looking for one called training_activities. In the upper left corner, under that red dot, you can search for "training" and see just those requests, which is what we're looking for.
 
 {% picture "/images/2017/09/xhr-filtered.png", "" %}
 
@@ -90,7 +91,7 @@ I can only hope that Murphy's Law applies here, and after thoughtfully writing t
 
 ## Updates
 
-This is one of my more popular posts and I've gotten some great comments and suggestions. Here's a sampling! 
+This is one of my more popular posts and I've gotten some great comments and suggestions. Here's a sampling!
 
 <blockquote>Your awesome work and effort in doing this and writing it so that a nube like me is able to follow your steps is greatly appreciated. Now I can statistic the sh*t out of all my workouts. - Tom</blockquote>
 

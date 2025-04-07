@@ -4,8 +4,8 @@ date: "2015-02-12"
 permalink: "running-tips-tools-of-the-trade/"
 hero: "/images/2015/02/IMG_3952.jpg"
 description: "My first foray into running races was in September 2007 at the Rochester Half Marathon. I'd recommend choosing an annual challenge as the most important of these running tips."
-tags: 
-    - commentary
+tags:
+  - commentary
 ---
 
 My first foray into running races was in September 2007 at the Rochester Half Marathon. My wife and I had started choosing an annual fitness challenge, and that was the challenge for 2007. I'd recommend _choosing an annual challenge_ as the most important of these running tips, actually. Since then, my interest in running has increased steadily, becoming fervent in the past few years as I became a running ambassador for my local running store, [Finger Lakes Running & Triathlon Company](http://www.fingerlakesrunningco.com/). It can be tough to set a goal and stick to it, but over the years I’ve used some tools and techniques to help keep me on track. Here’s a list of my running tips!
@@ -61,7 +61,7 @@ How can you stay motivated when you’re in your plan, or if you’re between p
 
 1. Hook up with some group runs at your local running store. You’ll meet some great people.
 2. Volunteer at a local race. Watching other people compete is highly motivating, and they'll be so grateful for your volunteerism!
-3. Participate in [Twitter chats with like-minded runners](/top-twitter-chats-for-runners)
+3. Participate in social media groups with like-minded runners
 4. Post your past bibs and finisher medals in a prominent place. We have a fitness room in our house, and the wall is plastered with race bibs, pictures and medals from my entire family’s fitness exploits. Super motivational!
 5. Check out what your workplace or insurance provider has to offer. For example, my workplace had a fitness challenge last year and gave everyone a pedometer to log their mileage each day. It was cool to track it, and even more cool to win a $25 gift card at the end, since I walked/ran a lot! Oscar Insurance, a [health insurance company in New Jersey](https://www.hioscar.com/faq/new-jersey-health-insurance/) and New York, is giving their members a mobile app and a [Misfit band](http://www.amazon.com/gp/product/B00G9N3I7O/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00G9N3I7O&linkCode=as2&tag=lunchtaker-20&linkId=VMFBLFCIR75JWQUK) to set personal goals: if they meet their goal they get cash rewards. Your insurance company may offer wellness programs and health assessments, so do look around and see what's available!
 

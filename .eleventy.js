@@ -12,7 +12,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("galleryImage", (img) => {
     let resizeType = img.includes(".png") ? "fit" : "smartcrop";
-    return img + "?nf_resize=" + resizeType + "&w=213&h=213";
+    return img + "?nf_resize=" + resizeType + "&w=250&h=250";
   });
 
   eleventyConfig.addFilter("heroImage", (img) => {
@@ -248,7 +248,7 @@ module.exports = function (eleventyConfig) {
     const url = new URL(videoURL);
     const id = url.searchParams.get("v");
     return `
-<iframe class="yt-embed" style="height: 50vw; margin: 1rem 0; max-height: 25rem; width: 100%;" src="https://www.youtube.com/embed/${id}" title="YouTube video player${
+<iframe class="yt-embed" style="height: 50vw; max-height: 25rem;" src="https://www.youtube.com/embed/${id}" title="YouTube video player${
       title ? ` for ${title}` : ""
     }" frameborder="0" allowfullscreen></iframe>
 `;

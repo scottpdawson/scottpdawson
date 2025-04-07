@@ -4,11 +4,11 @@ date: "2015-10-02"
 permalink: "improve-your-backyard-install-a-shade-sail/"
 hero: "/images/2015/10/IMG_4997.jpg"
 description: "We were traveling in Oregon and saw shade sails used in outdoor spaces, and thought, 'why not try to install a shade sail at home?'"
-tags: 
-    - featured
+tags:
+  - popular
 ---
 
-We love to have shade on our back deck, but have gone through more umbrellas than we can count. Whether they disintegrated, fell over in strong wind or were casualties of other outdoor activities, we never kept an umbrella longer than a year. We were traveling in Oregon and saw shade sails used in outdoor spaces, and thought _"why not try to install a shade sail at home?"_ Well, it's easier than you'd think, and quite affordable. At $140 for the materials, it's far cheaper than buying a new umbrella!
+We love to have shade on our back deck, but have gone through more umbrellas than we can count. Whether they disintegrated, fell over in strong wind or were casualties of other outdoor activities, we never kept an umbrella longer than a year. We were traveling in Oregon and saw shade sails used in outdoor spaces, and thought *"why not try to install a shade sail at home?"* Well, it's easier than you'd think, and quite affordable. At $140 for the materials, it's far cheaper than buying a new umbrella!
 
 ## Planning a Location for Your Shade Sail
 

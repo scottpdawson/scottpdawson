@@ -7,16 +7,43 @@ eleventyNavigation:
   order: 1
 ---
 
-Me, in introductory bullet form:
+<div class="columnar">
 
-{% pictureRt "/images/2019/06/cover-ipad-mock-e1561109317865.png", "The Art of Working Remotely" %}
+<div>
 
-- I've been working remotely since 1998 as a [web designer](/design/) and [front-end developer](/develop/). I [wrote a book about remote work](/writing/), created [artofworkingremotely.com](https://artofworkingremotely.com/), and moderate the weekly [#RemoteChat](https://artofworkingremotely.com) on Twitter. I've had the good fortune of having two awesome office pets: First [Snowball](https://www.instagram.com/snowballdawson/), and now [Phoebe](https://www.instagram.com/phoebe.the.bunny/).
-- I write a weekly newsletter at [wanderfull.substack.com](https://wanderfull.substack.com/). It’s all about remote work, drawing daily, and other observations about living in this modern world. Do yourself a favor and subscribe!
-- How many workplaces have _cookie dough_ as a perk? I work ten paces away from my wife Amy's commercial bakery. The [Emoticakes](http://www.emoticakes.com/) kitchen is always cranking out something delicious.
-- I [act](/act/), [play guitar, sing](/music/), [write](/writing/), and [write random stuff](/muse) on this web site. I dabble in illustration and post some things on [dribbble](https://dribbble.com/scottpdawson). I [drew daily in 2016](/365daydraw-challenge-completed), too.
-- I write most often about fitness. If you've raced with me, either running or triathlon, you know that I enjoy writing the post-race report just as much as racing! See my [race schedule](/race-schedule/) for details, and enjoy my [running](/run/), [swimming](/swim/) and [hiking](/hike) posts. I track my workouts on [Strava](https://www.strava.com/athletes/6904418). Amy writes about her fitness exploits at [skirtrunner.com](http://skirtrunner.com/). She's a middle school teacher and built a [pretty comprehensive site for her middle school math classes](https://mathista.org).
-- If you're familiar with upstate New York, you may have heard about Taughannock Falls State Park. Taughannock is the tallest single-drop waterfall east of the Rocky Mountains. I love the park so much, I built a web site about it at [taughannock.us](http://taughannock.us).
+I'm a [web designer](/design/) and [front-end developer](/develop/). I wrote [The Art of Working Remotely](/writing/aowr/), [Handbook for the Modern Worker](writing/handbook), and moderated a weekly #RemoteChat for 5 years. I've had the good fortune of having two awesome office pets: First [Snowball](https://www.instagram.com/snowballdawson/), and now [Phoebe](https://www.instagram.com/phoebe.the.bunny/).
+
+I write a weekly newsletter at [wanderfull.substack.com](https://wanderfull.substack.com/). It’s all about remote work, drawing daily, and other observations about living in this modern world.
+
+I [act](/act/), [play guitar, sing](/music/), [write books](/writing/), and [write random stuff](/muse) on this web site. I [drew daily in 2016](/365daydraw-challenge-completed), too.
+
+Most of my posts are fitness-focused. If you've spent any time with me on trails, road, or in the water, you know that I enjoy writing the post-race report just as much as racing! See my [race schedule](/race-schedule/) for details, and enjoy my [running](/run/), [swimming](/swim/) and [hiking](/hike) posts. I track my workouts on [Strava](https://www.strava.com/athletes/6904418). Amy writes about her fitness exploits at [skirtrunner.com](http://skirtrunner.com/).
+
+If you're familiar with upstate New York, you may know of Taughannock Falls State Park. Taughannock is the tallest single-drop waterfall east of the Rocky Mountains. I love the park so much, I built a web site about it at [taughannock.us](http://taughannock.us).
+
+</div>
+<div>
+
+My most popular posts so far this year are:
+
+<ul class="post-list">
+  {%- for item in collections.all | has_tag("data.tags", "popular") | reverse  -%}
+  {% include '_includes/components/post-teaser-condensed.njk' %}
+  {%- endfor -%}
+</ul>
+
+If were were stuck in an elevator for more than a few minutes, I'd also share these posts with you to pass the time.
+
+<ul class="post-list">
+  {%- for item in collections.all | has_tag("data.tags", "featured") | reverse  -%}
+  {% include '_includes/components/post-teaser-condensed.njk' %}
+  {%- endfor -%}
+</ul>
+
+Want to know more? How about a coffee, virtual or IRL? <a href="/contact/">Contact me</a>.
+
+</div>
+</div>
 
 <h2>Most Recent Posts</h2>
 
@@ -27,13 +54,3 @@ Me, in introductory bullet form:
   {% endif %}
   {%- endfor -%}
 </ul>
-
-If were were stuck in an elevator for more than a few minutes, I'd also share these _featured posts_ with you to pass the time.
-
-<ul class="post-list">
-  {%- for item in collections.all | has_tag("data.tags", "featured") | reverse  -%}
-  {% include '_includes/components/post-teaser-condensed.njk' %}
-  {%- endfor -%}
-</ul>
-
-Want to know more? How about a coffee, virtual or IRL? <a href="/contact/">Contact me</a>.

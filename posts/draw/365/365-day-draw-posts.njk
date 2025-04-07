@@ -1,0 +1,38 @@
+---
+pagination:
+    data: tweets
+    size: 1
+    alias: tweet
+permalink: "draw/{{ tweet.date | slugify }}/"
+---
+
+<h1>
+  {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&lt;</a>{% else %}Previous{% endif %}
+  <a href="/draw">#365DayDraw</a> / 
+  <a href="../">{{tweet.date.split("/")[0] | momentMonthName}}</a> / 
+  {{tweet.date.split("/")[1]}}
+  {% if pagination.href.next %}<a href="{{ pagination.href.next }}">&gt;</a>{% else %}Next{% endif %}
+</h1>
+
+
+<img class="threesixtyfive-day-image" src="/images/draw/365/{{tweet.date}}.gif" style="display: block; margin: 20px auto 0; max-height: 350px" /><br />
+
+<p class="h1-subtitle">&ldquo;{{ tweet.text }}&rdquo;</p>
+
+<p style="text-align: center;"><i>Jump directly to</i>
+<select id="navSelectList">
+{%- for pageEntry in pagination.pages %}
+    <option{% if page.url == pagination.hrefs[ loop.index0 ] %} selected{% endif %} value="{{ pagination.hrefs[ loop.index0 ] }}">{{ pageEntry.date }}</option>
+{%- endfor %}
+</select>
+</p>
+
+<script>
+  document.getElementById("navSelectList").addEventListener("change", function() {
+    const url = this.value;
+    if (url) {
+      window.location.href = url; // Redirect to the selected page
+    }
+  });
+</script>
+

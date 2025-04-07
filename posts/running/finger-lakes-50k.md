@@ -14,7 +14,7 @@ tags:
   - featured
 ---
 
-The night before this race, I tallied the miles I ran since signing up on January 1. I trained 918 miles over 6 months for THIS RACE. [No pressure](https://twitter.com/scottpdawson/status/485194644339560450). I put a lot of pressure on myself, and in various venues, told people that I hoped to win (_really, Scott?_), or at least place in the top 10. In my head, though, my true baseline hopes were simple: finish strong and don't let the wheels fall off.
+The night before this race, I tallied the miles I ran since signing up on January 1. I trained 918 miles over 6 months for THIS RACE. I put a lot of pressure on myself, and in various venues, told people that I hoped to win (_really, Scott?_), or at least place in the top 10. In my head, though, my true baseline hopes were simple: finish strong and don't let the wheels fall off.
 
 ## Race Prep
 

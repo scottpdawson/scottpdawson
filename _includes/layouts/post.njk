@@ -8,22 +8,10 @@ section: post
   <img class="page-hero lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 723 560'%3E%3C/svg%3E" data-src="{{ hero | heroImage }}" alt="Main image for {{ title }}" />
   {% endif %}
 
-  <span class="readingTime">
-    <i class="fas fa-clock" aria-hidden="true"></i> Time to Read: ~{{ content | readingTime }}
-  </span>
-
   {{ content | safe }}
-
-  <div class="relatedTags relatedCoffee">
-    <i class="fas fa-envelope" data-fa-transform="rotate-10"></i> 
-    <h3 style="margin: 0">Subscribe to Wanderfull</h3>
-    <p style="margin: 10px 0px;">Did you enjoy this? Did it help you? Make you laugh? Dare I say, all of the above? If you like my work — my writing, distributed work tips, or drawing, you can get more every week. Subscribe below for my weekly Substack: <a href="https://wanderfull.substack.com/">Wanderfull</a>!</p>
-    <iframe src="https://wanderfull.substack.com/embed" width="345" height="283" style="border-radius: 10px;" frameborder="0" scrolling="no"></iframe>
-  </div>
 
   {% if tags %}
     <div class="relatedTags">
-    <i class="fas fa-tag" data-fa-transform="rotate-115"></i> 
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}

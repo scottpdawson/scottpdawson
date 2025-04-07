@@ -31,11 +31,11 @@ My wife Amy took the first three levels of [Total Immersion](http://www.totalimm
 
 If you haven't seen what Total Immersion swimming looks like, Shane's video shows it best:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/87-3pUntcz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "https://www.youtube.com/watch?v=87-3pUntcz4" %}
 
 ## Total Immersion, by the Week(s)
 
-I think I'll try to write every few weeks to summarize how things are going. Amy was a prolific writer about her swimming, and she got a good laugh when I was _really light_ on the details after my first class. I think gender is at play here (guys, do we really like to share that much, that often?) but also, I think I didn't know quite what to make of it until a few classes in. So, here we go!
+I think I'll try to write every few weeks to summarize how things are going. Amy was a prolific writer about her swimming, and she got a good laugh when I was *really light* on the details after my first class. I think gender is at play here (guys, do we really like to share that much, that often?) but also, I think I didn't know quite what to make of it until a few classes in. So, here we go!
 
 <ul>
 {%- for post in collections.swimPosts -%}

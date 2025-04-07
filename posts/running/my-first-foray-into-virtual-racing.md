@@ -9,7 +9,7 @@ distance: "5 km"
 overall: ""
 agegroup: ""
 tags:
-    - race
+  - race
 ---
 
 If you know me well, you know that I'm an enthusiastic advocate of remote work. I've worked remotely since 1998 and [wrote a book about my experience and advice](http://artofworkingremotely.com/book/). I'm also an avid runner, racing distances from the mile to 50 miles. I share my running stories and routes here and on [Strava](https://www.strava.com/athletes/6904418).
@@ -18,7 +18,7 @@ When [Workplaceless](https://www.workplaceless.com/) and [Cantilever](https://ca
 
 {% picture "/images/2019/11/remote-work-e1573645285912.png", "" %}
 
-I moderate a weekly Twitter chat (#remotechat) for remote workers, too, so helped publicize the race to other remote workers with my [Art of Working Remotely](https://twitter.com/workingrem) account. The race was scheduled for Friday, October 11 shortly after noon, which was perfect. I was no stranger to Zoom calls, having attended numerous Workplaceless events, so I dialed in using my iPhone just before the race started.
+The race was scheduled for Friday, October 11 shortly after noon, which was perfect. I was no stranger to Zoom calls, having attended numerous Workplaceless events, so I dialed in using my iPhone just before the race started.
 
 I had no idea what to expect. I run alone most of the time. As we chatted pre-race, I asked what others planned to do while the race was underway. The event had the potential to have the most heavy breathing I've ever heard on a conference call! Some said they'd leave their cameras on while they ran, some said they'd disconnect and rejoin after their run, and one creative athlete jerry-rigged a camera to his hat so people could see his progress! I opted to stay connected to the call while muting myself, carrying my phone with the camera facing out as I ran. I had to laugh as I ran: my friend Raul, _who had done the 5k as a_ **_SWIM_** _(totally badass) the prior evening,_ commented that the Zoom video looked like an episode of Cops. Here we were, some with cameras on, shakily making our way to the 3.1 mile mark.
 

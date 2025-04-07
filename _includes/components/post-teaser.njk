@@ -1,5 +1,9 @@
-<li class="lazy" onClick="location.href='{{ item.url }}'" {% if (item.data.hero) %}style="background-image: url({{ item.data.hero | galleryImage }})"{% endif %}>  
-  <p class="date">{{ item.date | momentDate }}</p>
-  <h2><a href="{{ item.url }}">{{ item.data.title | safe }}</a></h2>
-  <div class="post-desc">{{ item.data.description | safe }}</div>
+<li class="lazy" onClick="location.href='{{ item.url }}'">
+  {%- if (item.data.hero) -%}
+    <div class="post-image"><img class="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 723 560'%3E%3C/svg%3E" data-src="{{ item.data.hero | galleryImage }}" alt="Main image for {{ item.data.title }}" /></div>
+  {%- endif -%}
+  <div class="card-contents">
+  <a href="{{ item.url }}">{{ item.data.title | safe }}</a>
+  <div class="post-desc"><i>{{ item.date | momentDate }}</i> – {{ item.data.description | safe }}</div>
+  </div>
 </li>

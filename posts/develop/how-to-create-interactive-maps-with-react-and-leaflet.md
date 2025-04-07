@@ -4,11 +4,11 @@ date: "2020-05-28"
 permalink: "how-to-create-interactive-maps-with-react-and-leaflet/"
 hero: "/images/develop/ski-resort-finder.jpg"
 description: "After being dedicated mountain pass holders, then Ikon pass holders, then nomads purchasing advance tickets, I thought it'd be cool to create a map-based way of discovering new ski resorts."
-tags: 
-    - leaflet
-    - maps
-    - react
-    - featured
+tags:
+  - leaflet
+  - maps
+  - react
+  - popular
 ---
 
 My family is chock full of avid skiers. We put our two kids through ski racing programs, and now they can ski pretty much anything we throw at them. After being dedicated mountain pass holders, then Ikon pass holders, then nomads purchasing advance tickets, I thought it'd be cool to create a map-based way of discovering new ski resorts. It'd be a cool way to visualize where they were, and whether they were included in popular pass programs like Ikon and Epic.
@@ -58,7 +58,7 @@ I made an early mistake where I was creating a Popup for each resort on the map.
 
 ## Deploying the App to Netlify
 
-The last step was pretty simple, actually. I deployed the application via Netlify using [these instructions](https://medium.com/@thevatsalsaglani/working-with-firebase-real-time-database-using-reactjs-and-uikit-and-launching-to-netlify-ff92419289b2) (see point 6). This was my first experience with Netlify, and it was really smooth. I also wanted to make sure that I hid my Firebase API key, and Netlify made that easy, too. I updated my code per [this article's advice on hiding API keys in React .env files](https://medium.com/better-programming/how-to-hide-your-api-keys-c2b952bc07e6). Then, in Netlify, I set my REACT\_APP\_FIREBASE\_API\_KEY as an environment variable. Now, whenever I push a code update to GitHub, Netlify automatically picks up the change, builds the project, and deploys it.
+The last step was pretty simple, actually. I deployed the application via Netlify using [these instructions](https://medium.com/@thevatsalsaglani/working-with-firebase-real-time-database-using-reactjs-and-uikit-and-launching-to-netlify-ff92419289b2) (see point 6). This was my first experience with Netlify, and it was really smooth. I also wanted to make sure that I hid my Firebase API key, and Netlify made that easy, too. I updated my code per [this article's advice on hiding API keys in React .env files](https://medium.com/better-programming/how-to-hide-your-api-keys-c2b952bc07e6). Then, in Netlify, I set my REACT_APP_FIREBASE_API_KEY as an environment variable. Now, whenever I push a code update to GitHub, Netlify automatically picks up the change, builds the project, and deploys it.
 
 ## Recap & Links
 

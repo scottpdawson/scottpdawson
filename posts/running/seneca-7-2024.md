@@ -61,7 +61,7 @@ Jackie and Mark (the studio owners) made us all t-shirts, too: Run Today, YogOdy
 
 I made a compilation video of some of our transitions and our finish. Amy had been nursing an ab strain but a PT assured her she’d be okay for the race. So, Ian Golden shouted out props to her at the end! This was a really fun group to run this race with, so I'm confident there'll be another YogOdyssey team in the future!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/6hUXvLpguaw?si=PP3xqYB4sHu9Rzp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtube "https://www.youtube.com/watch?v=6hUXvLpguaw" %}
 
 ## By the Numbers
 

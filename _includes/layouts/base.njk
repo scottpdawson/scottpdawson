@@ -2,50 +2,22 @@
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 	{% include "components/head.njk" %}
 	<body>
-		<div class="sidebar">
-			<header>
-				<div class="solid-header">
-					{% include "components/nav.njk" %}
-					{% include "components/search.njk" %}
+		<header>
+			<div class="solid-header">
+				{% include "components/nav.njk" %}
+				{% include "components/search.njk" %}
+				<div class="page-details">
+					<h1>{{ title }}</h1>
 					{% if date %}
 						<p class="by-line">{{ date | momentDate }}</p>
 					{% endif %}
-					<div class="page-details">
-						<div class="h1caret"></div>
-						<h1>{{ title }}</h1>
-						{% if tags %}
-							<p class="tags">
-							{% for tag in tags %}
-								{% if tag !== "post" %}
-									{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-									<a href="{{ tagUrl | url }}" rel="tag">#{{ tag }}</a>
-								{% endif %}
-							{% endfor %}
-							</p>
-						{% endif %}
-					</div>
 				</div>
-			</header>
-		</div>
-		<div class="main">
-			<div class="container">
-				<main>
-					{{ content | safe }}
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<!-- Horizontal Footer -->
-					<ins class="adsbygoogle"
-						style="display:block"
-						data-ad-client="ca-pub-5132545708804858"
-						data-ad-slot="1837312775"
-						data-ad-format="auto"
-						data-full-width-responsive="true"></ins>
-					<script>
-						(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-				</main>
 			</div>
-			{% include "components/footer.njk" %}
-		</div>
+		</header>
+		<main>
+			{{ content | safe }}
+		</main>
+		{% include "components/footer.njk" %}
 		<div class="lightbox">
 			<div class="title"></div>
 			<div class="filter"></div>

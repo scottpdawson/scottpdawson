@@ -34,18 +34,18 @@ I finished writing my debut fiction novel, **Undo**, in September 2021. It's cur
 
 My **#365DayDraw** project had a writing component. Each month, I wrote a story to accompany the winning drawing, as chosen on social media. The collection of twelve stories was improvised over a year, informed by my sketches.
 
-- [January: Headwall](https://365daydraw.netlify.app/1/story)
-- [February: Darkness](https://365daydraw.netlify.app/2/story)
-- [March: Illumination](https://365daydraw.netlify.app/3/story)
-- [April: Pasta No More](https://365daydraw.netlify.app/4/story)
-- [May: School of Thought](https://365daydraw.netlify.app/5/story)
-- [June: Lila Jane](https://365daydraw.netlify.app/6/story)
-- [July: The Picnic](https://365daydraw.netlify.app/7/story)
-- [August: Maternal Me](https://365daydraw.netlify.app/8/story)
-- [September: Awakening](https://365daydraw.netlify.app/9/story)
-- [October: Samuel](https://365daydraw.netlify.app/10/story)
-- [November: The Big Vote](https://365daydraw.netlify.app/11/story)
-- [December: Sweet Dreams](https://365daydraw.netlify.app/12/story)
+- [January: Headwall](/draw/1)
+- [February: Darkness](/draw/2)
+- [March: Illumination](/draw/3)
+- [April: Pasta No More](/draw/4)
+- [May: School of Thought](/draw/5)
+- [June: Lila Jane](/draw/6)
+- [July: The Picnic](/draw/7)
+- [August: Maternal Me](/draw/8)
+- [September: Awakening](/draw/9)
+- [October: Samuel](/draw/10)
+- [November: The Big Vote](/draw/11)
+- [December: Sweet Dreams](/draw/12)
 
 ## Other Writing
 

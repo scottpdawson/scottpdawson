@@ -6,7 +6,7 @@ hero: "/images/2017/01/killington_world_cup_stands.jpg"
 description: "The Killington World Cup race would be a relatively short drive for us, between 5 and 6 hours, and a chance for the kids to see some of the icons of their sport."
 ---
 
-It was a nice summer morning on June 28th when I saw the news hit Twitter. Killington would host the first World Cup ski race in the East in 25 years! I dashed a quick note off to Amy, knowing that we’d make this happen if we could. The Killington World Cup race would be a relatively short drive for us, between 5 and 6 hours, and the chance for the kids to see some of the icons of their sport? Well, that would not be something to miss.
+It was a nice summer morning on June 28th when I saw the news hit. Killington would host the first World Cup ski race in the East in 25 years! I dashed a quick note off to Amy, knowing that we’d make this happen if we could. The Killington World Cup race would be a relatively short drive for us, between 5 and 6 hours, and the chance for the kids to see some of the icons of their sport? Well, that would not be something to miss.
 
 ## The Beginning of Our Ski Racing
 

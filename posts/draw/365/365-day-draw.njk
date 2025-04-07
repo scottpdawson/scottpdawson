@@ -1,0 +1,19 @@
+---
+permalink: "draw/"
+---
+
+<h1>#365DayDraw</h1>
+
+<p>January 1, 2016. I picked up a flair pen and drew a <a href="/draw/1/1">cupcake</a> in a seldom-used pad with the form factor of a detective’s notebook. I thought it was kind of cool, and thumbed through the remainder of pages in the pad. <i>All blank</i>. In my office, I had two more refill pads. What if I drew something, anything, each day of the year? Certainly, that could evolve into something interesting.</p>
+
+<p>This is the result of that something. Each month people helped choose the winning drawing, which in turn inspired a story. Enjoy the drawings, the stories, and the inspiration!</p>
+
+<ul class="year-month-block l-grid post-grid">
+{% for story in stories %}
+  <a href="/draw/{{ story.month }}/">
+  <li style="background-image: url(/images/draw/365/{{story.month}}/{{story.image}})">
+    <span class="date">{{ story.month_name }}</date>
+  </li>
+  </a>
+{% endfor %}
+</ul>

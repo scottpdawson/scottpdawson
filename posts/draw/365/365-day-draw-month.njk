@@ -1,0 +1,28 @@
+---
+pagination:
+    data: stories
+    size: 1
+    alias: story
+permalink: "draw/{{ story.month }}/"
+---
+
+<h1><a href="/draw">#365DayDraw</a> / {{story.month_name}}</h1>
+
+{% picture "/images/draw/365/" + story.month + "/" + story.image, story.image_alt %}
+
+<h2>{{story.title}}</h2>
+
+{{story.story | safe}}
+
+<ul class="year-month-block l-grid post-grid">
+{% for tweet in tweets %}
+{% if tweet.date.split("/")[0]*1 === story.month %}
+  <a href="/draw/{{ tweet.date | slugify }}/">
+  <li {% if tweet.winner %} class="winner"{% endif %} style="background-image: url(/images/draw/365/{{tweet.date}}.gif)">
+    <span class="date">{{ tweet.date }}</date>
+  </li>
+  </a>
+{% endif %}
+{% endfor %}
+</ul>
+

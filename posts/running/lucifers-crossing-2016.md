@@ -23,7 +23,7 @@ I had an 18-mile training run the day prior, but my legs were feeling pretty goo
 
 As always, I enjoyed the downhill single-track sections, and someone did a fantastic job with a brush hog keeping vegetation away from the trail margins. I watched the remaining distance tick down on my watch, and was grateful to make the final pitch down to the campground area for the finish, some much-needed water (I carried about 12 ounces with me and used it all) and some delicious watermelon.
 
-All in all, a fantastic day on the trails courtesy of [Red Newt Racing](http://rednewtracing.com/)! I came in 7th out of 117 with a 1:00:08. After getting back home, having a copious amount of coffee and watching the replay of the women's triathlon in Rio (amazing ...), I drew [this gem](https://twitter.com/scottpdawson/status/767447300641808384) as part of my [#365DayDraw project](/365-day-draw-sketching-each-day-in-2016/). Seems I was influenced just a *bit* by the race's title.
+All in all, a fantastic day on the trails courtesy of [Red Newt Racing](http://rednewtracing.com/)! I came in 7th out of 117 with a 1:00:08.
 
 ## GPS Track
 

@@ -9,7 +9,7 @@ tags:
   - angular
 ---
 
-I have been posting links to things I find useful on Twitter, and one lately was [bounce.js](https://github.com/tictail/bounce.js). A [follower challenged me](https://twitter.com/runxc1/status/664571808578867200) to think about whether it could be integrated with [angular.js](https://angularjs.org/). I use Angular at my day job, but had not integrated an animation library with it. Of course, "integration" is a term open to interpretation.
+I have been posting links to things I find useful, and one lately was [bounce.js](https://github.com/tictail/bounce.js). A follower challenged me to think about whether it could be integrated with [angular.js](https://angularjs.org/). I use Angular at my day job, but had not integrated an animation library with it. Of course, "integration" is a term open to interpretation.
 
 So, my goal was to integrate bounce.js with Angular.js, in particular, with ng-show directives. When I want to show or hide an element in Angular, I use a Boolean scope variable or an expression in conjunction with ng-show or ng-hide. Rather than set this scope variable directly with ng-click (for instance, on the buttons in my example), I can instead call a function that applies the animation in _conjunction_ with this scope parameter change.
 

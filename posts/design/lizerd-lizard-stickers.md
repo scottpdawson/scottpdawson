@@ -7,7 +7,7 @@ navigation: "Design"
 description: "These stickers are my first foray into the world of illustration. I've had Adobe Illustrator on my desktop for some time, but only recently started to put it to use."
 author: "Scott Dawson"
 tags:
-    - stickers
+  - stickers
 ---
 
 These stickers are my first foray into the world of illustration. I've had Adobe Illustrator on my desktop for some time, but only recently started to put it to use. I was massively inspired by [Von Glitschka](https://twitter.com/Vonster)'s lynda.com course titled "[Drawing Vector Graphics](http://www.lynda.com/Illustrator-tutorials/Drawing-Vector-Graphics/109450-2.html)". It was both a practicum in how to set up my Illustrator program for maximum productivity, but also in identifying the process of going from concept to reality with your illustrations.
@@ -28,6 +28,4 @@ I had a lot of fun in Illustrator getting the paths right, and then working with
 
 ## Step 3: Order
 
-I decided to get a variety of sticker sizes for my daughter to use. [stickermule.com](http://stickermule.com) was terrific, both with composing sticker sheets that had different sizes, and with a nice quality product!
-
-You can find more of my illustrations over at [dribbble.com/scottpdawson](https://dribbble.com/scottpdawson)
+I decided to get a variety of sticker sizes for my daughter to use.

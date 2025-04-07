@@ -19,7 +19,7 @@ This winter’s [MITHICAL Milers](https://www.strava.com/clubs/mithacal-milers) 
 
 ## What to Wear?
 
-The key problem was going to be the weather. The temperature was forecasted to be about ten degrees colder than I’d like. It’d hover right around freezing for the entire distance! What should I wear? Tights could overheat. Shorts could be too cold, especially if it wasn’t sunny. I need up choosing shorts and my favorite NYC Marathon long-sleeved tech shirt. A hat and sunglasses completed the ensemble nicely, since the course was not sheltered and wind and snow could be an issue for visibility. I was really nervous, too. Race mornings can be hit or miss for me, but I was feeling particularly bad this morning, [bad enough to tweet about it](https://twitter.com/scottpdawson/status/982933394878271488).
+The key problem was going to be the weather. The temperature was forecasted to be about ten degrees colder than I’d like. It’d hover right around freezing for the entire distance! What should I wear? Tights could overheat. Shorts could be too cold, especially if it wasn’t sunny. I need up choosing shorts and my favorite NYC Marathon long-sleeved tech shirt. A hat and sunglasses completed the ensemble nicely, since the course was not sheltered and wind and snow could be an issue for visibility. I was really nervous, too. Race mornings can be hit or miss for me, but I was feeling particularly bad this morning.
 
 ## Getting Ready in Cornell's Barton Hall
 

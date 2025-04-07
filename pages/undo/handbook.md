@@ -19,7 +19,7 @@ On January 1, 2021, I set a goal to write 365 practical and unique tips about th
 
 > I'll be publishing a helpful work or life-related tip every day in 2021. By the end of the year, it should be rather impressive to look back at 365 (hopefully inspiring) pieces of advice. They'll be related in some way to success at work or life, with a distinct leaning toward thriving in a distributed workplace. The very first one is directly related to this goal. It's all about taking that first, crucial step, no matter your goal.
 
-I posted tips on Twitter and LinkedIn every day. Before January was up, I doubled my cadence: for every daily tip I wrote, I wrote one for later in the year. Some tips are from my book and others are new, garnered from my own experiences over the last few years. The tips will help you level up your working game, regardless of where, when, or how you do it. On July 19, my list met in the middle of my spreadsheet. Mission accomplished!
+I posted tips on LinkedIn every day. Before January was up, I doubled my cadence: for every daily tip I wrote, I wrote one for later in the year. Some tips are from my book and others are new, garnered from my own experiences over the last few years. The tips will help you level up your working game, regardless of where, when, or how you do it. On July 19, my list met in the middle of my spreadsheet. Mission accomplished!
 
 ## From the Author
 

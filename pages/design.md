@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 2
 ---
 
-<p class="page-hed"><em>I love art and design.</em> Whether analog or digital, on a screen or in the real world, there's something magical about creating something that others can see, react to, and experience. I post on <a href="https://dribbble.com/scottpdawson">dribbble</a> from time to time.</p>
+<p class="page-hed"><em>I love art and design.</em> Whether analog or digital, on a screen or in the real world, there's something magical about creating something that others can see, react to, and experience.</p>
 
 <ul class="l-grid post-grid">
   {%- for item in collections.designPosts | reverse  -%}

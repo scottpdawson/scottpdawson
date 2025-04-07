@@ -6,7 +6,7 @@ hero: "/images/swimming/total-immersion-level-2.png"
 description: "When I saw that Shane was offering a Level 2 class starting shortly after the New Year, I double-checked our calendar, figured out how it would work schedule-wise, and signed up!"
 ---
 
-I swam in the pool twice in the two weeks that followed my [last Level 1 class](/swimming/total-immersion-level-1-4th-quarter/) on November 3 last year. Then, without any kind of plan in place, I unconsciously took a break from making time for swimming and continuing to put into practice everything I'd learned. So, when I saw that Shane was offering a Level 2 class starting shortly after the New Year, I double-checked our calendar, figured out how it would work schedule-wise, and signed up! I'll write about my Session 2 on this page, adding to it with each revelation (or frustrating lack thereof). Let's swim!
+I swam in the pool twice in the two weeks that followed my [last Level 1 class](/total-immersion-level-1-4th-quarter/) on November 3 last year. Then, without any kind of plan in place, I unconsciously took a break from making time for swimming and continuing to put into practice everything I'd learned. So, when I saw that Shane was offering a Level 2 class starting shortly after the New Year, I double-checked our calendar, figured out how it would work schedule-wise, and signed up! I'll write about my Session 2 on this page, adding to it with each revelation (or frustrating lack thereof). Let's swim!
 
 ## January 4 - Class 1
 
@@ -56,7 +56,7 @@ This period of self-discovery continues. After going through some warm-up drills
 
 There were just four of us for this class, which I understand from Amy happened to her in the depths of winter. Schedules and weather conspire to keep some of us away, as it did me last week. I was encouraged by my practice, though, and enjoyed this session, right up until Shane introduced the grip/press. Oh no! Something new would surely have my house of cards come tumbling down. I'll save the lengthy discourse of what this new focus called for, but we drilled on it for the last half of the class. The goal was to get your forearm vertical, and use your shoulder to press your vertical forearm back until it won't be vertical any longer. Here's a slow-motion drill of Sun Yang doing this technique:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XvM3JYC--hM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "https://www.youtube.com/watch?v=XvM3JYC--hM" %}
 
 Pause Drill (Pause-to-Get-a-Grip), and then Pause-to-Get-a-Grip-with-Fist. Have you ever swam with your fists clenched? I managed to continue forward motion, but how frustrating, and how much more difficult to get my breath! It's important to get this, but it's also subtle, and I'm sure practicing this in the coming weeks will prove to be a bit difficult. Bring it on!
 

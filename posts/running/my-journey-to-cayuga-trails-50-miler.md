@@ -5,8 +5,8 @@ permalink: "my-journey-to-cayuga-trails-50-miler/"
 hero: "/images/2015/01/frozen-runner-taughannock.jpg"
 description: "In just 20 weeks I'll toe the line at my first 50-mile trail race. I'm getting ready now, and I took that single step out my door today after a few weeks of off-plan cross-training."
 tags:
-    - ultra
-    - cayuga trails
+  - ultra
+  - cayuga trails
 ---
 
 > The journey of a thousand miles begins with a single step. ― Lao Tzu
@@ -19,5 +19,4 @@ I hope you're join me in following along, motivating me, keeping me honest with
 
 ## Won't you follow me?
 
-- Follow me on [Twitter](https://twitter.com/scottpdawson)
 - See my workouts on [Strava](http://www.strava.com/athletes/6904418)
