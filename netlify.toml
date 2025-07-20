@@ -14,7 +14,7 @@
 [[redirects]]
 from = "/how-to-automatically-create-google-calendar-events-from-google-sheet"
 to = "https://scottpdawson.substack.com/p/how-to-automatically-create-google-calendar-events-from-google-sheet"
-status = 301
+status = 301!
 
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302
