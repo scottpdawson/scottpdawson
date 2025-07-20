@@ -7,6 +7,7 @@ description: "If you need to automatically create Google Calendar events from da
 tags:
   - google sheets
   - google calendar
+  - moved to substack
 ---
 
 I'm writing this up after doing a more complex integration of a Google Sheet with Google Calendar. My wife's bakery has an online order form that submits to a Google Sheet. From there, I needed a way to get the orders into her Google Calendar without manual intervention. If you need to automatically create Google Calendar events from data in a Google Sheet, this pared-down example should work well for you.
